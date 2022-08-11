@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="predioMov" targetNamespace="http://tempuri.org/predioMov.xsd" xmlns:mstns="http://tempuri.org/predioMov.xsd" xmlns="http://tempuri.org/predioMov.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Web.config" AppSettingsPropertyName="connectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="connectionString (Web.config)" ParameterPrefix="@" PropertyReference="AppConfig.System.Configuration.ConfigurationManager.0.ConnectionStrings.connectionString.ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="vPredioMovimientoTableAdapter" GeneratorDataComponentClassName="vPredioMovimientoTableAdapter" Name="vPredioMovimiento" UserDataComponentName="vPredioMovimientoTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="connectionString (Web.config)" DbObjectName="PredialY.dbo.vPredioMovimiento" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Clave_Catastral, ClaveNumerica, Nombre_Propietario, Domicilio_Predio, Domicilio_Notificacion, Localidad, Movimiento_Hecho, Superficie_Terreno, Valor_Terreno, Superficie_Construccion, Valor_Construccion, Fecha_Avaluo, fecha_alta, Fecha_Notificacion, Base_Gravable, Observaciones, FechaMov, Recibo, Importe_Pagado, Origen, IdPredio, IdColonia, IdFraccionamiento, IdTipoPredio FROM dbo.vPredioMovimiento</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Clave_Catastral" DataSetColumn="Clave_Catastral" />
+              <Mapping SourceColumn="ClaveNumerica" DataSetColumn="ClaveNumerica" />
+              <Mapping SourceColumn="Nombre_Propietario" DataSetColumn="Nombre_Propietario" />
+              <Mapping SourceColumn="Domicilio_Predio" DataSetColumn="Domicilio_Predio" />
+              <Mapping SourceColumn="Domicilio_Notificacion" DataSetColumn="Domicilio_Notificacion" />
+              <Mapping SourceColumn="Localidad" DataSetColumn="Localidad" />
+              <Mapping SourceColumn="Movimiento_Hecho" DataSetColumn="Movimiento_Hecho" />
+              <Mapping SourceColumn="Superficie_Terreno" DataSetColumn="Superficie_Terreno" />
+              <Mapping SourceColumn="Valor_Terreno" DataSetColumn="Valor_Terreno" />
+              <Mapping SourceColumn="Superficie_Construccion" DataSetColumn="Superficie_Construccion" />
+              <Mapping SourceColumn="Valor_Construccion" DataSetColumn="Valor_Construccion" />
+              <Mapping SourceColumn="Fecha_Avaluo" DataSetColumn="Fecha_Avaluo" />
+              <Mapping SourceColumn="fecha_alta" DataSetColumn="fecha_alta" />
+              <Mapping SourceColumn="Fecha_Notificacion" DataSetColumn="Fecha_Notificacion" />
+              <Mapping SourceColumn="Base_Gravable" DataSetColumn="Base_Gravable" />
+              <Mapping SourceColumn="Observaciones" DataSetColumn="Observaciones" />
+              <Mapping SourceColumn="FechaMov" DataSetColumn="FechaMov" />
+              <Mapping SourceColumn="Recibo" DataSetColumn="Recibo" />
+              <Mapping SourceColumn="Importe_Pagado" DataSetColumn="Importe_Pagado" />
+              <Mapping SourceColumn="Origen" DataSetColumn="Origen" />
+              <Mapping SourceColumn="IdPredio" DataSetColumn="IdPredio" />
+              <Mapping SourceColumn="IdColonia" DataSetColumn="IdColonia" />
+              <Mapping SourceColumn="IdFraccionamiento" DataSetColumn="IdFraccionamiento" />
+              <Mapping SourceColumn="IdTipoPredio" DataSetColumn="IdTipoPredio" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="predioMov" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="predioMov" msprop:Generator_UserDSName="predioMov">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="vPredioMovimiento" msprop:Generator_TableClassName="vPredioMovimientoDataTable" msprop:Generator_TableVarName="tablevPredioMovimiento" msprop:Generator_TablePropName="vPredioMovimiento" msprop:Generator_RowDeletingName="vPredioMovimientoRowDeleting" msprop:Generator_RowChangingName="vPredioMovimientoRowChanging" msprop:Generator_RowEvHandlerName="vPredioMovimientoRowChangeEventHandler" msprop:Generator_RowDeletedName="vPredioMovimientoRowDeleted" msprop:Generator_UserTableName="vPredioMovimiento" msprop:Generator_RowChangedName="vPredioMovimientoRowChanged" msprop:Generator_RowEvArgName="vPredioMovimientoRowChangeEvent" msprop:Generator_RowClassName="vPredioMovimientoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Clave_Catastral" msprop:Generator_ColumnVarNameInTable="columnClave_Catastral" msprop:Generator_ColumnPropNameInRow="Clave_Catastral" msprop:Generator_ColumnPropNameInTable="Clave_CatastralColumn" msprop:Generator_UserColumnName="Clave_Catastral" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ClaveNumerica" msprop:Generator_ColumnVarNameInTable="columnClaveNumerica" msprop:Generator_ColumnPropNameInRow="ClaveNumerica" msprop:Generator_ColumnPropNameInTable="ClaveNumericaColumn" msprop:Generator_UserColumnName="ClaveNumerica" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Nombre_Propietario" msprop:Generator_ColumnVarNameInTable="columnNombre_Propietario" msprop:Generator_ColumnPropNameInRow="Nombre_Propietario" msprop:Generator_ColumnPropNameInTable="Nombre_PropietarioColumn" msprop:Generator_UserColumnName="Nombre_Propietario" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="302" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Domicilio_Predio" msprop:Generator_ColumnVarNameInTable="columnDomicilio_Predio" msprop:Generator_ColumnPropNameInRow="Domicilio_Predio" msprop:Generator_ColumnPropNameInTable="Domicilio_PredioColumn" msprop:Generator_UserColumnName="Domicilio_Predio" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="432" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Domicilio_Notificacion" msprop:Generator_ColumnVarNameInTable="columnDomicilio_Notificacion" msprop:Generator_ColumnPropNameInRow="Domicilio_Notificacion" msprop:Generator_ColumnPropNameInTable="Domicilio_NotificacionColumn" msprop:Generator_UserColumnName="Domicilio_Notificacion">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="281" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Localidad" msprop:Generator_ColumnVarNameInTable="columnLocalidad" msprop:Generator_ColumnPropNameInRow="Localidad" msprop:Generator_ColumnPropNameInTable="LocalidadColumn" msprop:Generator_UserColumnName="Localidad">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="80" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Movimiento_Hecho" msprop:Generator_ColumnVarNameInTable="columnMovimiento_Hecho" msprop:Generator_ColumnPropNameInRow="Movimiento_Hecho" msprop:Generator_ColumnPropNameInTable="Movimiento_HechoColumn" msprop:Generator_UserColumnName="Movimiento_Hecho">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Superficie_Terreno" msprop:Generator_ColumnVarNameInTable="columnSuperficie_Terreno" msprop:Generator_ColumnPropNameInRow="Superficie_Terreno" msprop:Generator_ColumnPropNameInTable="Superficie_TerrenoColumn" msprop:Generator_UserColumnName="Superficie_Terreno" type="xs:double" minOccurs="0" />
+              <xs:element name="Valor_Terreno" msprop:Generator_ColumnVarNameInTable="columnValor_Terreno" msprop:Generator_ColumnPropNameInRow="Valor_Terreno" msprop:Generator_ColumnPropNameInTable="Valor_TerrenoColumn" msprop:Generator_UserColumnName="Valor_Terreno" type="xs:double" minOccurs="0" />
+              <xs:element name="Superficie_Construccion" msprop:Generator_ColumnVarNameInTable="columnSuperficie_Construccion" msprop:Generator_ColumnPropNameInRow="Superficie_Construccion" msprop:Generator_ColumnPropNameInTable="Superficie_ConstruccionColumn" msprop:Generator_UserColumnName="Superficie_Construccion" type="xs:double" minOccurs="0" />
+              <xs:element name="Valor_Construccion" msprop:Generator_ColumnVarNameInTable="columnValor_Construccion" msprop:Generator_ColumnPropNameInRow="Valor_Construccion" msprop:Generator_ColumnPropNameInTable="Valor_ConstruccionColumn" msprop:Generator_UserColumnName="Valor_Construccion" type="xs:double" />
+              <xs:element name="Fecha_Avaluo" msprop:Generator_ColumnVarNameInTable="columnFecha_Avaluo" msprop:Generator_ColumnPropNameInRow="Fecha_Avaluo" msprop:Generator_ColumnPropNameInTable="Fecha_AvaluoColumn" msprop:Generator_UserColumnName="Fecha_Avaluo" type="xs:dateTime" />
+              <xs:element name="fecha_alta" msprop:Generator_ColumnVarNameInTable="columnfecha_alta" msprop:Generator_ColumnPropNameInRow="fecha_alta" msprop:Generator_ColumnPropNameInTable="fecha_altaColumn" msprop:Generator_UserColumnName="fecha_alta" type="xs:dateTime" />
+              <xs:element name="Fecha_Notificacion" msprop:Generator_ColumnVarNameInTable="columnFecha_Notificacion" msprop:Generator_ColumnPropNameInRow="Fecha_Notificacion" msprop:Generator_ColumnPropNameInTable="Fecha_NotificacionColumn" msprop:Generator_UserColumnName="Fecha_Notificacion" type="xs:dateTime" />
+              <xs:element name="Base_Gravable" msprop:Generator_ColumnVarNameInTable="columnBase_Gravable" msprop:Generator_ColumnPropNameInRow="Base_Gravable" msprop:Generator_ColumnPropNameInTable="Base_GravableColumn" msprop:Generator_UserColumnName="Base_Gravable" type="xs:double" />
+              <xs:element name="Observaciones" msprop:Generator_ColumnVarNameInTable="columnObservaciones" msprop:Generator_ColumnPropNameInRow="Observaciones" msprop:Generator_ColumnPropNameInTable="ObservacionesColumn" msprop:Generator_UserColumnName="Observaciones">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="FechaMov" msprop:Generator_ColumnVarNameInTable="columnFechaMov" msprop:Generator_ColumnPropNameInRow="FechaMov" msprop:Generator_ColumnPropNameInTable="FechaMovColumn" msprop:Generator_UserColumnName="FechaMov" type="xs:dateTime" />
+              <xs:element name="Recibo" msprop:Generator_ColumnVarNameInTable="columnRecibo" msprop:Generator_ColumnPropNameInRow="Recibo" msprop:Generator_ColumnPropNameInTable="ReciboColumn" msprop:Generator_UserColumnName="Recibo" type="xs:int" />
+              <xs:element name="Importe_Pagado" msprop:Generator_ColumnVarNameInTable="columnImporte_Pagado" msprop:Generator_ColumnPropNameInRow="Importe_Pagado" msprop:Generator_ColumnPropNameInTable="Importe_PagadoColumn" msprop:Generator_UserColumnName="Importe_Pagado" type="xs:decimal" />
+              <xs:element name="Origen" msprop:Generator_ColumnVarNameInTable="columnOrigen" msprop:Generator_ColumnPropNameInRow="Origen" msprop:Generator_ColumnPropNameInTable="OrigenColumn" msprop:Generator_UserColumnName="Origen">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="7" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IdPredio" msprop:Generator_ColumnVarNameInTable="columnIdPredio" msprop:Generator_ColumnPropNameInRow="IdPredio" msprop:Generator_ColumnPropNameInTable="IdPredioColumn" msprop:Generator_UserColumnName="IdPredio" type="xs:int" />
+              <xs:element name="IdColonia" msprop:Generator_ColumnVarNameInTable="columnIdColonia" msprop:Generator_ColumnPropNameInRow="IdColonia" msprop:Generator_ColumnPropNameInTable="IdColoniaColumn" msprop:Generator_UserColumnName="IdColonia" type="xs:int" />
+              <xs:element name="IdFraccionamiento" msprop:Generator_ColumnVarNameInTable="columnIdFraccionamiento" msprop:Generator_ColumnPropNameInRow="IdFraccionamiento" msprop:Generator_ColumnPropNameInTable="IdFraccionamientoColumn" msprop:Generator_UserColumnName="IdFraccionamiento" type="xs:int" />
+              <xs:element name="IdTipoPredio" msprop:Generator_ColumnVarNameInTable="columnIdTipoPredio" msprop:Generator_ColumnPropNameInRow="IdTipoPredio" msprop:Generator_ColumnPropNameInTable="IdTipoPredioColumn" msprop:Generator_UserColumnName="IdTipoPredio" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

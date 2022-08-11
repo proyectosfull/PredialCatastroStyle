@@ -1,0 +1,39 @@
+**************************
+Fecha Hora de la insercion del recibo: 25/06/2022 02:52:49 p. m.
+IdPredio=37510
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/06/2022 03:37:53 p. m.
+idtramite=103269
+Contribuyente=QUINTERO TELLEZ ALEJANDRA 
+DatosPredio=Clave Catastral: 1200-09-225-016     Tipo predio: URBANO     Super. Terreno: 53m2.     Super. Const.: 50m2.    Base gravable: $578000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/06/2022 04:57:15 p. m.
+IdPredio=40998
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/06/2022 05:23:30 p. m.
+idtramite=103270
+Contribuyente=SANCHEZ GALVAN BLANCA ESTELA 
+DatosPredio=Clave Catastral: 1200-09-225-040     Tipo predio: URBANO     Super. Terreno: 66m2.     Super. Const.: 50m2.    Base gravable: $605000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/06/2022 05:25:22 p. m.
+IdPredio=31454
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/06/2022 05:26:39 p. m.
+idtramite=103271
+Contribuyente=SILVA DURAN CONCEPCION 
+DatosPredio=Clave Catastral: 1200-03-291-003     Tipo predio: URBANO     Super. Terreno: 56m2.     Super. Const.: 49m2.    Base gravable: $515100
+**************************

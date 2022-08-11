@@ -1,0 +1,1162 @@
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:43 a. m.
+IdPredio=46233
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:43 a. m.
+IdPredio=46234
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:43 a. m.
+IdPredio=46235
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:43 a. m.
+IdPredio=46236
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:43 a. m.
+IdPredio=46237
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:43 a. m.
+IdPredio=46238
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:43 a. m.
+IdPredio=46239
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:43 a. m.
+IdPredio=46240
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:44 a. m.
+IdPredio=46241
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:44 a. m.
+IdPredio=46242
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:44 a. m.
+IdPredio=46243
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:44 a. m.
+IdPredio=46244
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:44 a. m.
+IdPredio=46245
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:44 a. m.
+IdPredio=46246
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:44 a. m.
+IdPredio=46247
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:44 a. m.
+IdPredio=46248
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:44 a. m.
+IdPredio=46249
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:44 a. m.
+IdPredio=46250
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:44 a. m.
+IdPredio=46251
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:44 a. m.
+IdPredio=46252
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:44 a. m.
+IdPredio=46253
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:44 a. m.
+IdPredio=46254
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:45 a. m.
+IdPredio=46255
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:45 a. m.
+IdPredio=46256
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:45 a. m.
+IdPredio=46257
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:45 a. m.
+IdPredio=46258
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:45 a. m.
+IdPredio=46259
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:45 a. m.
+IdPredio=46260
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:45 a. m.
+IdPredio=46261
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:45 a. m.
+IdPredio=46262
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:45 a. m.
+IdPredio=46263
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:45 a. m.
+IdPredio=46264
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:45 a. m.
+IdPredio=46265
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:45 a. m.
+IdPredio=46266
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:45 a. m.
+IdPredio=46267
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:46 a. m.
+IdPredio=46268
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:46 a. m.
+IdPredio=46269
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:46 a. m.
+IdPredio=46270
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:46 a. m.
+IdPredio=46271
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:46 a. m.
+IdPredio=46272
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:46 a. m.
+IdPredio=46273
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:46 a. m.
+IdPredio=46274
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:46 a. m.
+IdPredio=46275
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:46 a. m.
+IdPredio=46276
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:46 a. m.
+IdPredio=46277
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:46 a. m.
+IdPredio=46278
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:47 a. m.
+IdPredio=46279
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:47 a. m.
+IdPredio=46280
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:47 a. m.
+IdPredio=46281
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:47 a. m.
+IdPredio=46282
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:47 a. m.
+IdPredio=46283
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:47 a. m.
+IdPredio=46284
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:47 a. m.
+IdPredio=46285
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:47 a. m.
+IdPredio=46286
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:47 a. m.
+IdPredio=46287
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:47 a. m.
+IdPredio=46288
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:47 a. m.
+IdPredio=46289
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:47 a. m.
+IdPredio=46290
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:47 a. m.
+IdPredio=46291
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:48 a. m.
+IdPredio=46292
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:48 a. m.
+IdPredio=46293
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:48 a. m.
+IdPredio=46294
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:48 a. m.
+IdPredio=46295
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:48 a. m.
+IdPredio=46296
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:48 a. m.
+IdPredio=46297
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:48 a. m.
+IdPredio=46298
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:48 a. m.
+IdPredio=46299
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:48 a. m.
+IdPredio=46300
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:48 a. m.
+IdPredio=46301
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:48 a. m.
+IdPredio=46302
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:48 a. m.
+IdPredio=46303
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:48 a. m.
+IdPredio=46304
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:49 a. m.
+IdPredio=46305
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:49 a. m.
+IdPredio=46306
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:49 a. m.
+IdPredio=46307
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:49 a. m.
+IdPredio=46308
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:49 a. m.
+IdPredio=46309
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:49 a. m.
+IdPredio=46310
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:49 a. m.
+IdPredio=46311
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:49 a. m.
+IdPredio=46312
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:49 a. m.
+IdPredio=46313
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:49 a. m.
+IdPredio=46314
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:49 a. m.
+IdPredio=46315
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:49 a. m.
+IdPredio=46316
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:49 a. m.
+IdPredio=46317
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:50 a. m.
+IdPredio=46318
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:50 a. m.
+IdPredio=46319
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:50 a. m.
+IdPredio=46320
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:50 a. m.
+IdPredio=46321
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:50 a. m.
+IdPredio=46322
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:50 a. m.
+IdPredio=46323
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:50 a. m.
+IdPredio=46324
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:50 a. m.
+IdPredio=46325
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:27:50 a. m.
+IdPredio=46326
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:41 a. m.
+IdPredio=46328
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:41 a. m.
+IdPredio=46329
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:41 a. m.
+IdPredio=46330
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:41 a. m.
+IdPredio=46331
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:41 a. m.
+IdPredio=46332
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:41 a. m.
+IdPredio=46333
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:41 a. m.
+IdPredio=46334
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:41 a. m.
+IdPredio=46335
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:41 a. m.
+IdPredio=46336
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:41 a. m.
+IdPredio=46337
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:41 a. m.
+IdPredio=46338
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:41 a. m.
+IdPredio=46339
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:42 a. m.
+IdPredio=46340
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:42 a. m.
+IdPredio=46341
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:42 a. m.
+IdPredio=46342
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:42 a. m.
+IdPredio=46343
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:42 a. m.
+IdPredio=46344
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:42 a. m.
+IdPredio=46345
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:42 a. m.
+IdPredio=46346
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:42 a. m.
+IdPredio=46347
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:42 a. m.
+IdPredio=46348
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:42 a. m.
+IdPredio=46349
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:42 a. m.
+IdPredio=46350
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:43 a. m.
+IdPredio=46351
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:43 a. m.
+IdPredio=46352
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:43 a. m.
+IdPredio=46353
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:43 a. m.
+IdPredio=46354
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:43 a. m.
+IdPredio=46355
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:43 a. m.
+IdPredio=46356
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:43 a. m.
+IdPredio=46357
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:43 a. m.
+IdPredio=46358
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:43 a. m.
+IdPredio=46359
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:43 a. m.
+IdPredio=46360
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:43 a. m.
+IdPredio=46361
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:43 a. m.
+IdPredio=46362
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:43 a. m.
+IdPredio=46363
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:43 a. m.
+IdPredio=46364
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:44 a. m.
+IdPredio=46365
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:44 a. m.
+IdPredio=46366
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:44 a. m.
+IdPredio=46367
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:44 a. m.
+IdPredio=46368
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:44 a. m.
+IdPredio=46369
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:44 a. m.
+IdPredio=46370
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:44 a. m.
+IdPredio=46371
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:44 a. m.
+IdPredio=46372
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:44 a. m.
+IdPredio=46373
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:44 a. m.
+IdPredio=46374
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:44 a. m.
+IdPredio=46375
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:44 a. m.
+IdPredio=46376
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:44 a. m.
+IdPredio=46377
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:44 a. m.
+IdPredio=46378
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:45 a. m.
+IdPredio=46379
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:45 a. m.
+IdPredio=46380
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:45 a. m.
+IdPredio=46381
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:45 a. m.
+IdPredio=46382
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:45 a. m.
+IdPredio=46383
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:45 a. m.
+IdPredio=46384
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:45 a. m.
+IdPredio=46385
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:45 a. m.
+IdPredio=46386
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:45 a. m.
+IdPredio=46387
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:45 a. m.
+IdPredio=46388
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:45 a. m.
+IdPredio=46389
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:45 a. m.
+IdPredio=46390
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:45 a. m.
+IdPredio=46391
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:46 a. m.
+IdPredio=46392
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:46 a. m.
+IdPredio=46393
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:46 a. m.
+IdPredio=46394
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:46 a. m.
+IdPredio=46395
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:46 a. m.
+IdPredio=46396
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:46 a. m.
+IdPredio=46397
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:46 a. m.
+IdPredio=46398
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/06/2022 01:36:46 a. m.
+IdPredio=46399
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************

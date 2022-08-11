@@ -1,0 +1,106 @@
+**************************
+Fecha Hora de la insercion del recibo: 23/07/2022 10:46:40 a. m.
+IdPredio=46058
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 23/07/2022 10:46:47 a. m.
+idtramite=105056
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 23/07/2022 10:50:34 a. m.
+IdPredio=46243
+Periodo  =6 2022 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 23/07/2022 10:51:10 a. m.
+idtramite=105057
+Contribuyente=   TECNO URBE CONSTRUCCIONES S.A. DE C.V.
+DatosPredio=Clave Catastral: 1200-01-403-011     Tipo predio: URBANO     Super. Terreno: 58.23m2.     Super. Const.: 63.47m2.    Base gravable: $153866.65
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 23/07/2022 11:00:14 a. m.
+IdPredio=46243
+Periodo  =6 2022 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 23/07/2022 11:00:15 a. m.
+idtramite=105058
+Contribuyente=   TECNO URBE CONSTRUCCIONES S.A. DE C.V.
+DatosPredio=Clave Catastral: 1200-01-403-011     Tipo predio: URBANO     Super. Terreno: 58.23m2.     Super. Const.: 63.47m2.    Base gravable: $153866.65
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 23/07/2022 11:55:41 a. m.
+IdPredio=46243
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 23/07/2022 11:56:36 a. m.
+IdPredio=46243
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 23/07/2022 11:56:36 a. m.
+idtramite=105059
+Contribuyente=   TECNO URBE CONSTRUCCIONES S.A. DE C.V.
+DatosPredio=Clave Catastral: 1200-01-403-011     Tipo predio: URBANO     Super. Terreno: 58.23m2.     Super. Const.: 63.47m2.    Base gravable: $153866.65
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 23/07/2022 12:15:33 p. m.
+IdPredio=10964
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 23/07/2022 12:17:02 p. m.
+IdPredio=10964
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 23/07/2022 12:17:02 p. m.
+IdPredio=10964
+Periodo  =
+IdTipoTramite=1
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 23/07/2022 12:17:02 p. m.
+idtramite=105061
+Contribuyente=GUZMAN BALTAZAR ALEJANDRO 
+DatosPredio=Clave Catastral: 1200-04-096-005     Tipo predio: URBANO     Super. Terreno: 1000m2.     Super. Const.: 0m2.    Base gravable: $251496.25
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 23/07/2022 12:20:13 p. m.
+IdPredio=10964
+Periodo  =
+IdTipoTramite=8
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 23/07/2022 01:23:27 p. m.
+IdPredio=21046
+Periodo  =1 2022 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 23/07/2022 01:23:28 p. m.
+idtramite=105065
+Contribuyente=SOLIS VARGAS ORLANDO POLO 
+DatosPredio=Clave Catastral: 1200-02-257-062     Tipo predio: URBANO     Super. Terreno: 68m2.     Super. Const.: 66m2.    Base gravable: $611000
+**************************

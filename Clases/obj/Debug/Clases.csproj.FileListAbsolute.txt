@@ -1,0 +1,409 @@
+C:\CATAX\CATAX\Catastro\Clases\bin\Debug\Clases.dll.config
+C:\CATAX\CATAX\Catastro\Clases\bin\Debug\Clases.dll
+C:\CATAX\CATAX\Catastro\Clases\bin\Debug\Clases.pdb
+C:\CATAX\CATAX\Catastro\Clases\bin\Debug\EntityFramework.dll
+C:\CATAX\CATAX\Catastro\Clases\bin\Debug\EntityFramework.SqlServer.dll
+C:\CATAX\CATAX\Catastro\Clases\bin\Debug\GeneraRecibo.dll
+C:\CATAX\CATAX\Catastro\Clases\bin\Debug\GeneraRecibo33.dll
+C:\CATAX\CATAX\Catastro\Clases\bin\Debug\BouncyCastle.Crypto.dll
+C:\CATAX\CATAX\Catastro\Clases\bin\Debug\Recibo33.dll
+C:\CATAX\CATAX\Catastro\Clases\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\CATAX\CATAX\Catastro\Clases\bin\Debug\MessagingToolkit.QRCode.dll
+C:\CATAX\CATAX\Catastro\Clases\bin\Debug\Recibo.dll
+C:\CATAX\CATAX\Catastro\Clases\bin\Debug\ChilkatDotNet45.dll
+C:\CATAX\CATAX\Catastro\Clases\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\CATAX\CATAX\Catastro\Clases\bin\Debug\GeneraRecibo33.pdb
+C:\CATAX\CATAX\Catastro\Clases\bin\Debug\GeneraRecibo33.xml
+C:\CATAX\CATAX\Catastro\Clases\bin\Debug\GeneraRecibo.pdb
+C:\CATAX\CATAX\Catastro\Clases\bin\Debug\GeneraRecibo.xml
+C:\CATAX\CATAX\Catastro\Clases\bin\Debug\EntityFramework.xml
+C:\CATAX\CATAX\Catastro\Clases\bin\Debug\EntityFramework.SqlServer.xml
+C:\CATAX\CATAX\Catastro\Clases\bin\Debug\Recibo33.pdb
+C:\CATAX\CATAX\Catastro\Clases\bin\Debug\Recibo33.xml
+C:\CATAX\CATAX\Catastro\Clases\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\CATAX\CATAX\Catastro\Clases\bin\Debug\Recibo.pdb
+C:\CATAX\CATAX\Catastro\Clases\bin\Debug\Recibo.xml
+C:\CATAX\CATAX\Catastro\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\CATAX\CATAX\Catastro\Clases\obj\Debug\Clases.dll
+C:\CATAX\CATAX\Catastro\Clases\obj\Debug\Clases.pdb
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\bin\Debug\Clases.dll.config
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\bin\Debug\Clases.dll
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\bin\Debug\Clases.pdb
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\bin\Debug\EntityFramework.dll
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\bin\Debug\GeneraRecibo.dll
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\bin\Debug\GeneraRecibo33.dll
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\bin\Debug\BouncyCastle.Crypto.dll
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\bin\Debug\Recibo33.dll
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\bin\Debug\Recibo.dll
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\bin\Debug\ChilkatDotNet45.dll
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\bin\Debug\GeneraRecibo33.pdb
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\bin\Debug\GeneraRecibo33.xml
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\bin\Debug\GeneraRecibo.pdb
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\bin\Debug\GeneraRecibo.xml
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\bin\Debug\EntityFramework.xml
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\bin\Debug\Recibo33.pdb
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\bin\Debug\Recibo33.xml
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\bin\Debug\Recibo.pdb
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\bin\Debug\Recibo.xml
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\obj\Debug\Clases.dll
+C:\Proyectos\CATAX\CATAX\Catastro\Clases\obj\Debug\Clases.pdb
+D:\Nely\Proyecto\CATAX\Catastro\Clases\bin\Debug\Clases.dll.config
+D:\Nely\Proyecto\CATAX\Catastro\Clases\bin\Debug\Clases.dll
+D:\Nely\Proyecto\CATAX\Catastro\Clases\bin\Debug\Clases.pdb
+D:\Nely\Proyecto\CATAX\Catastro\Clases\bin\Debug\EntityFramework.dll
+D:\Nely\Proyecto\CATAX\Catastro\Clases\bin\Debug\EntityFramework.SqlServer.dll
+D:\Nely\Proyecto\CATAX\Catastro\Clases\bin\Debug\GeneraRecibo.dll
+D:\Nely\Proyecto\CATAX\Catastro\Clases\bin\Debug\GeneraRecibo33.dll
+D:\Nely\Proyecto\CATAX\Catastro\Clases\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Nely\Proyecto\CATAX\Catastro\Clases\bin\Debug\BouncyCastle.Crypto.dll
+D:\Nely\Proyecto\CATAX\Catastro\Clases\bin\Debug\Recibo33.dll
+D:\Nely\Proyecto\CATAX\Catastro\Clases\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Nely\Proyecto\CATAX\Catastro\Clases\bin\Debug\MessagingToolkit.QRCode.dll
+D:\Nely\Proyecto\CATAX\Catastro\Clases\bin\Debug\Recibo.dll
+D:\Nely\Proyecto\CATAX\Catastro\Clases\bin\Debug\ChilkatDotNet45.dll
+D:\Nely\Proyecto\CATAX\Catastro\Clases\bin\Debug\GeneraRecibo33.pdb
+D:\Nely\Proyecto\CATAX\Catastro\Clases\bin\Debug\GeneraRecibo33.xml
+D:\Nely\Proyecto\CATAX\Catastro\Clases\bin\Debug\GeneraRecibo33.dll.config
+D:\Nely\Proyecto\CATAX\Catastro\Clases\bin\Debug\GeneraRecibo.pdb
+D:\Nely\Proyecto\CATAX\Catastro\Clases\bin\Debug\GeneraRecibo.xml
+D:\Nely\Proyecto\CATAX\Catastro\Clases\bin\Debug\GeneraRecibo.dll.config
+D:\Nely\Proyecto\CATAX\Catastro\Clases\bin\Debug\EntityFramework.xml
+D:\Nely\Proyecto\CATAX\Catastro\Clases\bin\Debug\EntityFramework.SqlServer.xml
+D:\Nely\Proyecto\CATAX\Catastro\Clases\bin\Debug\Recibo33.pdb
+D:\Nely\Proyecto\CATAX\Catastro\Clases\bin\Debug\Recibo33.xml
+D:\Nely\Proyecto\CATAX\Catastro\Clases\bin\Debug\Recibo.pdb
+D:\Nely\Proyecto\CATAX\Catastro\Clases\bin\Debug\Recibo.xml
+D:\Nely\Proyecto\CATAX\Catastro\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+D:\Nely\Proyecto\CATAX\Catastro\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+D:\Nely\Proyecto\CATAX\Catastro\Clases\obj\Debug\Clases.csproj.CopyComplete
+D:\Nely\Proyecto\CATAX\Catastro\Clases\obj\Debug\Clases.dll
+D:\Nely\Proyecto\CATAX\Catastro\Clases\obj\Debug\Clases.pdb
+D:\Proyectos\SIPRED\sipred\Clases\bin\Debug\Clases.dll.config
+D:\Proyectos\SIPRED\sipred\Clases\bin\Debug\Clases.dll
+D:\Proyectos\SIPRED\sipred\Clases\bin\Debug\Clases.pdb
+D:\Proyectos\SIPRED\sipred\Clases\bin\Debug\EntityFramework.dll
+D:\Proyectos\SIPRED\sipred\Clases\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proyectos\SIPRED\sipred\Clases\bin\Debug\GeneraRecibo.dll
+D:\Proyectos\SIPRED\sipred\Clases\bin\Debug\GeneraRecibo33.dll
+D:\Proyectos\SIPRED\sipred\Clases\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Proyectos\SIPRED\sipred\Clases\bin\Debug\BouncyCastle.Crypto.dll
+D:\Proyectos\SIPRED\sipred\Clases\bin\Debug\Recibo33.dll
+D:\Proyectos\SIPRED\sipred\Clases\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Proyectos\SIPRED\sipred\Clases\bin\Debug\MessagingToolkit.QRCode.dll
+D:\Proyectos\SIPRED\sipred\Clases\bin\Debug\Recibo.dll
+D:\Proyectos\SIPRED\sipred\Clases\bin\Debug\ChilkatDotNet45.dll
+D:\Proyectos\SIPRED\sipred\Clases\bin\Debug\GeneraRecibo33.pdb
+D:\Proyectos\SIPRED\sipred\Clases\bin\Debug\GeneraRecibo33.xml
+D:\Proyectos\SIPRED\sipred\Clases\bin\Debug\GeneraRecibo33.dll.config
+D:\Proyectos\SIPRED\sipred\Clases\bin\Debug\GeneraRecibo.pdb
+D:\Proyectos\SIPRED\sipred\Clases\bin\Debug\GeneraRecibo.xml
+D:\Proyectos\SIPRED\sipred\Clases\bin\Debug\GeneraRecibo.dll.config
+D:\Proyectos\SIPRED\sipred\Clases\bin\Debug\EntityFramework.xml
+D:\Proyectos\SIPRED\sipred\Clases\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proyectos\SIPRED\sipred\Clases\bin\Debug\Recibo33.pdb
+D:\Proyectos\SIPRED\sipred\Clases\bin\Debug\Recibo33.xml
+D:\Proyectos\SIPRED\sipred\Clases\bin\Debug\Recibo.pdb
+D:\Proyectos\SIPRED\sipred\Clases\bin\Debug\Recibo.xml
+D:\Proyectos\SIPRED\sipred\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+D:\Proyectos\SIPRED\sipred\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+D:\Proyectos\SIPRED\sipred\Clases\obj\Debug\Clases.dll
+D:\Proyectos\SIPRED\sipred\Clases\obj\Debug\Clases.pdb
+D:\Proyectos\Sipred\catastro\Clases\bin\Debug\Clases.dll.config
+D:\Proyectos\Sipred\catastro\Clases\bin\Debug\Clases.dll
+D:\Proyectos\Sipred\catastro\Clases\bin\Debug\Clases.pdb
+D:\Proyectos\Sipred\catastro\Clases\bin\Debug\EntityFramework.dll
+D:\Proyectos\Sipred\catastro\Clases\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proyectos\Sipred\catastro\Clases\bin\Debug\GeneraRecibo.dll
+D:\Proyectos\Sipred\catastro\Clases\bin\Debug\GeneraRecibo33.dll
+D:\Proyectos\Sipred\catastro\Clases\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Proyectos\Sipred\catastro\Clases\bin\Debug\BouncyCastle.Crypto.dll
+D:\Proyectos\Sipred\catastro\Clases\bin\Debug\Recibo33.dll
+D:\Proyectos\Sipred\catastro\Clases\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Proyectos\Sipred\catastro\Clases\bin\Debug\MessagingToolkit.QRCode.dll
+D:\Proyectos\Sipred\catastro\Clases\bin\Debug\Recibo.dll
+D:\Proyectos\Sipred\catastro\Clases\bin\Debug\ChilkatDotNet45.dll
+D:\Proyectos\Sipred\catastro\Clases\bin\Debug\GeneraRecibo33.pdb
+D:\Proyectos\Sipred\catastro\Clases\bin\Debug\GeneraRecibo33.xml
+D:\Proyectos\Sipred\catastro\Clases\bin\Debug\GeneraRecibo33.dll.config
+D:\Proyectos\Sipred\catastro\Clases\bin\Debug\GeneraRecibo.pdb
+D:\Proyectos\Sipred\catastro\Clases\bin\Debug\GeneraRecibo.xml
+D:\Proyectos\Sipred\catastro\Clases\bin\Debug\GeneraRecibo.dll.config
+D:\Proyectos\Sipred\catastro\Clases\bin\Debug\EntityFramework.xml
+D:\Proyectos\Sipred\catastro\Clases\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proyectos\Sipred\catastro\Clases\bin\Debug\Recibo33.pdb
+D:\Proyectos\Sipred\catastro\Clases\bin\Debug\Recibo33.xml
+D:\Proyectos\Sipred\catastro\Clases\bin\Debug\Recibo.pdb
+D:\Proyectos\Sipred\catastro\Clases\bin\Debug\Recibo.xml
+D:\Proyectos\Sipred\catastro\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+D:\Proyectos\Sipred\catastro\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+D:\Proyectos\Sipred\catastro\Clases\obj\Debug\Clases.dll
+D:\Proyectos\Sipred\catastro\Clases\obj\Debug\Clases.pdb
+D:\Proyectos\Sipred\catastro\Clases\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\Clases.dll.config
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\Clases.dll
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\Clases.pdb
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\EntityFramework.dll
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\GeneraRecibo.dll
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\GeneraRecibo33.dll
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\BouncyCastle.Crypto.dll
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\Recibo33.dll
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\Recibo.dll
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\ChilkatDotNet45.dll
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\GeneraRecibo33.pdb
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\GeneraRecibo33.xml
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\GeneraRecibo33.dll.config
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\GeneraRecibo.pdb
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\GeneraRecibo.xml
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\GeneraRecibo.dll.config
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\EntityFramework.xml
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\Recibo33.pdb
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\Recibo33.xml
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\Recibo.pdb
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\Recibo.xml
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Proyecto\Sipred\catastro\Clases\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Proyecto\Sipred\catastro\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+C:\Proyecto\Sipred\catastro\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Proyecto\Sipred\catastro\Clases\obj\Debug\Clases.csproj.CopyComplete
+C:\Proyecto\Sipred\catastro\Clases\obj\Debug\Clases.dll
+C:\Proyecto\Sipred\catastro\Clases\obj\Debug\Clases.pdb
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\Clases.dll.config
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\Clases.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\Clases.pdb
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\EntityFramework.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\GeneraRecibo.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\GeneraRecibo33.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\Recibo33.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\Recibo.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\ChilkatDotNet45.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\GeneraRecibo33.pdb
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\GeneraRecibo33.xml
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\GeneraRecibo33.dll.config
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\GeneraRecibo.pdb
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\GeneraRecibo.xml
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\GeneraRecibo.dll.config
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\EntityFramework.xml
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\Recibo33.pdb
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\Recibo33.xml
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\Recibo.pdb
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\Recibo.xml
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\obj\Debug\Clases.csproj.CopyComplete
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\obj\Debug\Clases.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\obj\Debug\Clases.pdb
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\Clases\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\Clases.dll.config
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\Clases.dll
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\Clases.pdb
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\EntityFramework.dll
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\ExcelNumberFormat.dll
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\GeneraRecibo.dll
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\GeneraRecibo33.dll
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\BouncyCastle.Crypto.dll
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\Recibo33.dll
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\Recibo.dll
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\ChilkatDotNet45.dll
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\GeneraRecibo33.pdb
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\GeneraRecibo33.xml
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\GeneraRecibo33.dll.config
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\GeneraRecibo.pdb
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\GeneraRecibo.xml
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\GeneraRecibo.dll.config
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\EntityFramework.xml
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\ExcelNumberFormat.xml
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\Recibo33.pdb
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\Recibo33.xml
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\Recibo.pdb
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\Recibo.xml
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Proyecto\Sipred\Sipred\Clases\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Proyecto\Sipred\Sipred\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+C:\Proyecto\Sipred\Sipred\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Proyecto\Sipred\Sipred\Clases\obj\Debug\Clases.csproj.CopyComplete
+C:\Proyecto\Sipred\Sipred\Clases\obj\Debug\Clases.dll
+C:\Proyecto\Sipred\Sipred\Clases\obj\Debug\Clases.pdb
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\Clases.dll.config
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\Clases.dll
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\Clases.pdb
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\EntityFramework.dll
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\GeneraRecibo.dll
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\GeneraRecibo33.dll
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\Recibo33.dll
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\Recibo.dll
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\ChilkatDotNet45.dll
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\GeneraRecibo33.pdb
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\GeneraRecibo33.dll.config
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\GeneraRecibo.pdb
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\GeneraRecibo.dll.config
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\EntityFramework.xml
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\Recibo33.pdb
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\Recibo33.xml
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\Recibo.pdb
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\Recibo.xml
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\obj\Debug\Clases.csproj.CopyComplete
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\obj\Debug\Clases.dll
+C:\Users\Abib\Downloads\Sipred\Sipred\Clases\obj\Debug\Clases.pdb
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\Clases.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\Clases.dll.config
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\EntityFramework.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\GeneraRecibo.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\GeneraRecibo33.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\Recibo33.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\Recibo.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\ChilkatDotNet45.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\GeneraRecibo33.dll.config
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\GeneraRecibo.pdb
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\GeneraRecibo.xml
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\GeneraRecibo.dll.config
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\EntityFramework.xml
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\Recibo33.pdb
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\Recibo33.xml
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\Recibo.pdb
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\Recibo.xml
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\obj\Debug\Clases.csproj.CopyComplete
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\obj\Debug\Clases.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\obj\Debug\Clases.pdb
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\Clases.dll.config
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\Clases.dll
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\Clases.pdb
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\EntityFramework.dll
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\ExcelNumberFormat.dll
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\GeneraRecibo.dll
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\GeneraRecibo33.dll
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\Recibo33.dll
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\Recibo.dll
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\ChilkatDotNet45.dll
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\GeneraRecibo33.pdb
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\GeneraRecibo33.xml
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\GeneraRecibo33.dll.config
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\GeneraRecibo.pdb
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\GeneraRecibo.xml
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\GeneraRecibo.dll.config
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\EntityFramework.xml
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\ExcelNumberFormat.xml
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\Recibo33.pdb
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\Recibo33.xml
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\Recibo.pdb
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\bin\Debug\Recibo.xml
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\obj\Debug\Clases.csproj.CopyComplete
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\obj\Debug\Clases.dll
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\Clases\obj\Debug\Clases.pdb

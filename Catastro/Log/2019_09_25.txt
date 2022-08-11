@@ -1,0 +1,13 @@
+**************************
+Fecha Hora de la insercion del recibo: 25/09/2019 10:19:47 p. m.
+IdPredio=246
+Periodo  =0 0 - 0 0
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/09/2019 10:19:47 p. m.
+idtramite=24435
+Contribuyente=  NOLASCO GARCIA MARTHA ELVA
+DatosPredio=Clave Catastral: 5100-01-007-035     Tipo predio: URBANO     Super. Terreno: 475m2.     Super. Const.: 413.18m2.    Base gravable: $810157.69
+**************************

@@ -1,0 +1,18 @@
+**************************
+Fecha Hora de la insercion del recibo: 15/06/2022 03:45:48 p. m.
+idtramite=100586
+Contribuyente=TECNO URBE CONSTRUCCIONES, S.A. DE C.V.
+DatosPredio=Clave Catastral: 1200-03-360-001     Tipo predio: URBANO     Super. Terreno: 13621m2.     Super. Const.: 0m2.    Base gravable: $2800000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 15/06/2022 09:12:09 p. m.
+idtramite=101066
+Contribuyente=HORACIO EDUARDO VICTORIA CASTILLO Y COP
+DatosPredio=Clave Catastral: 1200-03-462-082     Tipo predio: URBANO     Super. Terreno: 59m2.     Super. Const.: 63m2.    Base gravable: $138363.75
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 15/06/2022 11:00:33 p. m.
+idtramite=101045
+Contribuyente=VIRIDIANA ALCANTARA LOPEZ
+DatosPredio=Clave Catastral: 1200-03-462-046     Tipo predio: URBANO     Super. Terreno: 59m2.     Super. Const.: 72m2.    Base gravable: $151830
+**************************

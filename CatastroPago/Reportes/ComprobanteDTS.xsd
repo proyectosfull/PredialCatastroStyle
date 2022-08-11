@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ComprobanteDTS" targetNamespace="http://tempuri.org/ComprobanteDTS.xsd" xmlns:mstns="http://tempuri.org/ComprobanteDTS.xsd" xmlns="http://tempuri.org/ComprobanteDTS.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ComprobanteDTS" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="ComprobanteDTS" msprop:Generator_UserDSName="ComprobanteDTS">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ComprobanteDTS" msprop:Generator_TableClassName="ComprobanteDTSDataTable" msprop:Generator_TableVarName="tableComprobanteDTS" msprop:Generator_RowChangedName="ComprobanteDTSRowChanged" msprop:Generator_TablePropName="_ComprobanteDTS" msprop:Generator_RowDeletingName="ComprobanteDTSRowDeleting" msprop:Generator_RowChangingName="ComprobanteDTSRowChanging" msprop:Generator_RowEvHandlerName="ComprobanteDTSRowChangeEventHandler" msprop:Generator_RowDeletedName="ComprobanteDTSRowDeleted" msprop:Generator_RowClassName="ComprobanteDTSRow" msprop:Generator_UserTableName="ComprobanteDTS" msprop:Generator_RowEvArgName="ComprobanteDTSRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Serie" msprop:Generator_ColumnVarNameInTable="columnSerie" msprop:Generator_ColumnPropNameInRow="Serie" msprop:Generator_ColumnPropNameInTable="SerieColumn" msprop:Generator_UserColumnName="Serie" type="xs:string" minOccurs="0" />
+              <xs:element name="Folio" msprop:Generator_ColumnVarNameInTable="columnFolio" msprop:Generator_ColumnPropNameInRow="Folio" msprop:Generator_ColumnPropNameInTable="FolioColumn" msprop:Generator_UserColumnName="Folio" type="xs:string" minOccurs="0" />
+              <xs:element name="FormaDePago" msprop:Generator_ColumnVarNameInTable="columnFormaDePago" msprop:Generator_ColumnPropNameInRow="FormaDePago" msprop:Generator_ColumnPropNameInTable="FormaDePagoColumn" msprop:Generator_UserColumnName="FormaDePago" type="xs:string" minOccurs="0" />
+              <xs:element name="SubTotal" msprop:Generator_ColumnVarNameInTable="columnSubTotal" msprop:Generator_ColumnPropNameInRow="SubTotal" msprop:Generator_ColumnPropNameInTable="SubTotalColumn" msprop:Generator_UserColumnName="SubTotal" type="xs:string" minOccurs="0" />
+              <xs:element name="Total" msprop:Generator_ColumnVarNameInTable="columnTotal" msprop:Generator_ColumnPropNameInRow="Total" msprop:Generator_ColumnPropNameInTable="TotalColumn" msprop:Generator_UserColumnName="Total" type="xs:string" minOccurs="0" />
+              <xs:element name="TipoDeComprobante" msprop:Generator_ColumnVarNameInTable="columnTipoDeComprobante" msprop:Generator_ColumnPropNameInRow="TipoDeComprobante" msprop:Generator_ColumnPropNameInTable="TipoDeComprobanteColumn" msprop:Generator_UserColumnName="TipoDeComprobante" type="xs:string" minOccurs="0" />
+              <xs:element name="MetodoDePago" msprop:Generator_ColumnVarNameInTable="columnMetodoDePago" msprop:Generator_ColumnPropNameInRow="MetodoDePago" msprop:Generator_ColumnPropNameInTable="MetodoDePagoColumn" msprop:Generator_UserColumnName="MetodoDePago" type="xs:string" minOccurs="0" />
+              <xs:element name="Fecha" msprop:Generator_ColumnVarNameInTable="columnFecha" msprop:Generator_ColumnPropNameInRow="Fecha" msprop:Generator_ColumnPropNameInTable="FechaColumn" msprop:Generator_UserColumnName="Fecha" type="xs:string" minOccurs="0" />
+              <xs:element name="Hora" msprop:Generator_ColumnVarNameInTable="columnHora" msprop:Generator_ColumnPropNameInRow="Hora" msprop:Generator_ColumnPropNameInTable="HoraColumn" msprop:Generator_UserColumnName="Hora" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalLetra" msprop:Generator_ColumnVarNameInTable="columnTotalLetra" msprop:Generator_ColumnPropNameInRow="TotalLetra" msprop:Generator_ColumnPropNameInTable="TotalLetraColumn" msprop:Generator_UserColumnName="TotalLetra" type="xs:string" minOccurs="0" />
+              <xs:element name="sello" msprop:Generator_ColumnVarNameInTable="columnsello" msprop:Generator_ColumnPropNameInRow="sello" msprop:Generator_ColumnPropNameInTable="selloColumn" msprop:Generator_UserColumnName="sello" type="xs:string" minOccurs="0" />
+              <xs:element name="noCertificado" msprop:Generator_ColumnVarNameInTable="columnnoCertificado" msprop:Generator_ColumnPropNameInRow="noCertificado" msprop:Generator_ColumnPropNameInTable="noCertificadoColumn" msprop:Generator_UserColumnName="noCertificado" type="xs:string" minOccurs="0" />
+              <xs:element name="certificado" msprop:Generator_ColumnVarNameInTable="columncertificado" msprop:Generator_ColumnPropNameInRow="certificado" msprop:Generator_ColumnPropNameInTable="certificadoColumn" msprop:Generator_UserColumnName="certificado" type="xs:string" minOccurs="0" />
+              <xs:element name="codigoReimpresion" msprop:Generator_ColumnVarNameInTable="columncodigoReimpresion" msprop:Generator_ColumnPropNameInRow="codigoReimpresion" msprop:Generator_ColumnPropNameInTable="codigoReimpresionColumn" msprop:Generator_UserColumnName="codigoReimpresion" type="xs:string" minOccurs="0" />
+              <xs:element name="cajero" msprop:Generator_ColumnVarNameInTable="columncajero" msprop:Generator_ColumnPropNameInRow="cajero" msprop:Generator_ColumnPropNameInTable="cajeroColumn" msprop:Generator_UserColumnName="cajero" type="xs:string" minOccurs="0" />
+              <xs:element name="descuento" msprop:Generator_ColumnVarNameInTable="columndescuento" msprop:Generator_ColumnPropNameInRow="descuento" msprop:Generator_ColumnPropNameInTable="descuentoColumn" msprop:Generator_UserColumnName="descuento" type="xs:string" minOccurs="0" />
+              <xs:element name="cveMesa" msprop:Generator_ColumnVarNameInTable="columncveMesa" msprop:Generator_ColumnPropNameInRow="cveMesa" msprop:Generator_ColumnPropNameInTable="cveMesaColumn" msprop:Generator_UserColumnName="cveMesa" type="xs:string" minOccurs="0" />
+              <xs:element name="motivoDescuento" msprop:Generator_ColumnVarNameInTable="columnmotivoDescuento" msprop:Generator_ColumnPropNameInRow="motivoDescuento" msprop:Generator_ColumnPropNameInTable="motivoDescuentoColumn" msprop:Generator_UserColumnName="motivoDescuento" type="xs:string" minOccurs="0" />
+              <xs:element name="qr" msprop:Generator_ColumnVarNameInTable="columnqr" msprop:Generator_ColumnPropNameInRow="qr" msprop:Generator_ColumnPropNameInTable="qrColumn" msprop:Generator_UserColumnName="qr" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="Observaciones" msprop:Generator_ColumnVarNameInTable="columnObservaciones" msprop:Generator_ColumnPropNameInRow="Observaciones" msprop:Generator_ColumnPropNameInTable="ObservacionesColumn" msprop:Generator_UserColumnName="Observaciones" type="xs:string" minOccurs="0" />
+              <xs:element name="DatosPredio" msprop:Generator_ColumnVarNameInTable="columnDatosPredio" msprop:Generator_ColumnPropNameInRow="DatosPredio" msprop:Generator_ColumnPropNameInTable="DatosPredioColumn" msprop:Generator_UserColumnName="DatosPredio" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

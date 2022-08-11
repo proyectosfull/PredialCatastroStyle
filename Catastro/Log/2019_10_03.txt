@@ -1,0 +1,13 @@
+**************************
+Fecha Hora de la insercion del recibo: 03/10/2019 10:18:23 p. m.
+IdPredio=31657
+Periodo  =6/2019
+IdTipoTramite=1
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 03/10/2019 10:23:12 p. m.
+idtramite=24814
+Contribuyente=  MEDINA SANCHEZ ANGEL DE JESUS Y RODRIGUEZ AREVALO MARIA LUISA
+DatosPredio=Clave Catastral: 5114-01-159-004     Tipo predio: URBANO     Super. Terreno: 200m2.     Super. Const.: 230.17m2.    Base gravable: $288327
+**************************

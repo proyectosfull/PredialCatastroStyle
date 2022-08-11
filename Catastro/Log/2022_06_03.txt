@@ -1,0 +1,27 @@
+**************************
+Fecha Hora de la insercion del recibo: 03/06/2022 11:35:41 a. m.
+IdPredio=6906
+Periodo  =0 0 - 0 0
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 03/06/2022 11:38:45 a. m.
+IdPredio=6906
+Periodo  =0 0 - 0 0
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 03/06/2022 11:39:09 a. m.
+idtramite=100576
+Contribuyente=GUERRERO JARILLO VICTORIO
+DatosPredio=Clave Catastral: 1200-01-226-006     Tipo predio: URBANO     Super. Terreno: 588m2.     Super. Const.: 158m2.    Base gravable: $284211
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 03/06/2022 12:18:15 p. m.
+IdPredio=15522
+Periodo  =3/2022
+IdTipoTramite=1
+tipo=IP
+**************************

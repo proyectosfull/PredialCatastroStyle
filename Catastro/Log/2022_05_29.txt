@@ -1,0 +1,21 @@
+**************************
+Fecha Hora de la insercion del recibo: 29/05/2022 12:48:12 a. m.
+IdPredio=6
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/05/2022 12:52:51 a. m.
+IdPredio=6
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 29/05/2022 08:28:17 a. m.
+IdPredio=6
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************

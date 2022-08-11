@@ -1,0 +1,169 @@
+**************************
+Fecha Hora de la insercion del recibo: 07/06/2022 12:52:27 a. m.
+IdPredio=17528
+Periodo  =6/2022
+IdTipoTramite=1
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 07/06/2022 12:56:08 a. m.
+idtramite=100630
+Contribuyente=GUZMAN SANVICENTE OMAR
+DatosPredio=Clave Catastral: 1200-02-277-090     Tipo predio: URBANO     Super. Terreno: 460m2.     Super. Const.: 0m2.    Base gravable: $1840000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 07/06/2022 12:06:12 p. m.
+IdPredio=40998
+Periodo  =1/2018 AL 3/18
+IdTipoTramite=1
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 07/06/2022 12:08:05 p. m.
+IdPredio=40492
+Periodo  =6/2022
+IdTipoTramite=1
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 07/06/2022 12:23:40 p. m.
+idtramite=100657
+Contribuyente=SANCHEZ GALVAN BLANCA ESTELA
+DatosPredio=Clave Catastral: 1200-09-225-040     Tipo predio: URBANO     Super. Terreno: 66m2.     Super. Const.: 50m2.    Base gravable: $605000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 07/06/2022 12:30:56 p. m.
+IdPredio=40998
+Periodo  =1/2018 AL 3/18
+IdTipoTramite=1
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 07/06/2022 12:31:34 p. m.
+idtramite=100659
+Contribuyente=SANCHEZ GALVAN BLANCA ESTELA
+DatosPredio=Clave Catastral: 1200-09-225-040     Tipo predio: URBANO     Super. Terreno: 66m2.     Super. Const.: 50m2.    Base gravable: $605000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 07/06/2022 12:35:18 p. m.
+idtramite=100604
+Contribuyente=INMOBILIARIA FABREDI , S.A. DE C.V.
+DatosPredio=Clave Catastral: 1200-02-277-065     Tipo predio: URBANO     Super. Terreno: 499m2.     Super. Const.: 480m2.    Base gravable: $4780000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 07/06/2022 12:39:59 p. m.
+IdPredio=15522
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 07/06/2022 12:42:08 p. m.
+idtramite=100660
+Contribuyente=INMOBILIARIA FABREDI , S.A. DE C.V.
+DatosPredio=Clave Catastral: 1200-02-277-065     Tipo predio: URBANO     Super. Terreno: 499m2.     Super. Const.: 480m2.    Base gravable: $4780000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 07/06/2022 01:08:46 p. m.
+IdPredio=44974
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 07/06/2022 01:08:46 p. m.
+idtramite=100661
+Contribuyente=AGUILAR PANIAGUA VICTOR
+DatosPredio=Clave Catastral: 1200-09-225-044     Tipo predio: URBANO     Super. Terreno: 34m2.     Super. Const.: 50m2.    Base gravable: $1500000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 07/06/2022 01:16:45 p. m.
+IdPredio=44974
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 07/06/2022 01:16:45 p. m.
+idtramite=100662
+Contribuyente=AGUILAR PANIAGUA VICTOR
+DatosPredio=Clave Catastral: 1200-09-225-044     Tipo predio: URBANO     Super. Terreno: 34m2.     Super. Const.: 50m2.    Base gravable: $1500000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 07/06/2022 01:25:36 p. m.
+IdPredio=44974
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 07/06/2022 01:25:36 p. m.
+idtramite=100663
+Contribuyente=AGUILAR PANIAGUA VICTOR
+DatosPredio=Clave Catastral: 1200-09-225-044     Tipo predio: URBANO     Super. Terreno: 34m2.     Super. Const.: 50m2.    Base gravable: $1500000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 07/06/2022 01:54:42 p. m.
+IdPredio=44974
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 07/06/2022 01:54:42 p. m.
+idtramite=100664
+Contribuyente=AGUILAR PANIAGUA VICTOR
+DatosPredio=Clave Catastral: 1200-09-225-044     Tipo predio: URBANO     Super. Terreno: 34m2.     Super. Const.: 50m2.    Base gravable: $1500000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 07/06/2022 01:56:07 p. m.
+IdPredio=44974
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 07/06/2022 01:56:07 p. m.
+idtramite=100665
+Contribuyente=AGUILAR PANIAGUA VICTOR
+DatosPredio=Clave Catastral: 1200-09-225-044     Tipo predio: URBANO     Super. Terreno: 34m2.     Super. Const.: 50m2.    Base gravable: $1500000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 07/06/2022 02:06:33 p. m.
+IdPredio=44974
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 07/06/2022 02:06:33 p. m.
+idtramite=100666
+Contribuyente=AGUILAR PANIAGUA VICTOR
+DatosPredio=Clave Catastral: 1200-09-225-044     Tipo predio: URBANO     Super. Terreno: 34m2.     Super. Const.: 50m2.    Base gravable: $1500000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 07/06/2022 02:20:53 p. m.
+IdPredio=44974
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 07/06/2022 02:20:53 p. m.
+idtramite=100667
+Contribuyente=AGUILAR PANIAGUA VICTOR
+DatosPredio=Clave Catastral: 1200-09-225-044     Tipo predio: URBANO     Super. Terreno: 34m2.     Super. Const.: 50m2.    Base gravable: $1500000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 07/06/2022 02:39:15 p. m.
+IdPredio=44974
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 07/06/2022 02:39:15 p. m.
+idtramite=100668
+Contribuyente=AGUILAR PANIAGUA VICTOR
+DatosPredio=Clave Catastral: 1200-09-225-044     Tipo predio: URBANO     Super. Terreno: 34m2.     Super. Const.: 50m2.    Base gravable: $1500000
+**************************

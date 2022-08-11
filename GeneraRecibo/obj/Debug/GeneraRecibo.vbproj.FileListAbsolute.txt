@@ -1,0 +1,164 @@
+C:\CATAX\CATAX\Catastro\GeneraRecibo\bin\Debug\GeneraRecibo.dll.config
+C:\CATAX\CATAX\Catastro\GeneraRecibo\bin\Debug\GeneraRecibo.dll
+C:\CATAX\CATAX\Catastro\GeneraRecibo\bin\Debug\GeneraRecibo.pdb
+C:\CATAX\CATAX\Catastro\GeneraRecibo\bin\Debug\GeneraRecibo.xml
+C:\CATAX\CATAX\Catastro\GeneraRecibo\bin\Debug\BouncyCastle.Crypto.dll
+C:\CATAX\CATAX\Catastro\GeneraRecibo\bin\Debug\MessagingToolkit.QRCode.dll
+C:\CATAX\CATAX\Catastro\GeneraRecibo\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\CATAX\CATAX\Catastro\GeneraRecibo\bin\Debug\Recibo.dll
+C:\CATAX\CATAX\Catastro\GeneraRecibo\bin\Debug\ChilkatDotNet45.dll
+C:\CATAX\CATAX\Catastro\GeneraRecibo\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\CATAX\CATAX\Catastro\GeneraRecibo\bin\Debug\Recibo.pdb
+C:\CATAX\CATAX\Catastro\GeneraRecibo\bin\Debug\Recibo.xml
+C:\CATAX\CATAX\Catastro\GeneraRecibo\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\CATAX\CATAX\Catastro\GeneraRecibo\obj\Debug\GeneraRecibo.vbprojResolveAssemblyReference.cache
+C:\CATAX\CATAX\Catastro\GeneraRecibo\obj\Debug\GeneraRecibo.Resources.resources
+C:\CATAX\CATAX\Catastro\GeneraRecibo\obj\Debug\GeneraRecibo.vbproj.GenerateResource.Cache
+C:\CATAX\CATAX\Catastro\GeneraRecibo\obj\Debug\RdlCompile.cache
+C:\CATAX\CATAX\Catastro\GeneraRecibo\obj\Debug\RdlCompile.compiled
+C:\CATAX\CATAX\Catastro\GeneraRecibo\obj\Debug\GeneraRecibo.dll
+C:\CATAX\CATAX\Catastro\GeneraRecibo\obj\Debug\GeneraRecibo.xml
+C:\CATAX\CATAX\Catastro\GeneraRecibo\obj\Debug\GeneraRecibo.pdb
+C:\Proyectos\CATAX\CATAX\Catastro\GeneraRecibo\bin\Debug\GeneraRecibo.dll.config
+C:\Proyectos\CATAX\CATAX\Catastro\GeneraRecibo\bin\Debug\GeneraRecibo.dll
+C:\Proyectos\CATAX\CATAX\Catastro\GeneraRecibo\bin\Debug\GeneraRecibo.pdb
+C:\Proyectos\CATAX\CATAX\Catastro\GeneraRecibo\bin\Debug\GeneraRecibo.xml
+C:\Proyectos\CATAX\CATAX\Catastro\GeneraRecibo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Proyectos\CATAX\CATAX\Catastro\GeneraRecibo\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Proyectos\CATAX\CATAX\Catastro\GeneraRecibo\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Proyectos\CATAX\CATAX\Catastro\GeneraRecibo\bin\Debug\Recibo.dll
+C:\Proyectos\CATAX\CATAX\Catastro\GeneraRecibo\bin\Debug\ChilkatDotNet45.dll
+C:\Proyectos\CATAX\CATAX\Catastro\GeneraRecibo\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Proyectos\CATAX\CATAX\Catastro\GeneraRecibo\bin\Debug\Recibo.pdb
+C:\Proyectos\CATAX\CATAX\Catastro\GeneraRecibo\bin\Debug\Recibo.xml
+C:\Proyectos\CATAX\CATAX\Catastro\GeneraRecibo\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Proyectos\CATAX\CATAX\Catastro\GeneraRecibo\obj\Debug\GeneraRecibo.vbprojResolveAssemblyReference.cache
+C:\Proyectos\CATAX\CATAX\Catastro\GeneraRecibo\obj\Debug\GeneraRecibo.Resources.resources
+C:\Proyectos\CATAX\CATAX\Catastro\GeneraRecibo\obj\Debug\GeneraRecibo.vbproj.GenerateResource.Cache
+C:\Proyectos\CATAX\CATAX\Catastro\GeneraRecibo\obj\Debug\RdlCompile.cache
+C:\Proyectos\CATAX\CATAX\Catastro\GeneraRecibo\obj\Debug\RdlCompile.compiled
+C:\Proyectos\CATAX\CATAX\Catastro\GeneraRecibo\obj\Debug\GeneraRecibo.dll
+C:\Proyectos\CATAX\CATAX\Catastro\GeneraRecibo\obj\Debug\GeneraRecibo.xml
+C:\Proyectos\CATAX\CATAX\Catastro\GeneraRecibo\obj\Debug\GeneraRecibo.pdb
+D:\Nely\Proyecto\CATAX\Catastro\GeneraRecibo\bin\Debug\GeneraRecibo.dll.config
+D:\Nely\Proyecto\CATAX\Catastro\GeneraRecibo\bin\Debug\GeneraRecibo.dll
+D:\Nely\Proyecto\CATAX\Catastro\GeneraRecibo\bin\Debug\GeneraRecibo.pdb
+D:\Nely\Proyecto\CATAX\Catastro\GeneraRecibo\bin\Debug\GeneraRecibo.xml
+D:\Nely\Proyecto\CATAX\Catastro\GeneraRecibo\bin\Debug\BouncyCastle.Crypto.dll
+D:\Nely\Proyecto\CATAX\Catastro\GeneraRecibo\bin\Debug\MessagingToolkit.QRCode.dll
+D:\Nely\Proyecto\CATAX\Catastro\GeneraRecibo\bin\Debug\Recibo.dll
+D:\Nely\Proyecto\CATAX\Catastro\GeneraRecibo\bin\Debug\ChilkatDotNet45.dll
+D:\Nely\Proyecto\CATAX\Catastro\GeneraRecibo\bin\Debug\Recibo.pdb
+D:\Nely\Proyecto\CATAX\Catastro\GeneraRecibo\bin\Debug\Recibo.xml
+D:\Nely\Proyecto\CATAX\Catastro\GeneraRecibo\obj\Debug\GeneraRecibo.vbproj.AssemblyReference.cache
+D:\Nely\Proyecto\CATAX\Catastro\GeneraRecibo\obj\Debug\GeneraRecibo.Resources.resources
+D:\Nely\Proyecto\CATAX\Catastro\GeneraRecibo\obj\Debug\GeneraRecibo.vbproj.GenerateResource.cache
+D:\Nely\Proyecto\CATAX\Catastro\GeneraRecibo\obj\Debug\GeneraRecibo.vbproj.CoreCompileInputs.cache
+D:\Nely\Proyecto\CATAX\Catastro\GeneraRecibo\obj\Debug\GeneraRecibo.vbproj.CopyComplete
+D:\Nely\Proyecto\CATAX\Catastro\GeneraRecibo\obj\Debug\GeneraRecibo.dll
+D:\Nely\Proyecto\CATAX\Catastro\GeneraRecibo\obj\Debug\GeneraRecibo.xml
+D:\Nely\Proyecto\CATAX\Catastro\GeneraRecibo\obj\Debug\GeneraRecibo.pdb
+D:\Proyectos\SIPRED\sipred\GeneraRecibo\bin\Debug\GeneraRecibo.dll.config
+D:\Proyectos\SIPRED\sipred\GeneraRecibo\bin\Debug\GeneraRecibo.dll
+D:\Proyectos\SIPRED\sipred\GeneraRecibo\bin\Debug\GeneraRecibo.pdb
+D:\Proyectos\SIPRED\sipred\GeneraRecibo\bin\Debug\GeneraRecibo.xml
+D:\Proyectos\SIPRED\sipred\GeneraRecibo\bin\Debug\BouncyCastle.Crypto.dll
+D:\Proyectos\SIPRED\sipred\GeneraRecibo\bin\Debug\MessagingToolkit.QRCode.dll
+D:\Proyectos\SIPRED\sipred\GeneraRecibo\bin\Debug\Recibo.dll
+D:\Proyectos\SIPRED\sipred\GeneraRecibo\bin\Debug\ChilkatDotNet45.dll
+D:\Proyectos\SIPRED\sipred\GeneraRecibo\bin\Debug\Recibo.pdb
+D:\Proyectos\SIPRED\sipred\GeneraRecibo\bin\Debug\Recibo.xml
+D:\Proyectos\SIPRED\sipred\GeneraRecibo\obj\Debug\GeneraRecibo.vbproj.AssemblyReference.cache
+D:\Proyectos\SIPRED\sipred\GeneraRecibo\obj\Debug\GeneraRecibo.Resources.resources
+D:\Proyectos\SIPRED\sipred\GeneraRecibo\obj\Debug\GeneraRecibo.vbproj.GenerateResource.cache
+D:\Proyectos\SIPRED\sipred\GeneraRecibo\obj\Debug\GeneraRecibo.vbproj.CoreCompileInputs.cache
+D:\Proyectos\SIPRED\sipred\GeneraRecibo\obj\Debug\GeneraRecibo.dll
+D:\Proyectos\SIPRED\sipred\GeneraRecibo\obj\Debug\GeneraRecibo.xml
+D:\Proyectos\SIPRED\sipred\GeneraRecibo\obj\Debug\GeneraRecibo.pdb
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\GeneraRecibo\bin\Debug\GeneraRecibo.dll.config
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\GeneraRecibo\bin\Debug\GeneraRecibo.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\GeneraRecibo\bin\Debug\GeneraRecibo.pdb
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\GeneraRecibo\bin\Debug\GeneraRecibo.xml
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\GeneraRecibo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\GeneraRecibo\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\GeneraRecibo\bin\Debug\Recibo.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\GeneraRecibo\bin\Debug\ChilkatDotNet45.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\GeneraRecibo\bin\Debug\Recibo.pdb
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\GeneraRecibo\bin\Debug\Recibo.xml
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.vbprojAssemblyReference.cache
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.Resources.resources
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.vbproj.GenerateResource.cache
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.vbproj.CoreCompileInputs.cache
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.vbproj.CopyComplete
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.xml
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.pdb
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\GeneraRecibo\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\GeneraRecibo\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\GeneraRecibo\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\GeneraRecibo\obj\Debug\RdlCompile.cache
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred\GeneraRecibo\obj\Debug\RdlCompile.compiled
+C:\Proyecto\Sipred\Sipred\GeneraRecibo\bin\Debug\GeneraRecibo.dll.config
+C:\Proyecto\Sipred\Sipred\GeneraRecibo\bin\Debug\GeneraRecibo.dll
+C:\Proyecto\Sipred\Sipred\GeneraRecibo\bin\Debug\GeneraRecibo.pdb
+C:\Proyecto\Sipred\Sipred\GeneraRecibo\bin\Debug\GeneraRecibo.xml
+C:\Proyecto\Sipred\Sipred\GeneraRecibo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Proyecto\Sipred\Sipred\GeneraRecibo\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Proyecto\Sipred\Sipred\GeneraRecibo\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Proyecto\Sipred\Sipred\GeneraRecibo\bin\Debug\Recibo.dll
+C:\Proyecto\Sipred\Sipred\GeneraRecibo\bin\Debug\ChilkatDotNet45.dll
+C:\Proyecto\Sipred\Sipred\GeneraRecibo\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Proyecto\Sipred\Sipred\GeneraRecibo\bin\Debug\Recibo.pdb
+C:\Proyecto\Sipred\Sipred\GeneraRecibo\bin\Debug\Recibo.xml
+C:\Proyecto\Sipred\Sipred\GeneraRecibo\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Proyecto\Sipred\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.vbprojAssemblyReference.cache
+C:\Proyecto\Sipred\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.Resources.resources
+C:\Proyecto\Sipred\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.vbproj.GenerateResource.cache
+C:\Proyecto\Sipred\Sipred\GeneraRecibo\obj\Debug\RdlCompile.cache
+C:\Proyecto\Sipred\Sipred\GeneraRecibo\obj\Debug\RdlCompile.compiled
+C:\Proyecto\Sipred\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.vbproj.CoreCompileInputs.cache
+C:\Proyecto\Sipred\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.vbproj.CopyComplete
+C:\Proyecto\Sipred\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.dll
+C:\Proyecto\Sipred\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.xml
+C:\Proyecto\Sipred\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.pdb
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\GeneraRecibo\bin\Debug\GeneraRecibo.dll.config
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\GeneraRecibo\bin\Debug\GeneraRecibo.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\GeneraRecibo\bin\Debug\GeneraRecibo.pdb
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\GeneraRecibo\bin\Debug\GeneraRecibo.xml
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\GeneraRecibo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\GeneraRecibo\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\GeneraRecibo\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\GeneraRecibo\bin\Debug\Recibo.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\GeneraRecibo\bin\Debug\ChilkatDotNet45.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\GeneraRecibo\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\GeneraRecibo\bin\Debug\Recibo.pdb
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\GeneraRecibo\bin\Debug\Recibo.xml
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\GeneraRecibo\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.vbprojAssemblyReference.cache
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.Resources.resources
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.vbproj.GenerateResource.cache
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\GeneraRecibo\obj\Debug\RdlCompile.cache
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\GeneraRecibo\obj\Debug\RdlCompile.compiled
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.vbproj.CoreCompileInputs.cache
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.vbproj.CopyComplete
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.dll
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.xml
+C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.pdb
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\GeneraRecibo\bin\Debug\GeneraRecibo.dll.config
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\GeneraRecibo\bin\Debug\GeneraRecibo.dll
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\GeneraRecibo\bin\Debug\GeneraRecibo.pdb
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\GeneraRecibo\bin\Debug\GeneraRecibo.xml
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\GeneraRecibo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\GeneraRecibo\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\GeneraRecibo\bin\Debug\Recibo.dll
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\GeneraRecibo\bin\Debug\ChilkatDotNet45.dll
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\GeneraRecibo\bin\Debug\Recibo.pdb
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\GeneraRecibo\bin\Debug\Recibo.xml
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.vbprojAssemblyReference.cache
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.Resources.resources
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.vbproj.GenerateResource.cache
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.vbproj.CoreCompileInputs.cache
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.vbproj.CopyComplete
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.dll
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.xml
+C:\Users\DEVPRO\Downloads\Sipred\Sipred\GeneraRecibo\obj\Debug\GeneraRecibo.pdb

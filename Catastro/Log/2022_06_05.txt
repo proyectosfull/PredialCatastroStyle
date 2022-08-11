@@ -1,0 +1,7 @@
+**************************
+Fecha Hora de la insercion del recibo: 05/06/2022 11:58:28 p. m.
+IdPredio=31357
+Periodo  =6/2022
+IdTipoTramite=1
+tipo=IP
+**************************

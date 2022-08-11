@@ -1,0 +1,513 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Recibo33
+</name>
+</assembly>
+<members>
+<member name="T:Recibo33.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Recibo33.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Recibo33.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Recibo33.Comprobante">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.CfdiRelacionados">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.Emisor">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.Receptor">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.Conceptos">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.Impuestos">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.Complemento">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.Addenda">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.Version">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.Serie">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.Folio">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.Fecha">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.Sello">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.FormaPago">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.FormaPagoSpecified">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.NoCertificado">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.Certificado">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.CondicionesDePago">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.SubTotal">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.Descuento">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.DescuentoSpecified">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.Moneda">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.TipoCambio">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.TipoCambioSpecified">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.Total">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.TipoDeComprobante">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.MetodoPago">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.MetodoPagoSpecified">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.LugarExpedicion">
+<comentarios/>
+</member>
+<member name="P:Recibo33.Comprobante.Confirmacion">
+<comentarios/>
+</member>
+<member name="T:Recibo33.ComprobanteCfdiRelacionados">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteCfdiRelacionados.CfdiRelacionado">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteCfdiRelacionados.TipoRelacion">
+<comentarios/>
+</member>
+<member name="T:Recibo33.ComprobanteCfdiRelacionadosCfdiRelacionado">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteCfdiRelacionadosCfdiRelacionado.UUID">
+<comentarios/>
+</member>
+<member name="T:Recibo33.c_TipoRelacion">
+<comentarios/>
+</member>
+<member name="F:Recibo33.c_TipoRelacion.Item01">
+<comentarios/>
+</member>
+<member name="F:Recibo33.c_TipoRelacion.Item02">
+<comentarios/>
+</member>
+<member name="F:Recibo33.c_TipoRelacion.Item03">
+<comentarios/>
+</member>
+<member name="F:Recibo33.c_TipoRelacion.Item04">
+<comentarios/>
+</member>
+<member name="F:Recibo33.c_TipoRelacion.Item05">
+<comentarios/>
+</member>
+<member name="F:Recibo33.c_TipoRelacion.Item06">
+<comentarios/>
+</member>
+<member name="T:Recibo33.ComprobanteEmisor">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteEmisor.Rfc">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteEmisor.Nombre">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteEmisor.RegimenFiscal">
+<comentarios/>
+</member>
+<member name="T:Recibo33.ComprobanteReceptor">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteReceptor.Rfc">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteReceptor.Nombre">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteReceptor.ResidenciaFiscal">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteReceptor.ResidenciaFiscalSpecified">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteReceptor.NumRegIdTrib">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteReceptor.UsoCFDI">
+<comentarios/>
+</member>
+<member name="T:Recibo33.ComprobanteConcepto">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConcepto.Impuestos">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConcepto.InformacionAduanera">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConcepto.CuentaPredial">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConcepto.ComplementoConcepto">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConcepto.Parte">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConcepto.ClaveProdServ">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConcepto.NoIdentificacion">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConcepto.Cantidad">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConcepto.ClaveUnidad">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConcepto.Unidad">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConcepto.Descripcion">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConcepto.ValorUnitario">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConcepto.Importe">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConcepto.Descuento">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConcepto.DescuentoSpecified">
+<comentarios/>
+</member>
+<member name="T:Recibo33.ComprobanteConceptoImpuestos">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoImpuestos.Traslados">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoImpuestos.Retenciones">
+<comentarios/>
+</member>
+<member name="T:Recibo33.ComprobanteConceptoImpuestosTraslado">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoImpuestosTraslado.Base">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoImpuestosTraslado.Impuesto">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoImpuestosTraslado.TipoFactor">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoImpuestosTraslado.TasaOCuota">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoImpuestosTraslado.TasaOCuotaSpecified">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoImpuestosTraslado.Importe">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoImpuestosTraslado.ImporteSpecified">
+<comentarios/>
+</member>
+<member name="T:Recibo33.c_Impuesto">
+<comentarios/>
+</member>
+<member name="F:Recibo33.c_Impuesto.Item001">
+<comentarios/>
+</member>
+<member name="F:Recibo33.c_Impuesto.Item002">
+<comentarios/>
+</member>
+<member name="F:Recibo33.c_Impuesto.Item003">
+<comentarios/>
+</member>
+<member name="T:Recibo33.c_TipoFactor">
+<comentarios/>
+</member>
+<member name="F:Recibo33.c_TipoFactor.Tasa">
+<comentarios/>
+</member>
+<member name="F:Recibo33.c_TipoFactor.Cuota">
+<comentarios/>
+</member>
+<member name="F:Recibo33.c_TipoFactor.Exento">
+<comentarios/>
+</member>
+<member name="T:Recibo33.ComprobanteConceptoImpuestosRetencion">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoImpuestosRetencion.Base">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoImpuestosRetencion.Impuesto">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoImpuestosRetencion.TipoFactor">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoImpuestosRetencion.TasaOCuota">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoImpuestosRetencion.Importe">
+<comentarios/>
+</member>
+<member name="T:Recibo33.ComprobanteConceptoInformacionAduanera">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoInformacionAduanera.NumeroPedimento">
+<comentarios/>
+</member>
+<member name="T:Recibo33.ComprobanteConceptoCuentaPredial">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoCuentaPredial.Numero">
+<comentarios/>
+</member>
+<member name="T:Recibo33.ComprobanteConceptoComplementoConcepto">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoComplementoConcepto.Any">
+<comentarios/>
+</member>
+<member name="T:Recibo33.ComprobanteConceptoParte">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoParte.InformacionAduanera">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoParte.ClaveProdServ">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoParte.NoIdentificacion">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoParte.Cantidad">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoParte.Unidad">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoParte.Descripcion">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoParte.ValorUnitario">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoParte.ValorUnitarioSpecified">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoParte.Importe">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoParte.ImporteSpecified">
+<comentarios/>
+</member>
+<member name="T:Recibo33.ComprobanteConceptoParteInformacionAduanera">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteConceptoParteInformacionAduanera.NumeroPedimento">
+<comentarios/>
+</member>
+<member name="T:Recibo33.ComprobanteImpuestos">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteImpuestos.Retenciones">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteImpuestos.Traslados">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteImpuestos.TotalImpuestosRetenidos">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteImpuestos.TotalImpuestosRetenidosSpecified">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteImpuestos.TotalImpuestosTrasladados">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteImpuestos.TotalImpuestosTrasladadosSpecified">
+<comentarios/>
+</member>
+<member name="T:Recibo33.ComprobanteImpuestosRetencion">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteImpuestosRetencion.Impuesto">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteImpuestosRetencion.Importe">
+<comentarios/>
+</member>
+<member name="T:Recibo33.ComprobanteImpuestosTraslado">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteImpuestosTraslado.Impuesto">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteImpuestosTraslado.TipoFactor">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteImpuestosTraslado.TasaOCuota">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteImpuestosTraslado.Importe">
+<comentarios/>
+</member>
+<member name="T:Recibo33.ComprobanteComplemento">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteComplemento.Any">
+<comentarios/>
+</member>
+<member name="T:Recibo33.ComprobanteAddenda">
+<comentarios/>
+</member>
+<member name="P:Recibo33.ComprobanteAddenda.Any">
+<comentarios/>
+</member>
+<member name="P:Recibo33.CFDx33.Schemma">
+ <summary>
+ Contiene dos 'Key's : CFDv3 y CFDv32
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Recibo33.CFDx33.CreaXML">
+ <summary>
+ Función que llena los Campos de la Classe Comprobante usando las variables privadas declaradas al principio
+ </summary>
+ <returns>Devuelve un Objeto de tipo Comprobante para la Serialización a XML</returns>
+ <remarks></remarks>
+</member>
+<member name="M:Recibo33.CFDx33.Comprobante(Recibo33.CFDx33.VersionCFD,System.String,System.DateTime,System.String,System.Double,System.Double,System.String,System.String,System.String,System.String,System.String,System.String,System.Double,System.String,System.String,System.String,System.String,System.String,System.Nullable{System.DateTime})">
+ <summary>
+ Método Privado para llenar los atributos y propiedades del objeto comprobante
+ </summary>
+ <param name="Version"></param>
+ <param name="folio"></param>
+ <param name="fecha"></param>
+ <param name="formaDePago"></param>
+ <param name="SubTotal"></param>
+ <param name="Total"></param>
+ <param name="tipoDeComprobante"></param>
+ <param name="metodoDePago"></param>
+ <param name="LugarDeExpedicion"></param>
+ <param name="serie"></param>
+ <param name="TipoDeCambio"></param>
+ <param name="condicionesDePago"></param>
+ <param name="descuento"></param>
+ <param name="motivoDescuento"></param>
+ <param name="Moneda"></param>
+ <param name="NumCtaPago"></param>
+ <param name="FolioFiscalOrig"></param>
+ <param name="SerieFolioFiscalOrig"></param>
+ <param name="FechaFolioFiscalOrig"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Recibo33.CFDx33.AgregaEmisor(System.String,System.String)">
+ <summary>
+ Agrega los Datos del Emisor
+ </summary>
+ <param name="RFC"></param>
+ <param name="Nombre"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Recibo33.CFDx33.CreaFacturaXML(System.String,System.Byte[],System.String,System.Byte[],System.String@,System.String)">
+ <summary>
+ Crea el Archivo XML con los Datos del CFDI
+ </summary>
+ <returns>Regresa True si se creó el CFDI exitósamente, sino, devuelve False</returns>
+ <remarks></remarks>
+</member>
+<member name="M:Recibo33.CFDx33.RemoveAllemptys(System.Xml.Linq.XElement,System.Boolean)">
+ <summary>
+ Función que Elimina los Atributos y Elementos que estan vacíos
+ </summary>
+ <param name="el"></param>
+ <param name="includeChildNodes"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Recibo33.CFDx33.ValidaXML(System.Xml.Linq.XDocument,Recibo33.CFDx33.VersionCFD,System.String@,System.String)">
+ <summary>
+ Valida la estructura del XML generado usando un archivo XSD
+ </summary>
+ <param name="xml"></param>
+ <param name="xsdNameSpace" description="Name Space del Archivo XSD"></param>
+ <returns>Regresa False si el XML tiene errores VS el Archivo XSD, True si no Contiene Errores</returns>
+</member>
+<member name="M:Recibo33.CFDx33.GetCadenaOriginal(System.Xml.Linq.XDocument,System.String)">
+ <summary>
+ Obtiene la Cadena Original con las Especificaciones del Anexo 20 (SAT) en Base al Archivo XML
+ </summary>
+ <param name="XMLstring">El Archivo XML que contiene los Datos para la Factura Electrónica</param>
+ <param name="fileXSLT">El Archivo XSLT que contiene las especifícaciones (SAT) para Obtener la Cadena Original</param>
+ <returns>Regresa un Objeto tipo String con el Formato de Cadena Original (SAT)</returns>
+ <remarks></remarks>
+</member>
+<member name="M:Recibo33.CFDx33.SellarXML(System.Byte[],System.String,System.Byte[],System.Xml.Linq.XDocument@,System.String@)">
+ <summary>
+ Crea el Sello Digital del Emisor Requerido para la Factura Electrónica (SAT)
+ </summary>
+ <param name="KeyFile">El archivo key (*.key) (FIEL) del Emisor</param>
+ <param name="Pass">La Contraseña para leer el Archivo key</param>
+ <param name="CerFile">El Certificado (*.cert) (FIEL) del Emisor</param>
+ <param name="XMLstring">El Archivo XML sin Sellar</param>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

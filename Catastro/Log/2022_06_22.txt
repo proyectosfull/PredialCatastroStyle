@@ -1,0 +1,102 @@
+**************************
+Fecha Hora de la insercion del recibo: 22/06/2022 11:17:28 a. m.
+IdPredio=17960
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 22/06/2022 11:20:08 a. m.
+idtramite=103263
+Contribuyente=   INMOBILIARIA LIBERAS, S.A.P. I. DE C.V.
+DatosPredio=Clave Catastral: 1200-02-301-030     Tipo predio: URBANO     Super. Terreno: 2000m2.     Super. Const.: 0m2.    Base gravable: $900000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 22/06/2022 11:23:26 a. m.
+IdPredio=17960
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 22/06/2022 11:24:01 a. m.
+idtramite=103264
+Contribuyente=   INMOBILIARIA LIBERAS, S.A.P. I. DE C.V.
+DatosPredio=Clave Catastral: 1200-02-301-030     Tipo predio: URBANO     Super. Terreno: 2000m2.     Super. Const.: 0m2.    Base gravable: $900000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 22/06/2022 11:30:41 a. m.
+idtramite=103264
+Contribuyente=   INMOBILIARIA LIBERAS, S.A.P. I. DE C.V.
+DatosPredio=Clave Catastral: 1200-02-301-030     Tipo predio: URBANO     Super. Terreno: 2000m2.     Super. Const.: 0m2.    Base gravable: $900000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 22/06/2022 11:36:16 a. m.
+IdPredio=46216
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 22/06/2022 11:36:56 a. m.
+idtramite=103265
+Contribuyente=   INMOBILIARIA LIBERAS, S.A.P. I. DE C.V.
+DatosPredio=Clave Catastral: 1200-02-301-031     Tipo predio: URBANO     Super. Terreno: 898m2.     Super. Const.: 0m2.    Base gravable: $404100
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 22/06/2022 11:41:46 a. m.
+idtramite=103256
+Contribuyente=   INMOBILIARIA LIBERAS, S.A.P. I. DE C.V.
+DatosPredio=Clave Catastral: 1200-02-301-032     Tipo predio: URBANO     Super. Terreno: 14966m2.     Super. Const.: 6808m2.    Base gravable: $19407330
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 22/06/2022 11:43:38 a. m.
+idtramite=103258
+Contribuyente=   INMOBILIARIA LIBERAS, S.A.P. I. DE C.V.
+DatosPredio=Clave Catastral: 1200-02-301-033     Tipo predio: URBANO     Super. Terreno: 6902m2.     Super. Const.: 4077m2.    Base gravable: $14279940
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 22/06/2022 11:45:26 a. m.
+idtramite=103233
+Contribuyente=   "ANURA INMOBILIARIA", S.A. DE C.V.
+DatosPredio=Clave Catastral: 1200-02-301-015     Tipo predio: URBANO     Super. Terreno: 10379m2.     Super. Const.: 0m2.    Base gravable: $5189500
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 22/06/2022 12:16:00 p. m.
+IdPredio=18222
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 22/06/2022 12:17:05 p. m.
+idtramite=103266
+Contribuyente=   "ANURA INMOBILIARIA", S.A. DE C.V.
+DatosPredio=Clave Catastral: 1200-02-301-015     Tipo predio: URBANO     Super. Terreno: 10379m2.     Super. Const.: 0m2.    Base gravable: $5189500
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 22/06/2022 12:18:39 p. m.
+IdPredio=18222
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 22/06/2022 12:19:23 p. m.
+idtramite=103267
+Contribuyente=   "ANURA INMOBILIARIA", S.A. DE C.V.
+DatosPredio=Clave Catastral: 1200-02-301-015     Tipo predio: URBANO     Super. Terreno: 10379m2.     Super. Const.: 0m2.    Base gravable: $5189500
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 22/06/2022 12:20:18 p. m.
+IdPredio=18222
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 22/06/2022 12:20:45 p. m.
+idtramite=103268
+Contribuyente=   "ANURA INMOBILIARIA", S.A. DE C.V.
+DatosPredio=Clave Catastral: 1200-02-301-015     Tipo predio: URBANO     Super. Terreno: 10379m2.     Super. Const.: 0m2.    Base gravable: $5189500
+**************************

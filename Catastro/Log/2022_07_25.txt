@@ -1,0 +1,199 @@
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 07:50:25 p. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 07:52:38 p. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 07:52:38 p. m.
+idtramite=105066
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 07:53:47 p. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 07:54:18 p. m.
+idtramite=105068
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 08:16:02 p. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 08:16:29 p. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 08:16:29 p. m.
+idtramite=105069
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 08:55:38 p. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 08:57:02 p. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 08:57:02 p. m.
+idtramite=105071
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 09:00:47 p. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 09:04:03 p. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 09:04:03 p. m.
+idtramite=105073
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 09:21:37 p. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 09:22:09 p. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 09:22:09 p. m.
+idtramite=105075
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 09:23:14 p. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 09:23:41 p. m.
+idtramite=105075
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 09:29:39 p. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 09:29:43 p. m.
+idtramite=105075
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 09:42:33 p. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 09:43:03 p. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 09:43:30 p. m.
+idtramite=105079
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 09:59:46 p. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 10:00:14 p. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 10:00:15 p. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 10:00:17 p. m.
+idtramite=105081
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 10:08:17 p. m.
+IdPredio=46058
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/07/2022 10:08:19 p. m.
+idtramite=105084
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************

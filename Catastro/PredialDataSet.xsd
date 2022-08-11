@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="PredialDataSet" targetNamespace="http://tempuri.org/PredialDataSet.xsd" xmlns:mstns="http://tempuri.org/PredialDataSet.xsd" xmlns="http://tempuri.org/PredialDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Web.config" AppSettingsPropertyName="PredialConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="PredialConnectionString (Web.config)" ParameterPrefix="@" PropertyReference="AppConfig.System.Configuration.ConfigurationManager.0.ConnectionStrings.PredialConnectionString.ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="vPadronPredioTableAdapter" GeneratorDataComponentClassName="vPadronPredioTableAdapter" Name="vPadronPredio" UserDataComponentName="vPadronPredioTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="PredialConnectionString (Web.config)" DbObjectName="Predial.dbo.vPadronPredio" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT ClavePredial, FechaAlta, Contribuyente, direccion, tipoPredio, IdTipoPredio, IdStatusPredio, mes, anoAlta, EstadoPredio, ExcentoPago, superficieTerreno, SuperficieConstruccion, ValorConstruccion, ValorTerreno, Valor, AaFinalIp, BimestreFinIp, FechaAvaluo, AaFinalSm, BimestreFinSm FROM dbo.vPadronPredio</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="ClavePredial" DataSetColumn="ClavePredial" />
+              <Mapping SourceColumn="FechaAlta" DataSetColumn="FechaAlta" />
+              <Mapping SourceColumn="Contribuyente" DataSetColumn="Contribuyente" />
+              <Mapping SourceColumn="direccion" DataSetColumn="direccion" />
+              <Mapping SourceColumn="tipoPredio" DataSetColumn="tipoPredio" />
+              <Mapping SourceColumn="IdTipoPredio" DataSetColumn="IdTipoPredio" />
+              <Mapping SourceColumn="IdStatusPredio" DataSetColumn="IdStatusPredio" />
+              <Mapping SourceColumn="mes" DataSetColumn="mes" />
+              <Mapping SourceColumn="anoAlta" DataSetColumn="anoAlta" />
+              <Mapping SourceColumn="EstadoPredio" DataSetColumn="EstadoPredio" />
+              <Mapping SourceColumn="ExcentoPago" DataSetColumn="ExcentoPago" />
+              <Mapping SourceColumn="superficieTerreno" DataSetColumn="superficieTerreno" />
+              <Mapping SourceColumn="SuperficieConstruccion" DataSetColumn="SuperficieConstruccion" />
+              <Mapping SourceColumn="ValorConstruccion" DataSetColumn="ValorConstruccion" />
+              <Mapping SourceColumn="ValorTerreno" DataSetColumn="ValorTerreno" />
+              <Mapping SourceColumn="Valor" DataSetColumn="Valor" />
+              <Mapping SourceColumn="AaFinalIp" DataSetColumn="AaFinalIp" />
+              <Mapping SourceColumn="BimestreFinIp" DataSetColumn="BimestreFinIp" />
+              <Mapping SourceColumn="FechaAvaluo" DataSetColumn="FechaAvaluo" />
+              <Mapping SourceColumn="AaFinalSm" DataSetColumn="AaFinalSm" />
+              <Mapping SourceColumn="BimestreFinSm" DataSetColumn="BimestreFinSm" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="PredialDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="PredialDataSet" msprop:Generator_UserDSName="PredialDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="vPadronPredio" msprop:Generator_TableClassName="vPadronPredioDataTable" msprop:Generator_TableVarName="tablevPadronPredio" msprop:Generator_TablePropName="vPadronPredio" msprop:Generator_RowDeletingName="vPadronPredioRowDeleting" msprop:Generator_RowChangingName="vPadronPredioRowChanging" msprop:Generator_RowEvHandlerName="vPadronPredioRowChangeEventHandler" msprop:Generator_RowDeletedName="vPadronPredioRowDeleted" msprop:Generator_UserTableName="vPadronPredio" msprop:Generator_RowChangedName="vPadronPredioRowChanged" msprop:Generator_RowEvArgName="vPadronPredioRowChangeEvent" msprop:Generator_RowClassName="vPadronPredioRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ClavePredial" msprop:Generator_ColumnVarNameInTable="columnClavePredial" msprop:Generator_ColumnPropNameInRow="ClavePredial" msprop:Generator_ColumnPropNameInTable="ClavePredialColumn" msprop:Generator_UserColumnName="ClavePredial">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="FechaAlta" msprop:Generator_ColumnVarNameInTable="columnFechaAlta" msprop:Generator_ColumnPropNameInRow="FechaAlta" msprop:Generator_ColumnPropNameInTable="FechaAltaColumn" msprop:Generator_UserColumnName="FechaAlta" type="xs:dateTime" />
+              <xs:element name="Contribuyente" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnContribuyente" msprop:Generator_ColumnPropNameInRow="Contribuyente" msprop:Generator_ColumnPropNameInTable="ContribuyenteColumn" msprop:Generator_UserColumnName="Contribuyente" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="302" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="direccion" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columndireccion" msprop:Generator_ColumnPropNameInRow="direccion" msprop:Generator_ColumnPropNameInTable="direccionColumn" msprop:Generator_UserColumnName="direccion" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="312" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="tipoPredio" msprop:Generator_ColumnVarNameInTable="columntipoPredio" msprop:Generator_ColumnPropNameInRow="tipoPredio" msprop:Generator_ColumnPropNameInTable="tipoPredioColumn" msprop:Generator_UserColumnName="tipoPredio">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IdTipoPredio" msprop:Generator_ColumnVarNameInTable="columnIdTipoPredio" msprop:Generator_ColumnPropNameInRow="IdTipoPredio" msprop:Generator_ColumnPropNameInTable="IdTipoPredioColumn" msprop:Generator_UserColumnName="IdTipoPredio" type="xs:int" />
+              <xs:element name="IdStatusPredio" msprop:Generator_ColumnVarNameInTable="columnIdStatusPredio" msprop:Generator_ColumnPropNameInRow="IdStatusPredio" msprop:Generator_ColumnPropNameInTable="IdStatusPredioColumn" msprop:Generator_UserColumnName="IdStatusPredio" type="xs:int" />
+              <xs:element name="mes" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnmes" msprop:Generator_ColumnPropNameInRow="mes" msprop:Generator_ColumnPropNameInTable="mesColumn" msprop:Generator_UserColumnName="mes" type="xs:int" minOccurs="0" />
+              <xs:element name="anoAlta" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnanoAlta" msprop:Generator_ColumnPropNameInRow="anoAlta" msprop:Generator_ColumnPropNameInTable="anoAltaColumn" msprop:Generator_UserColumnName="anoAlta" type="xs:int" minOccurs="0" />
+              <xs:element name="EstadoPredio" msprop:Generator_ColumnVarNameInTable="columnEstadoPredio" msprop:Generator_ColumnPropNameInRow="EstadoPredio" msprop:Generator_ColumnPropNameInTable="EstadoPredioColumn" msprop:Generator_UserColumnName="EstadoPredio">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ExcentoPago" msprop:Generator_ColumnVarNameInTable="columnExcentoPago" msprop:Generator_ColumnPropNameInRow="ExcentoPago" msprop:Generator_ColumnPropNameInTable="ExcentoPagoColumn" msprop:Generator_UserColumnName="ExcentoPago">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="superficieTerreno" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnsuperficieTerreno" msprop:Generator_ColumnPropNameInRow="superficieTerreno" msprop:Generator_ColumnPropNameInTable="superficieTerrenoColumn" msprop:Generator_UserColumnName="superficieTerreno" type="xs:double" minOccurs="0" />
+              <xs:element name="SuperficieConstruccion" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnSuperficieConstruccion" msprop:Generator_ColumnPropNameInRow="SuperficieConstruccion" msprop:Generator_ColumnPropNameInTable="SuperficieConstruccionColumn" msprop:Generator_UserColumnName="SuperficieConstruccion" type="xs:double" minOccurs="0" />
+              <xs:element name="ValorConstruccion" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnValorConstruccion" msprop:Generator_ColumnPropNameInRow="ValorConstruccion" msprop:Generator_ColumnPropNameInTable="ValorConstruccionColumn" msprop:Generator_UserColumnName="ValorConstruccion" type="xs:double" minOccurs="0" />
+              <xs:element name="ValorTerreno" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnValorTerreno" msprop:Generator_ColumnPropNameInRow="ValorTerreno" msprop:Generator_ColumnPropNameInTable="ValorTerrenoColumn" msprop:Generator_UserColumnName="ValorTerreno" type="xs:double" minOccurs="0" />
+              <xs:element name="Valor" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnValor" msprop:Generator_ColumnPropNameInRow="Valor" msprop:Generator_ColumnPropNameInTable="ValorColumn" msprop:Generator_UserColumnName="Valor" type="xs:decimal" minOccurs="0" />
+              <xs:element name="AaFinalIp" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnAaFinalIp" msprop:Generator_ColumnPropNameInRow="AaFinalIp" msprop:Generator_ColumnPropNameInTable="AaFinalIpColumn" msprop:Generator_UserColumnName="AaFinalIp" type="xs:int" minOccurs="0" />
+              <xs:element name="BimestreFinIp" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnBimestreFinIp" msprop:Generator_ColumnPropNameInRow="BimestreFinIp" msprop:Generator_ColumnPropNameInTable="BimestreFinIpColumn" msprop:Generator_UserColumnName="BimestreFinIp" type="xs:int" minOccurs="0" />
+              <xs:element name="FechaAvaluo" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnFechaAvaluo" msprop:Generator_ColumnPropNameInRow="FechaAvaluo" msprop:Generator_ColumnPropNameInTable="FechaAvaluoColumn" msprop:Generator_UserColumnName="FechaAvaluo" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="AaFinalSm" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnAaFinalSm" msprop:Generator_ColumnPropNameInRow="AaFinalSm" msprop:Generator_ColumnPropNameInTable="AaFinalSmColumn" msprop:Generator_UserColumnName="AaFinalSm" type="xs:int" minOccurs="0" />
+              <xs:element name="BimestreFinSm" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnBimestreFinSm" msprop:Generator_ColumnPropNameInRow="BimestreFinSm" msprop:Generator_ColumnPropNameInTable="BimestreFinSmColumn" msprop:Generator_UserColumnName="BimestreFinSm" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

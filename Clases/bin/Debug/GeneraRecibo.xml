@@ -1,0 +1,360 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GeneraRecibo
+</name>
+</assembly>
+<members>
+<member name="T:GeneraRecibo.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:GeneraRecibo.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:GeneraRecibo.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:GeneraRecibo.My.Resources.Resources.cancelado">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:GeneraRecibo.NumLetras">
+ <summary>
+ Convierte números en su expresión numérica a su numeral cardinal
+ </summary>
+</member>
+<member name="P:GeneraRecibo.NumLetras.Decimales">
+ <summary>
+ Indica la cantidad de decimales que se pasarán a entero para la conversión
+ </summary>
+ <remarks>Esta propiedad cambia al cambiar MascaraDecimal por un valor que empieze con '0'</remarks>
+</member>
+<member name="P:GeneraRecibo.NumLetras.CultureInfo">
+ <summary>
+ Objeto CultureInfo utilizado para convertir las cadenas de entrada en números
+ </summary>
+</member>
+<member name="P:GeneraRecibo.NumLetras.SeparadorDecimalSalida">
+ <summary>
+ Indica la cadena a intercalar entre la parte entera y la decimal del número
+ </summary>
+</member>
+<member name="P:GeneraRecibo.NumLetras.MascaraSalidaDecimal">
+ <summary>
+ Indica el formato que se le dara a la parte decimal del número
+ </summary>
+</member>
+<member name="P:GeneraRecibo.NumLetras.LetraCapital">
+ <summary>
+ Indica si la primera letra del resultado debe estár en mayúscula
+ </summary>
+</member>
+<member name="P:GeneraRecibo.NumLetras.ConvertirDecimales">
+ <summary>
+ Indica si se deben convertir los decimales a su expresión nominal
+ </summary>
+</member>
+<member name="P:GeneraRecibo.NumLetras.ApocoparUnoParteEntera">
+ <summary>
+ Indica si de debe cambiar "uno" por "un" en las unidades.
+ </summary>
+</member>
+<member name="P:GeneraRecibo.NumLetras.ApocoparUnoParteDecimal">
+ <summary>
+ Determina si se debe apococopar el "uno" en la parte decimal
+ </summary>
+ <remarks>El valor de esta propiedad cambia al setear ConvertirDecimales</remarks>
+</member>
+<member name="T:GeneraRecibo.facturainteligente2.FI_TFD">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.#ctor">
+<remarks/>
+</member>
+<member name="E:GeneraRecibo.facturainteligente2.FI_TFD.TimbrarCFDIPruebaCompleted">
+<remarks/>
+</member>
+<member name="E:GeneraRecibo.facturainteligente2.FI_TFD.TimbrarCFDCompleted">
+<remarks/>
+</member>
+<member name="E:GeneraRecibo.facturainteligente2.FI_TFD.CancelarCFDICompleted">
+<remarks/>
+</member>
+<member name="E:GeneraRecibo.facturainteligente2.FI_TFD.ConfirmarRecepcionCompleted">
+<remarks/>
+</member>
+<member name="E:GeneraRecibo.facturainteligente2.FI_TFD.ObtenerXMLCompleted">
+<remarks/>
+</member>
+<member name="E:GeneraRecibo.facturainteligente2.FI_TFD.ObtenerAcuseEnvioCompleted">
+<remarks/>
+</member>
+<member name="E:GeneraRecibo.facturainteligente2.FI_TFD.ObtenerAcuseCancelacionCompleted">
+<remarks/>
+</member>
+<member name="E:GeneraRecibo.facturainteligente2.FI_TFD.CambiarPasswordCompleted">
+<remarks/>
+</member>
+<member name="E:GeneraRecibo.facturainteligente2.FI_TFD.ConsultarComplementoTimbreCompleted">
+<remarks/>
+</member>
+<member name="E:GeneraRecibo.facturainteligente2.FI_TFD.ConsultarTimbrePorReferenciaCompleted">
+<remarks/>
+</member>
+<member name="E:GeneraRecibo.facturainteligente2.FI_TFD.ConsultarEstadoComprobanteCompleted">
+<remarks/>
+</member>
+<member name="E:GeneraRecibo.facturainteligente2.FI_TFD.ConsultarCreditosCompleted">
+<remarks/>
+</member>
+<member name="E:GeneraRecibo.facturainteligente2.FI_TFD.GeneraCBBCompleted">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.TimbrarCFDIPrueba(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.TimbrarCFDIPruebaAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.TimbrarCFDIPruebaAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.TimbrarCFD(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.TimbrarCFDAsync(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.TimbrarCFDAsync(System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.CancelarCFDI(System.String,System.String,System.String,System.String[],System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.CancelarCFDIAsync(System.String,System.String,System.String,System.String[],System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.CancelarCFDIAsync(System.String,System.String,System.String,System.String[],System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.ConfirmarRecepcion(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.ConfirmarRecepcionAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.ConfirmarRecepcionAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.ObtenerXML(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.ObtenerXMLAsync(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.ObtenerXMLAsync(System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.ObtenerAcuseEnvio(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.ObtenerAcuseEnvioAsync(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.ObtenerAcuseEnvioAsync(System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.ObtenerAcuseCancelacion(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.ObtenerAcuseCancelacionAsync(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.ObtenerAcuseCancelacionAsync(System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.CambiarPassword(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.CambiarPasswordAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.CambiarPasswordAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.ConsultarComplementoTimbre(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.ConsultarComplementoTimbreAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.ConsultarComplementoTimbreAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.ConsultarTimbrePorReferencia(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.ConsultarTimbrePorReferenciaAsync(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.ConsultarTimbrePorReferenciaAsync(System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.ConsultarEstadoComprobante(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.ConsultarEstadoComprobanteAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.ConsultarEstadoComprobanteAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.ConsultarCreditos(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.ConsultarCreditosAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.ConsultarCreditosAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.GeneraCBB(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.GeneraCBBAsync(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.GeneraCBBAsync(System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:GeneraRecibo.facturainteligente2.FI_TFD.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo.facturainteligente2.TimbrarCFDIPruebaCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo.facturainteligente2.TimbrarCFDIPruebaCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo.facturainteligente2.TimbrarCFDIPruebaCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo.facturainteligente2.TimbrarCFDCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo.facturainteligente2.TimbrarCFDCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo.facturainteligente2.TimbrarCFDCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo.facturainteligente2.CancelarCFDICompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo.facturainteligente2.CancelarCFDICompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo.facturainteligente2.CancelarCFDICompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo.facturainteligente2.ConfirmarRecepcionCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo.facturainteligente2.ConfirmarRecepcionCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo.facturainteligente2.ConfirmarRecepcionCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo.facturainteligente2.ObtenerXMLCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo.facturainteligente2.ObtenerXMLCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo.facturainteligente2.ObtenerXMLCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo.facturainteligente2.ObtenerAcuseEnvioCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo.facturainteligente2.ObtenerAcuseEnvioCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo.facturainteligente2.ObtenerAcuseEnvioCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo.facturainteligente2.ObtenerAcuseCancelacionCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo.facturainteligente2.ObtenerAcuseCancelacionCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo.facturainteligente2.ObtenerAcuseCancelacionCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo.facturainteligente2.CambiarPasswordCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo.facturainteligente2.CambiarPasswordCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo.facturainteligente2.CambiarPasswordCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo.facturainteligente2.ConsultarComplementoTimbreCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo.facturainteligente2.ConsultarComplementoTimbreCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo.facturainteligente2.ConsultarComplementoTimbreCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo.facturainteligente2.ConsultarTimbrePorReferenciaCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo.facturainteligente2.ConsultarTimbrePorReferenciaCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo.facturainteligente2.ConsultarTimbrePorReferenciaCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo.facturainteligente2.ConsultarEstadoComprobanteCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo.facturainteligente2.ConsultarEstadoComprobanteCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo.facturainteligente2.ConsultarEstadoComprobanteCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo.facturainteligente2.ConsultarCreditosCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo.facturainteligente2.ConsultarCreditosCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo.facturainteligente2.ConsultarCreditosCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo.facturainteligente2.GeneraCBBCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo.facturainteligente2.GeneraCBBCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo.facturainteligente2.GeneraCBBCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>

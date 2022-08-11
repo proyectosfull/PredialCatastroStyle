@@ -1,0 +1,39 @@
+**************************
+Fecha Hora de la insercion del recibo: 19/07/2022 04:22:32 a. m.
+IdPredio=18222
+Periodo  =4 2022 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 19/07/2022 04:22:32 a. m.
+idtramite=105016
+Contribuyente=  
+DatosPredio=Clave Catastral: 1200-02-301-015     Tipo predio: URBANO     Super. Terreno: 10379m2.     Super. Const.: 0m2.    Base gravable: $5189500
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 19/07/2022 04:36:26 a. m.
+IdPredio=18222
+Periodo  =6/2022
+IdTipoTramite=1
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 19/07/2022 04:37:36 a. m.
+idtramite=105017
+Contribuyente=   "ANURA INMOBILIARIA", S.A. DE C.V.
+DatosPredio=Clave Catastral: 1200-02-301-015     Tipo predio: URBANO     Super. Terreno: 10379m2.     Super. Const.: 0m2.    Base gravable: $5189500
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 19/07/2022 04:42:33 a. m.
+IdPredio=18222
+Periodo  =6/2022
+IdTipoTramite=1
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 19/07/2022 04:45:02 a. m.
+idtramite=105018
+Contribuyente=   "ANURA INMOBILIARIA", S.A. DE C.V.
+DatosPredio=Clave Catastral: 1200-02-301-015     Tipo predio: URBANO     Super. Terreno: 10379m2.     Super. Const.: 0m2.    Base gravable: $5189500
+**************************

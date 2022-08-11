@@ -1,0 +1,19 @@
+**************************
+Fecha Hora de la insercion del recibo: 18/06/2022 10:51:16 a. m.
+IdPredio=46211
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 18/06/2022 10:58:26 a. m.
+idtramite=102143
+Contribuyente=   IGLESIA PENTECOSTAL UNIDA NACIONAL A.R.
+DatosPredio=Clave Catastral: 1200-04-260-014     Tipo predio: URBANO     Super. Terreno: 221m2.     Super. Const.: 269m2.    Base gravable: $394160.5
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 18/06/2022 11:13:49 a. m.
+idtramite=102143
+Contribuyente=   IGLESIA PENTECOSTAL UNIDA NACIONAL A.R.
+DatosPredio=Clave Catastral: 1200-04-260-014     Tipo predio: URBANO     Super. Terreno: 221m2.     Super. Const.: 269m2.    Base gravable: $394160.5
+**************************

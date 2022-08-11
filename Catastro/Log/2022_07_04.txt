@@ -1,0 +1,14 @@
+**************************
+Fecha Hora de la insercion del recibo: 04/07/2022 04:36:38 p. m.
+IdPredio=46233
+Periodo  =
+IdTipoTramite=8
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 04/07/2022 04:38:10 p. m.
+IdPredio=46233
+Periodo  =
+IdTipoTramite=8
+tipo=
+**************************

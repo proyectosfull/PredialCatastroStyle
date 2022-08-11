@@ -1,0 +1,26 @@
+**************************
+Fecha Hora de la insercion del recibo: 22/07/2022 02:25:41 p. m.
+IdPredio=46243
+Periodo  =5 2022 - 5 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 22/07/2022 02:25:41 p. m.
+idtramite=105054
+Contribuyente=  
+DatosPredio=Clave Catastral: 1200-01-403-011     Tipo predio: URBANO     Super. Terreno: 58.23m2.     Super. Const.: 63.47m2.    Base gravable: $153866.65
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 22/07/2022 02:29:35 p. m.
+IdPredio=46243
+Periodo  =5 2022 - 5 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 22/07/2022 02:29:35 p. m.
+idtramite=105055
+Contribuyente=  
+DatosPredio=Clave Catastral: 1200-01-403-011     Tipo predio: URBANO     Super. Terreno: 58.23m2.     Super. Const.: 63.47m2.    Base gravable: $153866.65
+**************************

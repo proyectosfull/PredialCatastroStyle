@@ -1,0 +1,14 @@
+para el convenio de pagos
+
+*los convenios son solo por 3 pagos
+*los pagos son en el siguiente orden:
+
+      Del mas antiguo al mas reciente
+
+*se congelan los RECARGOS
+
+*el convenio deberia tener un proceso en automatico donde cancele el convenio por incumplimiento y aplique las multas o recargos señalados
+
+*el convenio bloequea cualquier otro servicio o tramite a realizar
+
+

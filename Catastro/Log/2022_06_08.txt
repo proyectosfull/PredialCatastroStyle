@@ -1,0 +1,143 @@
+**************************
+Fecha Hora de la insercion del recibo: 08/06/2022 09:58:21 a. m.
+IdPredio=10999
+Periodo  =6/2022
+IdTipoTramite=1
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 08/06/2022 10:00:20 a. m.
+idtramite=100669
+Contribuyente=AVIÑA GUTIERREZ DE VELASCO Y ADRIANA AVIÑA GUITIERREZ DE RUBEN
+DatosPredio=Clave Catastral: 1200-02-255-392     Tipo predio: URBANO     Super. Terreno: 68m2.     Super. Const.: 66m2.    Base gravable: $750000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 08/06/2022 10:53:38 a. m.
+IdPredio=23553
+Periodo  =4 2022 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 08/06/2022 10:53:40 a. m.
+idtramite=100670
+Contribuyente=SANTILLAN GARCIA ROBERTO ANTONIO
+DatosPredio=Clave Catastral: 1200-03-108-063     Tipo predio: URBANO     Super. Terreno: 47m2.     Super. Const.: 39m2.    Base gravable: $230500
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 08/06/2022 10:59:04 a. m.
+IdPredio=23553
+Periodo  =4 2022 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 08/06/2022 10:59:04 a. m.
+idtramite=100671
+Contribuyente=SANTILLAN GARCIA ROBERTO ANTONIO
+DatosPredio=Clave Catastral: 1200-03-108-063     Tipo predio: URBANO     Super. Terreno: 47m2.     Super. Const.: 39m2.    Base gravable: $230500
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 08/06/2022 12:16:23 p. m.
+IdPredio=3848
+Periodo  =1 2022 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 08/06/2022 12:17:36 p. m.
+idtramite=100672
+Contribuyente=  
+DatosPredio=Clave Catastral: 1200-01-277-009     Tipo predio: URBANO     Super. Terreno: 21527m2.     Super. Const.: 0m2.    Base gravable: $5381750
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 08/06/2022 12:26:10 p. m.
+IdPredio=3848
+Periodo  =1 2022 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 08/06/2022 12:26:11 p. m.
+idtramite=100673
+Contribuyente=  
+DatosPredio=Clave Catastral: 1200-01-277-009     Tipo predio: URBANO     Super. Terreno: 21527m2.     Super. Const.: 0m2.    Base gravable: $5381750
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 08/06/2022 12:36:00 p. m.
+IdPredio=26201
+Periodo  =4 2022 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 08/06/2022 12:36:09 p. m.
+idtramite=100674
+Contribuyente=MENDOZA CONTRERAS KARLA NALLELY
+DatosPredio=Clave Catastral: 1200-04-023-013     Tipo predio: URBANO     Super. Terreno: 324m2.     Super. Const.: 0m2.    Base gravable: $550000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 08/06/2022 12:42:53 p. m.
+IdPredio=33855
+Periodo  =1 2021 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 08/06/2022 12:42:53 p. m.
+idtramite=100675
+Contribuyente=CABABIE CABABIE DAVID
+DatosPredio=Clave Catastral: 1200-02-301-002     Tipo predio: URBANO     Super. Terreno: 10070m2.     Super. Const.: 3681m2.    Base gravable: $9401645
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 08/06/2022 12:54:46 p. m.
+IdPredio=44974
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 08/06/2022 12:54:46 p. m.
+idtramite=100676
+Contribuyente=MACIN PANIAGUA VALENTIN JAIME
+DatosPredio=Clave Catastral: 1200-09-225-044     Tipo predio: URBANO     Super. Terreno: 34m2.     Super. Const.: 50m2.    Base gravable: $1500000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 08/06/2022 03:45:12 p. m.
+IdPredio=44974
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 08/06/2022 03:45:12 p. m.
+idtramite=100677
+Contribuyente=MACIN PANIAGUA VALENTIN JAIME
+DatosPredio=Clave Catastral: 1200-09-225-044     Tipo predio: URBANO     Super. Terreno: 34m2.     Super. Const.: 50m2.    Base gravable: $1500000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 08/06/2022 03:47:24 p. m.
+IdPredio=44974
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 08/06/2022 03:47:24 p. m.
+idtramite=100678
+Contribuyente=MACIN PANIAGUA VALENTIN JAIME
+DatosPredio=Clave Catastral: 1200-09-225-044     Tipo predio: URBANO     Super. Terreno: 34m2.     Super. Const.: 50m2.    Base gravable: $1500000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 08/06/2022 03:49:38 p. m.
+IdPredio=44974
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 08/06/2022 03:49:38 p. m.
+idtramite=100679
+Contribuyente=MACIN PANIAGUA VALENTIN JAIME
+DatosPredio=Clave Catastral: 1200-09-225-044     Tipo predio: URBANO     Super. Terreno: 34m2.     Super. Const.: 50m2.    Base gravable: $1500000
+**************************

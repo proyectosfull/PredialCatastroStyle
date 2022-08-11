@@ -1,0 +1,20 @@
+**************************
+Fecha Hora de la insercion del recibo: 04/08/2022 01:13:28 p. m.
+IdPredio=1065
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 04/08/2022 01:14:18 p. m.
+IdPredio=1065
+Periodo  =
+IdTipoTramite=1
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 04/08/2022 01:14:19 p. m.
+idtramite=106000
+Contribuyente=PINEDA LOPEZ MARIA 
+DatosPredio=Clave Catastral: 1200-01-049-016     Tipo predio: URBANO     Super. Terreno: 179m2.     Super. Const.: 153m2.    Base gravable: $197138.5
+**************************

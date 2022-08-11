@@ -1,0 +1,411 @@
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 12:17:16 a. m.
+IdPredio=46058
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 12:17:31 a. m.
+idtramite=105363
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 12:17:31 a. m.
+idtramite=105363
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+Message=> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+ <------------> 
+GetType=> DbEntityValidationException
+ <------------> 
+StackTrace=>    en System.Data.Entity.Internal.InternalContext.SaveChanges()
+   en System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   en System.Data.Entity.DbContext.SaveChanges()
+   en Clases.BL.tReciboBL.Insert(tRecibo obj) en C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\BL\tReciboBL.cs:línea 47
+ Exception: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   en System.Data.Entity.Internal.InternalContext.SaveChanges()
+   en System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   en System.Data.Entity.DbContext.SaveChanges()
+   en Clases.BL.tReciboBL.Insert(tRecibo obj) en C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\BL\tReciboBL.cs:línea 47
+
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 12:19:18 a. m.
+IdPredio=46058
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 12:22:39 a. m.
+idtramite=105364
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 12:22:39 a. m.
+idtramite=105364
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+Message=> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+ <------------> 
+GetType=> DbEntityValidationException
+ <------------> 
+StackTrace=>    en System.Data.Entity.Internal.InternalContext.SaveChanges()
+   en System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   en System.Data.Entity.DbContext.SaveChanges()
+   en Clases.BL.tReciboBL.Insert(tRecibo obj) en C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\BL\tReciboBL.cs:línea 47
+ Exception: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   en System.Data.Entity.Internal.InternalContext.SaveChanges()
+   en System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   en System.Data.Entity.DbContext.SaveChanges()
+   en Clases.BL.tReciboBL.Insert(tRecibo obj) en C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\BL\tReciboBL.cs:línea 47
+
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 12:27:20 a. m.
+idtramite=105364
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 12:29:12 a. m.
+idtramite=105364
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+Message=> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+ <------------> 
+GetType=> DbEntityValidationException
+ <------------> 
+StackTrace=>    en System.Data.Entity.Internal.InternalContext.SaveChanges()
+   en System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   en System.Data.Entity.DbContext.SaveChanges()
+   en Clases.BL.tReciboBL.Insert(tRecibo obj) en C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\BL\tReciboBL.cs:línea 47
+ Exception: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   en System.Data.Entity.Internal.InternalContext.SaveChanges()
+   en System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   en System.Data.Entity.DbContext.SaveChanges()
+   en Clases.BL.tReciboBL.Insert(tRecibo obj) en C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\BL\tReciboBL.cs:línea 47
+
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 12:47:22 a. m.
+IdPredio=46058
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 12:57:48 a. m.
+IdPredio=46058
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 01:07:52 a. m.
+idtramite=105366
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 01:11:11 a. m.
+idtramite=105366
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+Message=> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+ <------------> 
+GetType=> DbEntityValidationException
+ <------------> 
+StackTrace=>    en System.Data.Entity.Internal.InternalContext.SaveChanges()
+   en System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   en System.Data.Entity.DbContext.SaveChanges()
+   en Clases.BL.tReciboBL.Insert(tRecibo obj) en C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\BL\tReciboBL.cs:línea 47
+ Exception: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   en System.Data.Entity.Internal.InternalContext.SaveChanges()
+   en System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   en System.Data.Entity.DbContext.SaveChanges()
+   en Clases.BL.tReciboBL.Insert(tRecibo obj) en C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\BL\tReciboBL.cs:línea 47
+
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 01:14:26 a. m.
+idtramite=105366
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 01:14:26 a. m.
+idtramite=105366
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+Message=> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+ <------------> 
+GetType=> DbEntityValidationException
+ <------------> 
+StackTrace=>    en System.Data.Entity.Internal.InternalContext.SaveChanges()
+   en System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   en System.Data.Entity.DbContext.SaveChanges()
+   en Clases.BL.tReciboBL.Insert(tRecibo obj) en C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\BL\tReciboBL.cs:línea 47
+ Exception: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   en System.Data.Entity.Internal.InternalContext.SaveChanges()
+   en System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   en System.Data.Entity.DbContext.SaveChanges()
+   en Clases.BL.tReciboBL.Insert(tRecibo obj) en C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\BL\tReciboBL.cs:línea 47
+
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 01:25:47 a. m.
+IdPredio=46058
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 01:30:56 a. m.
+idtramite=105367
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 01:30:56 a. m.
+idtramite=105367
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+Message=> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+ <------------> 
+GetType=> DbEntityValidationException
+ <------------> 
+StackTrace=>    en System.Data.Entity.Internal.InternalContext.SaveChanges()
+   en System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   en System.Data.Entity.DbContext.SaveChanges()
+   en Clases.BL.tReciboBL.Insert(tRecibo obj) en C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\BL\tReciboBL.cs:línea 47
+ Exception: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   en System.Data.Entity.Internal.InternalContext.SaveChanges()
+   en System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   en System.Data.Entity.DbContext.SaveChanges()
+   en Clases.BL.tReciboBL.Insert(tRecibo obj) en C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\BL\tReciboBL.cs:línea 47
+
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 01:51:22 a. m.
+IdPredio=46058
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 01:51:41 a. m.
+idtramite=105369
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 02:22:31 a. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 02:23:37 a. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 02:23:40 a. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 02:23:43 a. m.
+idtramite=105370
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 02:23:43 a. m.
+idtramite=105370
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+Message=> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+ <------------> 
+GetType=> DbEntityValidationException
+ <------------> 
+StackTrace=>    en System.Data.Entity.Internal.InternalContext.SaveChanges()
+   en System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   en System.Data.Entity.DbContext.SaveChanges()
+   en Clases.BL.tReciboBL.Insert(tRecibo obj) en C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\BL\tReciboBL.cs:línea 47
+ Exception: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   en System.Data.Entity.Internal.InternalContext.SaveChanges()
+   en System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   en System.Data.Entity.DbContext.SaveChanges()
+   en Clases.BL.tReciboBL.Insert(tRecibo obj) en C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\BL\tReciboBL.cs:línea 47
+
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 02:25:00 a. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 02:25:18 a. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 02:25:36 a. m.
+idtramite=105370
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 02:25:36 a. m.
+idtramite=105370
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+Message=> Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+ <------------> 
+GetType=> DbEntityValidationException
+ <------------> 
+StackTrace=>    en System.Data.Entity.Internal.InternalContext.SaveChanges()
+   en System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   en System.Data.Entity.DbContext.SaveChanges()
+   en Clases.BL.tReciboBL.Insert(tRecibo obj) en C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\BL\tReciboBL.cs:línea 47
+ Exception: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   en System.Data.Entity.Internal.InternalContext.SaveChanges()
+   en System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   en System.Data.Entity.DbContext.SaveChanges()
+   en Clases.BL.tReciboBL.Insert(tRecibo obj) en C:\Users\Abib\OneDrive\Documentos\PROYECTOS\EMILIANO ZAPATA\PREDIAL\Sipred-Productivo\Sipred\Clases\BL\tReciboBL.cs:línea 47
+
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 02:28:19 a. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 02:28:21 a. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 02:28:22 a. m.
+idtramite=105370
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 03:09:43 a. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 03:10:18 a. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 03:10:20 a. m.
+idtramite=105377
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 03:21:06 a. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 03:21:31 a. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 03:21:33 a. m.
+idtramite=105379
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 04:46:08 a. m.
+IdPredio=46058
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 04:46:11 a. m.
+idtramite=105381
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 04:47:22 a. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 04:47:49 a. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 04:47:51 a. m.
+idtramite=105382
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 04:52:37 a. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=8
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 08:26:13 p. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 08:27:34 p. m.
+IdPredio=46058
+Periodo  =
+IdTipoTramite=1
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/07/2022 08:27:36 p. m.
+idtramite=105385
+Contribuyente=ZATTO LUNA YOSHIO 
+DatosPredio=Clave Catastral: 1200-09-200-027     Tipo predio: URBANO     Super. Terreno: 45m2.     Super. Const.: 39m2.    Base gravable: $374000
+**************************

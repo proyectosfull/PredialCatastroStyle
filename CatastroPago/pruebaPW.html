@@ -1,0 +1,232 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head> 
+<title>Untitled Document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<SCRIPT LANGUAGE=javascript>
+function KeyCodeChk(vChar, nChar){
+         /* Permite escribir sólo / . , -  Diagonal, punto, coma y guión medio
+         */
+
+         var eKeyCode = event.keyCode;
+         var vTexto      = vChar.value;
+         var nTexto      = vTexto.length;
+         if ((eKeyCode < 48 || eKeyCode > 57) && (eKeyCode < 65 || eKeyCode > 90) && (eKeyCode < 96 ||  eKeyCode > 122)){
+		 if ((eKeyCode != 13) && (eKeyCode != 44)&& (eKeyCode != 45) && (eKeyCode != 46) && (eKeyCode != 47) && (eKeyCode != 8)  && (eKeyCode != 16) && (eKeyCode != 32) ) {
+             if ((eKeyCode == 9) && (nTexto > nChar)){
+     	         return;
+           	 } else {
+               if ((eKeyCode == 9) && (nTexto ==0)) {
+     	           return;
+           	   } else {
+                 if ((eKeyCode == 9) && (nTexto < nChar)) {
+     	             alert("Este campo no puede ser menor a "+(nChar+1)+" digitos");
+           	     }}}
+             window.event.returnValue = false;
+           }}}
+
+</SCRIPT>
+
+    <style type="text/css">
+        .text
+        {
+            width: 542px;
+        }
+    </style>
+
+</head>
+
+<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<form name="form1" method="post" action="https://via.banorte.com/bancybhosted/index.do">
+<table width="635" border="0" cellspacing="0" cellpadding="0" background="images/sombra.gif" height="100%">
+  <tr>
+    <td>
+      <p></p>
+    </td>
+    <td valign="top">
+      <p><span class="subtitgde"><br>
+          </span></p>
+        <table width="100%" border="0" align="center" height="422">
+          <tr>
+            <td height="18" colspan="2" bgcolor="E8E9D3">
+              <div align="left"></div>
+              <div align="left" class="boldGDE"><strong>COMERCIO ELECTRONICO HOSTED PAYWORKS 2</strong></div>
+          </td>
+        </tr>
+		
+        <tr>
+            <td width="36%" bgcolor="F7F7F7" height="20">
+              <div align="left">
+              <p class="text">MERCHANT_ID</p>
+            </div>
+          </td>
+            <td width="64%" height="20">
+              <div align="left">
+              <input name="MERCHANT_ID" size="50" class="text" onKeyPress="javascript:KeyCodeChk(this);" value="7940700">
+            </div>
+          </td>
+        </tr>
+        <tr>
+		<tr>
+            <td width="36%" bgcolor="F7F7F7" height="20">
+              <div align="left">
+              <p class="text">USER</p>
+            </div>
+          </td>
+            <td width="64%" height="20">
+              <div align="left">
+              <input name="USER" size="50" class="text" onKeyPress="javascript:KeyCodeChk(this);" value="a7940700">
+            </div>
+          </td>
+        </tr>
+        <tr>
+            <td width="36%" bgcolor="F7F7F7" height="20">
+              <div align="left" class="text">PASSWORD</div>
+          </td>
+            <td width="64%" height="20">
+              <div align="left">
+              <input name="PASSWORD" size="50" class="text" onKeyPress="javascript:KeyCodeChk(this);" value="">
+            </div>
+          </td>
+        </tr>
+		<tr>
+            <td width="36%" bgcolor="F7F7F7" height="20">
+              <div align="left" class="text">TIPO DE OPERACION</div>
+			</td>
+            <td width="64%" height="20">
+              <div align="left">
+              <input name="CMD_TRANS" size="50" value="AUTH" class="text" onKeyPress="javascript:KeyCodeChk(this);">
+            </div>
+          </td>
+        </tr>
+		<tr>
+            <td width="36%" bgcolor="F7F7F7" height="20">
+              <div align="left" class="text">TERMINAL_ID</div>
+          </td>
+            <td width="64%" height="20">
+              <div align="left">
+              <input name="TERMINAL_ID" size="50" class="text" onKeyPress="javascript:KeyCodeChk(this);" value="79407001">
+            </div>
+          </td>
+        </tr>
+		<tr>
+            <td width="36%" bgcolor="F7F7F7" height="20">
+              <div align="left" class="text">TOTAL</div>
+			</td>
+            <td width="64%" height="20">
+              <div align="left">
+              <input name="AMOUNT" size="50" value="1.00" class="text" onKeyPress="javascript:KeyCodeChk(this);">
+            </div>
+          </td>
+        </tr>
+		<tr>
+            <td width="36%" height="22" bgcolor="F7F7F7">
+              <div align="left" class="text">MODE</div>
+          </td>
+            <td width="64%" height="22">
+              <div align="left">
+              <select name="MODE" class="text" >                
+                <option value="AUT" >Simulator: Accept</option>
+				<option value="DEC" >Simulator:Declinada</option>
+                
+              </select>
+            </div>
+          </td>
+        </tr>
+		<tr>
+            <td width="36%" bgcolor="F7F7F7" height="20">
+              <div align="left" class="text">NUMERO DE CONTROL</div>
+			</td>
+            <td width="64%" height="20">
+              <div align="left">
+              <input name="CONTROL_NUMBER" size="50" value="PRED-201701" class="text" onKeyPress="javascript:KeyCodeChk(this);" >
+            </div>
+          </td>
+        </tr>
+		<tr>
+            <td width="36%" bgcolor="F7F7F7" height="20">
+              <div align="left">
+              <p class="text">CARD NUMBER</p>
+            </div>
+          </td>
+            <td width="64%" height="20">
+              <div align="left">
+              <input name="CARD_NUMBER" size="50" class="text" onKeyPress="javascript:KeyCodeChk(this);" value="4242424242424242">
+            </div>
+          </td>
+        </tr><tr>
+            <td width="36%" bgcolor="F7F7F7" height="20">
+              <div align="left">
+              <p class="text">CARD EXP</p>
+            </div>
+          </td>
+            <td width="64%" height="20">
+              <div align="left">
+              <input name="CARD_EXP" size="50" class="text" onKeyPress="javascript:KeyCodeChk(this);" value="1019">
+            </div>
+          </td>
+        </tr>
+		<tr>
+            <td width="36%" bgcolor="F7F7F7" height="20">
+              <div align="left" class="text">Entry_Mode</div>
+			</td>
+            <td width="64%" height="20">
+              <div align="left">
+              <input name="ENTRY_MODE" size="50" value="MANUAL" class="text" onKeyPress="javascript:KeyCodeChk(this);">
+            </div>
+          </td>
+        </tr>		
+        <tr>
+		     <td width="36%" bgcolor="F7F7F7" height="20">
+              <div align="left" class="text">RESPONSE_URL</div>
+          </td>
+            <td width="64%" height="20">
+              <div align="left">
+              <input name="RESPONSE_URL" size="50" class="text" onKeyPress="javascript:KeyCodeChk(this);" value="http://yautepec.dyndns-web.com/Predial/Comprobante.aspx">&nbsp;</div>
+          </td>            
+        </tr>
+		<tr>
+		     <td width="36%" bgcolor="F7F7F7" height="20">
+              <div align="left" class="text">RESPONSE_LANGUAJE</div>
+          </td>
+            <td width="64%" height="20">
+              <div align="left">
+              <input name="RESPONSE_LANGUAJE" size="50" class="text" onKeyPress="javascript:KeyCodeChk(this);" value="EN">&nbsp;</div>
+          </td>            
+        </tr>
+		
+		
+	
+		
+        
+  <!--tr>
+            <td width="36%" bgcolor="F7F7F7" height="20">
+              <div align="left" class="text">Email</div>
+			</td>
+            <td width="64%" height="20">
+				<div align="left">
+              <input name="BillTo_email" size="50" value="comercio.web@banorte.com" class="text" onKeyPress="javascript:KeyCodeChk(this);">
+            </div>
+          </td>
+        </t-->       	
+        <tr>
+            <td width="36%" height="27">
+              <div align="left"></div>
+          </td>
+            <td width="64%" height="27">
+              <div align="left">
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              <input type="submit" name="HacerPago" value="Hacer Pago">
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+</body>
+</html>

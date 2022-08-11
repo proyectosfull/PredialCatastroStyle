@@ -1,0 +1,13 @@
+**************************
+Fecha Hora de la insercion del recibo: 28/07/2022 12:16:49 p. m.
+IdPredio=46417
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 28/07/2022 12:31:28 p. m.
+idtramite=105388
+Contribuyente=ROMAN ROMAN JULIO 
+DatosPredio=Clave Catastral: 1200-04-033-009     Tipo predio: URBANO     Super. Terreno: 942m2.     Super. Const.: 433m2.    Base gravable: $1572255
+**************************

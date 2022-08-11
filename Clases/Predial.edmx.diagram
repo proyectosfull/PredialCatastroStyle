@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e1f546381d5949faa4a51a028491d3ae" Name="Diagram1" ZoomLevel="77">
+        <EntityTypeShape EntityType="PredialModel.cAgenteFiscal" Width="1.5" PointX="3" PointY="72" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cBaseGravable" Width="1.5" PointX="20.25" PointY="144.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cBaseGravableH" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cBaseGravableMigracion" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cBaseImpuesto" Width="1.5" PointX="3" PointY="77.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cBoton" Width="1.5" PointX="5.25" PointY="170.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cCaja" Width="1.5" PointX="3" PointY="84.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cCalle" Width="1.5" PointX="5.25" PointY="165.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cColonia" Width="1.5" PointX="5.25" PointY="149.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cConcepto" Width="1.5" PointX="8.25" PointY="134.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cConceptoOmisionPago" Width="1.5" PointX="23.25" PointY="145.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cCondominio" Width="1.5" PointX="15.75" PointY="154.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cContratoAgua" Width="1.5" PointX="23.25" PointY="149.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cContribuyente" Width="1.5" PointX="3" PointY="107" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cControlSistema" Width="1.5" PointX="3" PointY="103.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cCuotasPredio" Width="1.5" PointX="8.25" PointY="166.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cDescuento" Width="1.5" PointX="3" PointY="120.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cDiaFestivo" Width="1.5" PointX="3" PointY="117.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cDiferencia" Width="1.5" PointX="23.25" PointY="137.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cError" Width="1.5" PointX="3" PointY="129.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cExentoPago" Width="1.5" PointX="3" PointY="132.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cFIEL" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cIndicePrecio" Width="1.5" PointX="3" PointY="135.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cMesa" Width="1.5" PointX="3" PointY="138.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cParametroCobro" Width="1.5" PointX="3" PointY="143.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cParametroSistema" Width="1.5" PointX="3" PointY="146.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cPredio" Width="1.5" PointX="18" PointY="150.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cPredioH" Width="1.5" PointX="6.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cPredioObservacion" Width="1.5" PointX="20.25" PointY="150.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cProdServ" Width="1.5" PointX="6" PointY="143.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cRFC" Width="1.5" PointX="0.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cRol" Width="1.5" PointX="3" PointY="150" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cSalarioMinimo" Width="1.5" PointX="3" PointY="153.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cStatusPredio" Width="1.5" PointX="3" PointY="156.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cTarifaDap" Width="1.5" PointX="5.25" PointY="153.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cTarifaLimpieza" Width="1.5" PointX="2.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cTarifaRecargo" Width="1.5" PointX="3" PointY="163.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cTarifaRecoleccion" Width="1.5" PointX="8.25" PointY="156.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cTarifaZona" Width="1.5" PointX="8.25" PointY="152.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cTipoAsentamiento" Width="1.5" PointX="3" PointY="174" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cTipoAvaluo" Width="1.5" PointX="3" PointY="177.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cTipoCobro" Width="1.5" PointX="3" PointY="180.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cTipoContribuyente" Width="1.5" PointX="3" PointY="184.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cTipoFase" Width="1.5" PointX="3" PointY="187.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cTipoFaseDoc" Width="1.5" PointX="3" PointY="191.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cTipoInmueble" Width="1.5" PointX="15.75" PointY="157.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cTipoMovAvaluo" Width="1.5" PointX="3" PointY="195" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cTipoPago" Width="1.5" PointX="3" PointY="198.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cTipoPredio" Width="1.5" PointX="3" PointY="202" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cTipoTramite" Width="1.5" PointX="5.25" PointY="183" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cTipoVialidad" Width="1.5" PointX="3" PointY="205.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cUnidadMedida" Width="1.5" PointX="6" PointY="124.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cUsoSuelo" Width="1.5" PointX="3" PointY="208.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cUsuarios" Width="1.5" PointX="0.75" PointY="126.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cValuador" Width="1.5" PointX="3" PointY="212.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cVentana" Width="1.5" PointX="3" PointY="215.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.mRolBot" Width="1.5" PointX="7.5" PointY="148.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.mUsuBot" Width="1.5" PointX="10.5" PointY="152.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.mUsuRol" Width="1.5" PointX="5.25" PointY="139.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.sysdiagrams" Width="1.5" PointX="8.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tBitacora" Width="1.5" PointX="8.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tCajeroCaja" Width="1.5" PointX="5.25" PointY="113" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tConfiguracionMesa" Width="1.5" PointX="8.25" PointY="115.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tConvenio" Width="1.5" PointX="3" PointY="219.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tConvenioEdoCta" Width="1.5" PointX="28.5" PointY="135.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tCoPropietario" Width="1.5" PointX="3" PointY="225.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tCorteCaja" Width="1.5" PointX="8.25" PointY="128" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tCorteCajaDenominacion" Width="1.5" PointX="10.5" PointY="128.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tCorteCajaDetalle" Width="1.5" PointX="18" PointY="136.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tDescuentoAsignado" Width="1.5" PointX="20.25" PointY="140.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tFacturaCancelacion" Width="1.5" PointX="8.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tInternet" Width="1.5" PointX="10.5" PointY="157.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tInternetDetalle" Width="1.5" PointX="12.75" PointY="142.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tPredioLocalizacion" Width="1.5" PointX="10.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tPrediosDescuento" Width="1.5" PointX="13.5" PointY="149.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tPredioVerificacion" Width="1.5" PointX="26.25" PointY="141.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tPrepoliza" Width="1.5" PointX="3" PointY="229" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tPrepolizaDetalle" Width="1.5" PointX="5.25" PointY="177.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tPrepolizaRecibo" Width="1.5" PointX="18" PointY="180.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tRecibo" Width="1.5" PointX="15.75" PointY="137.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tReciboDetalle" Width="1.5" PointX="18" PointY="123.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tReciboMetodoPago" Width="1.5" PointX="21" PointY="159" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tRequerimiento" Width="1.5" PointX="5.25" PointY="128.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tTemp" Width="1.5" PointX="2.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tTramite" Width="1.5" PointX="7.5" PointY="171.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tTramiteDetalle" Width="1.5" PointX="13.5" PointY="155.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.cUsoCFDI" Width="1.5" PointX="10.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tReciboFactura" Width="1.5" PointX="10.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.tReciboFacturaCancelada" Width="1.5" PointX="18" PointY="175.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vAnioPredialAnual" Width="1.5" PointX="12.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vAntecedentePredio" Width="1.5" PointX="12.75" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vBaseGravable" Width="1.5" PointX="12.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vBaseGravableCorto" Width="1.5" PointX="12.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vBitacora" Width="1.5" PointX="4.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vBuscarPredioContDom" Width="1.5" PointX="6.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vCajeros" Width="1.5" PointX="14.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vConfiguracionMesa" Width="1.5" PointX="0.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vContribuyentes" Width="1.5" PointX="14.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vCortes" Width="1.5" PointX="14.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vPadronPredio" Width="1.5" PointX="14.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vPadronPredioAnio" Width="1.5" PointX="8.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vPermisoBoton" Width="1.5" PointX="10.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vPredioMovimiento" Width="1.5" PointX="16.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vPredios" Width="1.5" PointX="16.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vPrediosCarto" Width="1.5" PointX="12.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vPrediosCorto" Width="1.5" PointX="18.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vPrediosRezago" Width="1.5" PointX="0.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vRecibo" Width="1.5" PointX="2.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vReciboDetalle" Width="1.5" PointX="18.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vReciboMetodoPago" Width="1.5" PointX="4.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vReciboReporteDet" Width="1.5" PointX="18.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vReportesIngresos" Width="1.5" PointX="18.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vRequerimientos" Width="1.5" PointX="18.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vRequerimientosCompleto" Width="1.5" PointX="6.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vTabularDetalleConta" Width="1.5" PointX="8.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vTabularIngresos" Width="1.5" PointX="14.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vTabularIngresosGral" Width="1.5" PointX="20.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vTramite" Width="1.5" PointX="20.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vVentanaFiltro" Width="1.5" PointX="20.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vVentanasNivel2" Width="1.5" PointX="20.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PredialModel.vVentanasNivel2Permisos" Width="1.5" PointX="10.75" PointY="21.75" IsExpanded="true" />
+        <AssociationConnector Association="PredialModel.FK_cAgenteFiscal_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tRequerimiento_cAgenteFiscal" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cBaseGravable_cPredio" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cBaseGravable_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cBaseImpuesto_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cBoton_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cBoton_cVentana" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_mRolBot_cBoton" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_mUsuBot_cBoton" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cCaja_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tCajeroCaja_cCaja" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tConfiguracionMesa_cCaja" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tRecibo_cCaja" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cCalle_cColonia" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cCalle_cTipoVialidad1" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cCalle_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cColonia_cTipoAsentamiento1" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cColonia_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cPredio_cColonia" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cConcepto_cMesa" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cConcepto_cProdServ" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cConcepto_cUnidadMedida" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cConcepto_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tInternetDetalle_cConcepto" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tPrediosDescuento_cConcepto" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tReciboDetalle_cConcepto" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tTramiteDetalle_cConcepto" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cConceptoOmisionPago_cPredio" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cConceptoOmisionPago_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cPredio_cCondominio" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cContratoAgua_cPredio" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cContratoAgua_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cContribuyente_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cPredio_cContribuyente" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cControlSistema_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tReciboDetalle_cControlSistema" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cCuotasPredio_cTipoCobro" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cCuotasPredio_cTipoPredio" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cCuotasPredio_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cDescuento_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tConvenioEdoCta_cDescuento" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tDescuentoAsignado_cDescuento" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tRecibo_cDescuento" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cDiaFestivo_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cDiferencia_cPredio" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cDiferencia_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tConvenioEdoCta_cDiferencia" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tInternet_cDiferencia" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tTramite_cDiferencia" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cError_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cExentoPago_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cPredio_cExentoPago" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cIndicePrecio_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cMesa_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tConfiguracionMesa_cMesa" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tCorteCaja_cMesa" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tInternet_cMesaIP" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tInternet_cMesaSM" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tInternetDetalle_cMesa" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tRecibo_cMesa" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cParametroCobro_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cParametroSistema_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cPredio_cStatusPredio" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cPredio_cTipoFase" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cPredio_cTipoFase1" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cPredio_cTipoInmueble" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cPredio_cTipoMovAvaluo" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cPredio_cTipoPredio" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cPredio_cUsoSuelo" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cPredio_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cPredio_tRecibo" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cPredio_tRecibo1" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cPredioObservacion_cPredio" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tConvenioEdoCta_cPredio" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tDescuentoAsignado_cPredio" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tInternet_cPredio" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tPrediosDescuento_cPredio" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tPredioVerificacion_cPredio" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tRequerimiento_cPredio" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tTramite_cPredio" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cPredioObservacion_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cRol_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_mRolBot_cRol" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_mUsuRol_cRol" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cSalarioMinimo_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cStatusPredio_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cTarifaDap_cTipoCobro" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cTarifaDap_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cTarifaRecargo_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cTarifaRecoleccion_cTipoCobro" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cTarifaRecoleccion_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cTarifaZona_cTipoCobro" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cTarifaZona_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cTipoAsentamiento_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cTipoAvaluo_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tTramite_cTipoAvaluo" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cTipoCobro_cTipoCobro" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cTipoCobro_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cTipoContribuyente_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cTipoFase_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cTipoFaseDoc_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tRequerimiento_cTipoFaseDoc" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cTipoMovAvaluo_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cTipoPago_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tInternet_cTipoPago" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tRecibo_cTipoPago" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tReciboMetodoPago_cTipoPago" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cTipoPredio_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tTramite_cTipoTramite" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cTipoVialidad_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cUsoSuelo_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cUsuarios_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cValuador_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_cVentana_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_mRolBot_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_mUsuBot_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_mUsuBot_cUsuarios_Mod" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_mUsuRol_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_mUsuRol_cUsuarios_Mod" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tCajeroCaja_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tCajeroCaja_cUsuarios1" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tConfiguracionMesa_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tConfiguracionMesa_cUsuarios1" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tConvenio_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tConvenioEdoCta_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tCoPropietario_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tCorteCaja_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tDescuentoAsignado_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tInternet_cUsuarios_IdUsuario" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tInternetDetalle_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tPrediosDescuento_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tPredioVerificacion_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tPrepoliza_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tPrepolizaDetalle_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tPrepolizaRecibo_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tRecibo_cUsuarios_IdUsuario" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tRecibo_cUsuarios_IdUsuarioCancela" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tRecibo_cUsuarios_IdUsuarioCobra" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tReciboDetalle_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tReciboMetodoPago_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tRequerimiento_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tTramite_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tTramiteDetalle_cUsuarios" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tTramite_cValuador" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tTramite_tConvenio" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tCorteCajaDenominacion_tCorteCaja" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tCorteCajaDetalle_tCorteCaja" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tCorteCajaDetalle_tRecibo" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tInternet_tRequerimiento" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tInternetDetalle_tInternet" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tPrediosDescuento_tTramite" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tPrepolizaDetalle_tPrepoliza" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tPrepolizaRecibo_tPrepoliza" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tPrepolizaRecibo_tRecibo" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK__tReciboFa__idRec__7F80E8EA" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tRecibo_tTramite" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tReciboDetalle_tRecibo" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tReciboMetodoPago_tRecibo" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tTramite_tRequerimiento" ManuallyRouted="false" />
+        <AssociationConnector Association="PredialModel.FK_tTramiteDetalle_tTramite" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

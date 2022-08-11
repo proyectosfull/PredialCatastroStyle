@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="WSCFDI33" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xs:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <xs:import namespace="http://schemas.datacontract.org/2004/07/TES.TFD.V33.Negocios" />
+      <xs:import namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <xs:element name="TimbrarCFDI">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="usuario" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="password" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="cadenaXML" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="referencia" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="TimbrarCFDIResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/TES.TFD.V33.Negocios" minOccurs="0" name="TimbrarCFDIResult" nillable="true" type="q1:RespuestaTFD33" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="CancelarCFDI">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="usuario" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="password" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="rFCEmisor" nillable="true" type="xs:string" />
+            <xs:element xmlns:q2="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="listaCFDI" nillable="true" type="q2:ArrayOfstring" />
+            <xs:element minOccurs="0" name="clavePrivada_Base64" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="passwordClavePrivada" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="CancelarCFDIResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/TES.TFD.V33.Negocios" minOccurs="0" name="CancelarCFDIResult" nillable="true" type="q3:RespuestaCancelacion" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="CancelacionAsincrona">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="usuario" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="password" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="rFCEmisor" nillable="true" type="xs:string" />
+            <xs:element xmlns:q4="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="listaCFDI" nillable="true" type="q4:ArrayOfstring" />
+            <xs:element minOccurs="0" name="clavePrivada_Base64" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="passwordClavePrivada" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="CancelacionAsincronaResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/TES.TFD.V33.Negocios" minOccurs="0" name="CancelacionAsincronaResult" nillable="true" type="q5:RespuestaCancelacionAsincrona" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="EstatusCancelacionAsincrona">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="usuario" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="password" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="referencia" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="EstatusCancelacionAsincronaResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element xmlns:q6="http://schemas.datacontract.org/2004/07/TES.TFD.V33.Negocios" minOccurs="0" name="EstatusCancelacionAsincronaResult" nillable="true" type="q6:RespuestaEstatusCancelacionAsincrona" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ObtenerPDF">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="usuario" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="password" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="uUID" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="LogoBase64" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ObtenerPDFResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element xmlns:q7="http://schemas.datacontract.org/2004/07/TES.TFD.V33.Negocios" minOccurs="0" name="ObtenerPDFResult" nillable="true" type="q7:RespuestaTFD33" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ObtenerAcuseEnvio">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="usuario" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="password" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="uUID" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ObtenerAcuseEnvioResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element xmlns:q8="http://schemas.datacontract.org/2004/07/TES.TFD.V33.Negocios" minOccurs="0" name="ObtenerAcuseEnvioResult" nillable="true" type="q8:RespuestaTFD33" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ObtenerAcuseCancelacion">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="usuario" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="password" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="uUID" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ObtenerAcuseCancelacionResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element xmlns:q9="http://schemas.datacontract.org/2004/07/TES.TFD.V33.Negocios" minOccurs="0" name="ObtenerAcuseCancelacionResult" nillable="true" type="q9:RespuestaTFD33" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="CambiarPassword">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="usuario" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="passwordActual" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="passwordNuevo" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="CambiarPasswordResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element xmlns:q10="http://schemas.datacontract.org/2004/07/TES.TFD.V33.Negocios" minOccurs="0" name="CambiarPasswordResult" nillable="true" type="q10:RespuestaTFD33" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ConsultarComplementoTimbre">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="usuario" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="password" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="uUID" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ConsultarComplementoTimbreResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element xmlns:q11="http://schemas.datacontract.org/2004/07/TES.TFD.V33.Negocios" minOccurs="0" name="ConsultarComplementoTimbreResult" nillable="true" type="q11:RespuestaTFD33" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ConsultarTimbrePorReferencia">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="usuario" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="password" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="referencia" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ConsultarTimbrePorReferenciaResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element xmlns:q12="http://schemas.datacontract.org/2004/07/TES.TFD.V33.Negocios" minOccurs="0" name="ConsultarTimbrePorReferenciaResult" nillable="true" type="q12:RespuestaTFD33" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ConsultarCreditos">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="usuario" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="password" nillable="true" type="xs:string" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ConsultarCreditosResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element xmlns:q13="http://schemas.datacontract.org/2004/07/TES.TFD.V33.Negocios" minOccurs="0" name="ConsultarCreditosResult" nillable="true" type="q13:RespuestaCreditos" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ConsultarComprobantes">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element minOccurs="0" name="usuario" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="password" nillable="true" type="xs:string" />
+            <xs:element minOccurs="0" name="fechaInicial" type="xs:dateTime" />
+            <xs:element minOccurs="0" name="fechaFinal" type="xs:dateTime" />
+            <xs:element minOccurs="0" name="filaInicial" type="xs:int" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+      <xs:element name="ConsultarComprobantesResponse">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element xmlns:q14="http://schemas.datacontract.org/2004/07/TES.TFD.V33.Negocios" minOccurs="0" name="ConsultarComprobantesResult" nillable="true" type="q14:RespuestaReporte" />
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <xs:schema xmlns:tns="http://schemas.microsoft.com/2003/10/Serialization/" attributeFormDefault="qualified" elementFormDefault="qualified" targetNamespace="http://schemas.microsoft.com/2003/10/Serialization/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <xs:element name="anyType" nillable="true" type="xs:anyType" />
+      <xs:element name="anyURI" nillable="true" type="xs:anyURI" />
+      <xs:element name="base64Binary" nillable="true" type="xs:base64Binary" />
+      <xs:element name="boolean" nillable="true" type="xs:boolean" />
+      <xs:element name="byte" nillable="true" type="xs:byte" />
+      <xs:element name="dateTime" nillable="true" type="xs:dateTime" />
+      <xs:element name="decimal" nillable="true" type="xs:decimal" />
+      <xs:element name="double" nillable="true" type="xs:double" />
+      <xs:element name="float" nillable="true" type="xs:float" />
+      <xs:element name="int" nillable="true" type="xs:int" />
+      <xs:element name="long" nillable="true" type="xs:long" />
+      <xs:element name="QName" nillable="true" type="xs:QName" />
+      <xs:element name="short" nillable="true" type="xs:short" />
+      <xs:element name="string" nillable="true" type="xs:string" />
+      <xs:element name="unsignedByte" nillable="true" type="xs:unsignedByte" />
+      <xs:element name="unsignedInt" nillable="true" type="xs:unsignedInt" />
+      <xs:element name="unsignedLong" nillable="true" type="xs:unsignedLong" />
+      <xs:element name="unsignedShort" nillable="true" type="xs:unsignedShort" />
+      <xs:element name="char" nillable="true" type="tns:char" />
+      <xs:simpleType name="char">
+        <xs:restriction base="xs:int" />
+      </xs:simpleType>
+      <xs:element name="duration" nillable="true" type="tns:duration" />
+      <xs:simpleType name="duration">
+        <xs:restriction base="xs:duration">
+          <xs:pattern value="\-?P(\d*D)?(T(\d*H)?(\d*M)?(\d*(\.\d*)?S)?)?" />
+          <xs:minInclusive value="-P10675199DT2H48M5.4775808S" />
+          <xs:maxInclusive value="P10675199DT2H48M5.4775807S" />
+        </xs:restriction>
+      </xs:simpleType>
+      <xs:element name="guid" nillable="true" type="tns:guid" />
+      <xs:simpleType name="guid">
+        <xs:restriction base="xs:string">
+          <xs:pattern value="[\da-fA-F]{8}-[\da-fA-F]{4}-[\da-fA-F]{4}-[\da-fA-F]{4}-[\da-fA-F]{12}" />
+        </xs:restriction>
+      </xs:simpleType>
+      <xs:attribute name="FactoryType" type="xs:QName" />
+      <xs:attribute name="Id" type="xs:ID" />
+      <xs:attribute name="Ref" type="xs:IDREF" />
+    </xs:schema>
+    <xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/TES.TFD.V33.Negocios" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/TES.TFD.V33.Negocios" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <xs:complexType name="RespuestaTFD33">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="CodigoConfirmacion" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="CodigoRespuesta" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="CreditosRestantes" type="xs:int" />
+          <xs:element minOccurs="0" name="MensajeError" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="MensajeErrorDetallado" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="OperacionExitosa" type="xs:boolean" />
+          <xs:element minOccurs="0" name="PDFResultado" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Timbre" nillable="true" type="tns:Timbre33" />
+          <xs:element minOccurs="0" name="XMLResultado" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="RespuestaTFD33" nillable="true" type="tns:RespuestaTFD33" />
+      <xs:complexType name="Timbre33">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Estado" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="FechaTimbrado" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="NumeroCertificadoSAT" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="SelloCFD" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="SelloSAT" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="UUID" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="Timbre33" nillable="true" type="tns:Timbre33" />
+      <xs:complexType name="RespuestaCancelacion">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="DetallesCancelacion" nillable="true" type="tns:ArrayOfDetalleCancelacion" />
+          <xs:element minOccurs="0" name="MensajeError" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="MensajeErrorDetallado" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="OperacionExitosa" type="xs:boolean" />
+          <xs:element minOccurs="0" name="XMLAcuse" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="RespuestaCancelacion" nillable="true" type="tns:RespuestaCancelacion" />
+      <xs:complexType name="ArrayOfDetalleCancelacion">
+        <xs:sequence>
+          <xs:element minOccurs="0" maxOccurs="unbounded" name="DetalleCancelacion" nillable="true" type="tns:DetalleCancelacion" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="ArrayOfDetalleCancelacion" nillable="true" type="tns:ArrayOfDetalleCancelacion" />
+      <xs:complexType name="DetalleCancelacion">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="CodigoResultado" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="MensajeResultado" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="UUID" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="DetalleCancelacion" nillable="true" type="tns:DetalleCancelacion" />
+      <xs:complexType name="RespuestaCancelacionAsincrona">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="DetallesCancelacion" nillable="true" type="tns:ArrayOfDetalleCancelacion" />
+          <xs:element minOccurs="0" name="MensajeError" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="OperacionExitosa" type="xs:boolean" />
+          <xs:element minOccurs="0" name="Referencia" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="RespuestaCancelacionAsincrona" nillable="true" type="tns:RespuestaCancelacionAsincrona" />
+      <xs:complexType name="RespuestaEstatusCancelacionAsincrona">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Estatus" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="MensajeError" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="OperacionExitosa" type="xs:boolean" />
+          <xs:element minOccurs="0" name="Referencia" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="XMLAcuse" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="RespuestaEstatusCancelacionAsincrona" nillable="true" type="tns:RespuestaEstatusCancelacionAsincrona" />
+      <xs:complexType name="RespuestaCreditos">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="MensajeError" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="OperacionExitosa" type="xs:boolean" />
+          <xs:element minOccurs="0" name="Paquetes" nillable="true" type="tns:ArrayOfDetallesPaqueteCreditos" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="RespuestaCreditos" nillable="true" type="tns:RespuestaCreditos" />
+      <xs:complexType name="ArrayOfDetallesPaqueteCreditos">
+        <xs:sequence>
+          <xs:element minOccurs="0" maxOccurs="unbounded" name="DetallesPaqueteCreditos" nillable="true" type="tns:DetallesPaqueteCreditos" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="ArrayOfDetallesPaqueteCreditos" nillable="true" type="tns:ArrayOfDetallesPaqueteCreditos" />
+      <xs:complexType name="DetallesPaqueteCreditos">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="EnUso" type="xs:boolean" />
+          <xs:element minOccurs="0" name="FechaActivacion" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="FechaVencimiento" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="Paquete" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Timbres" type="xs:int" />
+          <xs:element minOccurs="0" name="TimbresRestantes" type="xs:int" />
+          <xs:element minOccurs="0" name="TimbresUsados" type="xs:int" />
+          <xs:element minOccurs="0" name="Vigente" type="xs:boolean" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="DetallesPaqueteCreditos" nillable="true" type="tns:DetallesPaqueteCreditos" />
+      <xs:complexType name="RespuestaReporte">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="ListaComprobantes" nillable="true" type="tns:ArrayOfRegistroTimbre" />
+          <xs:element minOccurs="0" name="MensajeError" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="OperacionExitosa" type="xs:boolean" />
+          <xs:element minOccurs="0" name="TotalComprobantesPeriodo" type="xs:int" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="RespuestaReporte" nillable="true" type="tns:RespuestaReporte" />
+      <xs:complexType name="ArrayOfRegistroTimbre">
+        <xs:sequence>
+          <xs:element minOccurs="0" maxOccurs="unbounded" name="RegistroTimbre" nillable="true" type="tns:RegistroTimbre" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="ArrayOfRegistroTimbre" nillable="true" type="tns:ArrayOfRegistroTimbre" />
+      <xs:complexType name="RegistroTimbre">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Estado" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="FechaTimbrado" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="NoFila" type="xs:int" />
+          <xs:element minOccurs="0" name="RFCEmisor" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="RFCReceptor" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="UUID" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="RegistroTimbre" nillable="true" type="tns:RegistroTimbre" />
+    </xs:schema>
+    <xs:schema xmlns:tns="http://schemas.microsoft.com/2003/10/Serialization/Arrays" elementFormDefault="qualified" targetNamespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <xs:complexType name="ArrayOfstring">
+        <xs:sequence>
+          <xs:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="ArrayOfstring" nillable="true" type="tns:ArrayOfstring" />
+    </xs:schema>
+  </wsdl:types>
+  <wsdl:message name="IWSCFDI33_TimbrarCFDI_InputMessage">
+    <wsdl:part name="parameters" element="tns:TimbrarCFDI" />
+  </wsdl:message>
+  <wsdl:message name="IWSCFDI33_TimbrarCFDI_OutputMessage">
+    <wsdl:part name="parameters" element="tns:TimbrarCFDIResponse" />
+  </wsdl:message>
+  <wsdl:message name="IWSCFDI33_CancelarCFDI_InputMessage">
+    <wsdl:part name="parameters" element="tns:CancelarCFDI" />
+  </wsdl:message>
+  <wsdl:message name="IWSCFDI33_CancelarCFDI_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CancelarCFDIResponse" />
+  </wsdl:message>
+  <wsdl:message name="IWSCFDI33_CancelacionAsincrona_InputMessage">
+    <wsdl:part name="parameters" element="tns:CancelacionAsincrona" />
+  </wsdl:message>
+  <wsdl:message name="IWSCFDI33_CancelacionAsincrona_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CancelacionAsincronaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IWSCFDI33_EstatusCancelacionAsincrona_InputMessage">
+    <wsdl:part name="parameters" element="tns:EstatusCancelacionAsincrona" />
+  </wsdl:message>
+  <wsdl:message name="IWSCFDI33_EstatusCancelacionAsincrona_OutputMessage">
+    <wsdl:part name="parameters" element="tns:EstatusCancelacionAsincronaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IWSCFDI33_ObtenerPDF_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerPDF" />
+  </wsdl:message>
+  <wsdl:message name="IWSCFDI33_ObtenerPDF_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerPDFResponse" />
+  </wsdl:message>
+  <wsdl:message name="IWSCFDI33_ObtenerAcuseEnvio_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerAcuseEnvio" />
+  </wsdl:message>
+  <wsdl:message name="IWSCFDI33_ObtenerAcuseEnvio_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerAcuseEnvioResponse" />
+  </wsdl:message>
+  <wsdl:message name="IWSCFDI33_ObtenerAcuseCancelacion_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerAcuseCancelacion" />
+  </wsdl:message>
+  <wsdl:message name="IWSCFDI33_ObtenerAcuseCancelacion_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerAcuseCancelacionResponse" />
+  </wsdl:message>
+  <wsdl:message name="IWSCFDI33_CambiarPassword_InputMessage">
+    <wsdl:part name="parameters" element="tns:CambiarPassword" />
+  </wsdl:message>
+  <wsdl:message name="IWSCFDI33_CambiarPassword_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CambiarPasswordResponse" />
+  </wsdl:message>
+  <wsdl:message name="IWSCFDI33_ConsultarComplementoTimbre_InputMessage">
+    <wsdl:part name="parameters" element="tns:ConsultarComplementoTimbre" />
+  </wsdl:message>
+  <wsdl:message name="IWSCFDI33_ConsultarComplementoTimbre_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ConsultarComplementoTimbreResponse" />
+  </wsdl:message>
+  <wsdl:message name="IWSCFDI33_ConsultarTimbrePorReferencia_InputMessage">
+    <wsdl:part name="parameters" element="tns:ConsultarTimbrePorReferencia" />
+  </wsdl:message>
+  <wsdl:message name="IWSCFDI33_ConsultarTimbrePorReferencia_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ConsultarTimbrePorReferenciaResponse" />
+  </wsdl:message>
+  <wsdl:message name="IWSCFDI33_ConsultarCreditos_InputMessage">
+    <wsdl:part name="parameters" element="tns:ConsultarCreditos" />
+  </wsdl:message>
+  <wsdl:message name="IWSCFDI33_ConsultarCreditos_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ConsultarCreditosResponse" />
+  </wsdl:message>
+  <wsdl:message name="IWSCFDI33_ConsultarComprobantes_InputMessage">
+    <wsdl:part name="parameters" element="tns:ConsultarComprobantes" />
+  </wsdl:message>
+  <wsdl:message name="IWSCFDI33_ConsultarComprobantes_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ConsultarComprobantesResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IWSCFDI33">
+    <wsdl:operation name="TimbrarCFDI">
+      <wsdl:input wsaw:Action="http://tempuri.org/IWSCFDI33/TimbrarCFDI" message="tns:IWSCFDI33_TimbrarCFDI_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IWSCFDI33/TimbrarCFDIResponse" message="tns:IWSCFDI33_TimbrarCFDI_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CancelarCFDI">
+      <wsdl:input wsaw:Action="http://tempuri.org/IWSCFDI33/CancelarCFDI" message="tns:IWSCFDI33_CancelarCFDI_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IWSCFDI33/CancelarCFDIResponse" message="tns:IWSCFDI33_CancelarCFDI_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CancelacionAsincrona">
+      <wsdl:input wsaw:Action="http://tempuri.org/IWSCFDI33/CancelacionAsincrona" message="tns:IWSCFDI33_CancelacionAsincrona_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IWSCFDI33/CancelacionAsincronaResponse" message="tns:IWSCFDI33_CancelacionAsincrona_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="EstatusCancelacionAsincrona">
+      <wsdl:input wsaw:Action="http://tempuri.org/IWSCFDI33/EstatusCancelacionAsincrona" message="tns:IWSCFDI33_EstatusCancelacionAsincrona_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IWSCFDI33/EstatusCancelacionAsincronaResponse" message="tns:IWSCFDI33_EstatusCancelacionAsincrona_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerPDF">
+      <wsdl:input wsaw:Action="http://tempuri.org/IWSCFDI33/ObtenerPDF" message="tns:IWSCFDI33_ObtenerPDF_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IWSCFDI33/ObtenerPDFResponse" message="tns:IWSCFDI33_ObtenerPDF_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerAcuseEnvio">
+      <wsdl:input wsaw:Action="http://tempuri.org/IWSCFDI33/ObtenerAcuseEnvio" message="tns:IWSCFDI33_ObtenerAcuseEnvio_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IWSCFDI33/ObtenerAcuseEnvioResponse" message="tns:IWSCFDI33_ObtenerAcuseEnvio_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerAcuseCancelacion">
+      <wsdl:input wsaw:Action="http://tempuri.org/IWSCFDI33/ObtenerAcuseCancelacion" message="tns:IWSCFDI33_ObtenerAcuseCancelacion_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IWSCFDI33/ObtenerAcuseCancelacionResponse" message="tns:IWSCFDI33_ObtenerAcuseCancelacion_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CambiarPassword">
+      <wsdl:input wsaw:Action="http://tempuri.org/IWSCFDI33/CambiarPassword" message="tns:IWSCFDI33_CambiarPassword_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IWSCFDI33/CambiarPasswordResponse" message="tns:IWSCFDI33_CambiarPassword_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarComplementoTimbre">
+      <wsdl:input wsaw:Action="http://tempuri.org/IWSCFDI33/ConsultarComplementoTimbre" message="tns:IWSCFDI33_ConsultarComplementoTimbre_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IWSCFDI33/ConsultarComplementoTimbreResponse" message="tns:IWSCFDI33_ConsultarComplementoTimbre_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarTimbrePorReferencia">
+      <wsdl:input wsaw:Action="http://tempuri.org/IWSCFDI33/ConsultarTimbrePorReferencia" message="tns:IWSCFDI33_ConsultarTimbrePorReferencia_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IWSCFDI33/ConsultarTimbrePorReferenciaResponse" message="tns:IWSCFDI33_ConsultarTimbrePorReferencia_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarCreditos">
+      <wsdl:input wsaw:Action="http://tempuri.org/IWSCFDI33/ConsultarCreditos" message="tns:IWSCFDI33_ConsultarCreditos_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IWSCFDI33/ConsultarCreditosResponse" message="tns:IWSCFDI33_ConsultarCreditos_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarComprobantes">
+      <wsdl:input wsaw:Action="http://tempuri.org/IWSCFDI33/ConsultarComprobantes" message="tns:IWSCFDI33_ConsultarComprobantes_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IWSCFDI33/ConsultarComprobantesResponse" message="tns:IWSCFDI33_ConsultarComprobantes_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="soapHttpEndpoint" type="tns:IWSCFDI33">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="TimbrarCFDI">
+      <soap:operation soapAction="http://tempuri.org/IWSCFDI33/TimbrarCFDI" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CancelarCFDI">
+      <soap:operation soapAction="http://tempuri.org/IWSCFDI33/CancelarCFDI" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CancelacionAsincrona">
+      <soap:operation soapAction="http://tempuri.org/IWSCFDI33/CancelacionAsincrona" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EstatusCancelacionAsincrona">
+      <soap:operation soapAction="http://tempuri.org/IWSCFDI33/EstatusCancelacionAsincrona" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerPDF">
+      <soap:operation soapAction="http://tempuri.org/IWSCFDI33/ObtenerPDF" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerAcuseEnvio">
+      <soap:operation soapAction="http://tempuri.org/IWSCFDI33/ObtenerAcuseEnvio" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerAcuseCancelacion">
+      <soap:operation soapAction="http://tempuri.org/IWSCFDI33/ObtenerAcuseCancelacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CambiarPassword">
+      <soap:operation soapAction="http://tempuri.org/IWSCFDI33/CambiarPassword" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarComplementoTimbre">
+      <soap:operation soapAction="http://tempuri.org/IWSCFDI33/ConsultarComplementoTimbre" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarTimbrePorReferencia">
+      <soap:operation soapAction="http://tempuri.org/IWSCFDI33/ConsultarTimbrePorReferencia" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarCreditos">
+      <soap:operation soapAction="http://tempuri.org/IWSCFDI33/ConsultarCreditos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConsultarComprobantes">
+      <soap:operation soapAction="http://tempuri.org/IWSCFDI33/ConsultarComprobantes" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WSCFDI33">
+    <wsdl:port name="soapHttpEndpoint" binding="tns:soapHttpEndpoint">
+      <soap:address location="http://appfacturainteligente.com/WSTimbrado33Test/WSCFDI33.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

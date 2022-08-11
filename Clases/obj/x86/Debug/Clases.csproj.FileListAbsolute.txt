@@ -1,0 +1,2 @@
+C:\Proyecto\Sipred\Sipred\Clases\obj\x86\Debug\Clases.csprojAssemblyReference.cache
+C:\Proyecto\Sipred\Sipred\Clases\obj\x86\Debug\Clases.csproj.CoreCompileInputs.cache

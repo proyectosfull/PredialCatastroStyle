@@ -1,0 +1,954 @@
+﻿/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;        
+    background-color: #F5F5F5;        
+    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    color: #696969;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #fff;
+    z-index:1;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set widths on the form inputs since otherwise they're 100% wide */
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="tel"],
+input[type="select"] {
+    max-width: 280px;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+    .jumbotron {
+        margin-top: 20px;
+    }
+    .body-content {
+        padding: 0;
+    }
+}
+
+
+
+.barra {
+    height:42px;
+    width:100%;
+    background-color: #272729;
+    display:block;
+}
+
+.title
+{
+    background:#2E64FE;
+}
+
+
+
+
+   .tituloBarra {
+    border-right: 1px solid #424243;
+    color: #dedede;
+    display: inline-block;
+    font-family: "Raleway",sans-serif;
+    font-size: 18pt;
+    font-weight: 700;
+    height: 42px;
+    line-height: normal;
+    padding:0px 0px 0px 0px;
+    margin:0px 0px 0px 15px; 
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 90%;
+}
+
+   .menubar {
+    background: #f5f5f5 none repeat scroll 0 0;
+    border-bottom: 1px solid #dddddd;
+    border-top: 1px solid #dddddd;
+    height: 34px;
+    margin: 0 0 10px;
+    overflow: hidden;
+    position: relative;
+}
+
+.panelAdministrador {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: #f5f5f5 none repeat scroll 0 0;
+    border-color: -moz-use-text-color #d1d2d3 #d1d2d3;
+    border-image: none;
+    border-style: none solid solid;
+    border-width: 0 1px 1px;    
+    width:100%;    
+}
+.panelAdministrador td{
+    height:35px;
+    padding-left:10px;
+}
+
+/* PRIMARY LAYOUT ELEMENTS   
+----------------------------------------------------------*/
+
+.tbBasico
+{    
+    }
+.tbBasico tr
+{    
+    vertical-align:top;
+    height:25px;
+    }
+.tbBasico td
+{    
+    vertical-align:top;   
+    }
+    
+h2
+{
+    margin:5px;
+    color: #306E0A;
+}
+.LinkButton42
+{
+    color: #306E0A;
+}
+.page
+{
+    width: 960px;
+    background-color: #fff;
+    margin: 20px auto 0px auto;
+    border: 1px solid #496077;
+
+}
+
+.header
+{
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    background: #4b6c9e;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+}
+
+.header h1
+{
+    font-weight: 700;
+    margin: 0px;
+    padding: 0px 0px 0px 20px;
+    color: #f9f9f9;
+    border: none;
+    line-height: 2em;
+    font-size: 2em;
+}
+
+.main
+{
+    padding: 0px 0px;
+    margin: 0px 0px 0px 0px;
+    min-height: 420px;
+}
+
+.leftCol
+{
+    padding: 6px 0px;
+    margin: 12px 8px 8px 8px;
+    width: 200px;
+    min-height: 200px;
+}
+
+.footer
+{
+    color: #4e5766;
+    padding: 8px 0px 0px 0px;
+    margin: 0px auto;
+    text-align: center;
+    line-height: normal;
+}
+
+
+/* FORM ELEMENTS   
+----------------------------------------------------------*/
+
+/* #region Estilos para Letreros */
+.letraChica
+{
+    font-size: 9px;
+ }    
+.letraMediana
+{ 
+    color:#666666;
+    font-weight: bold;
+    font-size: 12px;   
+ }
+.letraMedianaRight
+{ 
+    color:#666666;
+    font-weight: bold;
+    font-size: 12px;   
+    text-align: right;
+ }
+ .letraGrande
+{
+    font-size: 14px;
+ }    
+
+.letraTitulo {
+	font-size: 25px;
+	/*font-weight: bold;	*/
+	color: #575655;
+	font-family: Trebuchet MS;
+    padding-left:20px;
+}
+
+.letraTituloEmptyGrid {
+	font-size: 20px;
+	/*font-weight: bold;	*/
+	color: #C42324;
+	font-family: Trebuchet MS;
+}
+.letraSubTitulo {
+	font-size: 14px;
+	font-weight: bold;	
+	color: #4C4C4C;
+
+}
+
+ .letraBannerLinks
+    {
+    	color: #78ABDC; 
+    	font-size: 17px; 
+    	font-family: Arial;
+    	
+    }
+    
+    .letraLogueado
+    {
+    	color: #FFFFCC;
+    	font-size: 14px; 
+    	font-family: Arial;
+    }
+    .letraCerrarSesion
+    {
+        color: #FFFFFF;
+    	font-size: 12px; 
+    	font-family: Arial;
+        margin-left:20px;
+    }
+    .letraVersion
+    {
+        color: #C9E0BE;	
+        font-size: 10px; 
+    	font-family: Arial;
+    }
+    
+	.letraPie
+    {
+        color: #3D4339;
+        font-size: 12px; 
+    	font-family: Arial;
+    	
+    }
+    
+    .letraPieComision
+    {
+        font-family: Arial; 
+        font-size: 12px; 
+        color: #666666;
+    }   
+ /* #endregion */
+ 
+ 
+/* #region Estilos para los Textbox */
+input[type="text"]
+{
+    min-height: 27px;
+    box-sizing: border-box; 
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box; 
+    padding: 8px;
+    outline: none;
+    border: 1px solid #B0CFE0;
+    border-radius: 4px;
+    -webkit-transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -ms-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+}
+input[type="text"]:focus{
+   box-shadow: 0 0 5px #B0CFE0;
+   border:1px solid #B0CFE0;
+}
+input[type="password"]
+{    
+    min-height: 27px;
+    box-sizing: border-box; 
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box; 
+    padding: 8px;
+    outline: none;
+    border: 1px solid #B0CFE0;
+    -webkit-transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -ms-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;   
+    border-radius: 4px;
+}
+ input[type="password"]:focus{
+       box-shadow: 0 0 5px #B0CFE0;
+   border:1px solid #B0CFE0;
+}   
+textarea
+{    
+     box-sizing: border-box; 
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box; 
+    padding: 8px;
+    outline: none;
+    border: 1px solid #B0CFE0;
+    -webkit-transition: all 0.30s ease-in-out;
+    -moz-transition: all 0.30s ease-in-out;
+    -ms-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+}
+textarea:focus{
+   box-shadow: 0 0 5px #B0CFE0;
+   border:1px solid #B0CFE0;
+}
+input[type="button"], 
+input[type="submit"] {
+    -moz-box-shadow: inset 0px 1px 0px 0px #3985B1;
+    -webkit-box-shadow: inset 0px 1px 0px 0px #3985B1;
+    box-shadow: inset 0px 1px 0px 0px #3985B1;
+    background-color: #216288;
+    border: 1px solid #17445E;
+    display: inline-block;
+    cursor: pointer;
+    color: #FFFFFF;
+    padding: 8px 18px;
+    text-decoration: none;
+    font: 13px Arial, Helvetica, sans-serif;
+    border-radius: 4px;
+}
+
+input[type="button"]:hover, 
+input[type="submit"]:hover {
+    background: linear-gradient(to bottom, #2D77A2 5%, #337DA8 100%);
+    background-color: #28739E;
+}
+
+ select
+{
+    border: 1px solid #B0CFE0;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px #ddd inset;
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 8px 0;
+    padding: 6px 10px;
+    min-width:240px;
+    max-width:400px;      
+}
+
+.valida
+{
+       font-size: 20px;
+       color: #FF8000;
+}
+.mensajeValidador
+{
+       font-size: 12px;
+       color: #FF8000;
+}
+
+.textChico
+{
+       font-size: 12px;
+       width: 60px;       
+    }
+.textMediano
+{
+       font-size: 12px;
+       width:120px;
+}
+.textMedianoRight
+{
+       font-size: 12px;
+       width:120px;
+       text-align: right;
+}
+.textGrande
+{
+       font-size: 12px;
+       width: 240px;       
+}
+.textGrandeCenter
+{
+       font-size: 12px;
+       width: 240px;    
+       text-align: center;   
+}
+.textExtraGrande
+{
+       font-size: 12px;
+       width: 480px;
+}
+.textMultiGrande
+{
+       height: 80px;
+       font-size: 12px;
+       width: 240px;
+}
+
+.textMultiExtraGrande
+{
+       height: 80px;
+       font-size: 12px;
+       width: 480px;
+}
+ /* #endregion */
+ 
+ 
+/* #region Estilos para los grids */
+.grd
+{
+    
+    border-collapse: collapse;
+    border: 0px;
+    color: #333333;
+    width: 100%;   
+}
+.grd th, .grd td
+{
+
+ padding:4px;
+ border: 0px;
+ text-align: left;
+
+}
+.grdHead
+{
+    text-align: left;
+    font-size: 12px;
+	background-color: #C3C3C3;
+	color: #FFF;
+	font-weight: bold !important;
+}
+.grd tbody tr th a:link,grd tbody tr th a:visited {
+    color: #FFF;    
+    font-size: 12px;
+}
+
+.grdRowImpar, .grdRowImpar td a:link, .grdRowImpar td a:visited
+{
+    background-color: #EAEAEA;    
+    border-bottom-color: #B0B0B0;
+    border-bottom-style: dashed;
+    border-bottom-width: 1px !important;
+    color:#000000 !important;    
+    font-size: 12px; 
+}
+.grdRowPar, .grdRowPar td a:link, .grdRowPar td a:visited
+{
+    background-color: #F4F4F4;
+    border-bottom-color: #B0B0B0;
+    border-bottom-style:dashed !important;
+    border-bottom-width: 1px !important; 
+    color:#000000 !important; 
+    font-size: 12px;
+}
+
+.grdRowInactivo
+{
+    background-color: #cccccc !important;
+    border-bottom-color: #B0B0B0;
+    border-bottom-style:dashed !important;
+    border-bottom-width: 1px !important; 
+    color:#006699 !important; 
+    font-size: 14px;
+}
+.grdFooter
+{
+    color:#000000;
+    background-color:#FFFFFF;
+    font-weight:bold;
+}
+.grdBoton
+{   
+    width: 5%;
+    text-align: center !important;  
+}
+ /* #endregion */
+ 
+ 
+/* #region Estilos para las modales */
+.textModalTitulo2 {
+	font-size: 25px;
+	/*font-weight: bold;	*/
+	color: #575655;
+	font-family: Trebuchet MS;
+    padding: 0px 0px 5px 0px;
+}
+
+.textModalTitulo {
+	font-family: Trebuchet MS;
+    font-size: 16px;   
+    color: #f8f8f1;
+}
+.textModalDescrip {
+	font-family: Trebuchet MS;
+    font-size: 14px;   
+    font-weight: bold;
+    color: #ff4500;
+}
+.topModal {
+    /*background-color: #2D77A2;*/
+    background-color: #16BE79;
+    background-position: top;
+    width: 474px;
+    height: 46px;
+}
+.leftModal {
+    /*background-color:#f8f8f1;*/
+    background-color: #f8f8f1;
+    width: 18px;
+    background-position: left;
+    background-repeat: repeat-y;
+}
+
+.mainModal {
+    width: 447px;
+    /*background-color:#f8f8f1;*/
+    background-color: #f8f8f1;
+    vertical-align: middle;
+    text-align: center;
+    min-height: 50px;
+}
+
+.rigthModal {
+    /*background-color:#f8f8f1;*/
+    background-color: #f8f8f1;
+    background-position: right;
+    width: 10px;
+    background-repeat: repeat-y;
+}
+.bottomModal
+{
+    
+    background-position: top;  
+    width: 474px;
+    height: 47px;
+}
+.tdTituloModal 
+{
+    
+	padding-left:50px;
+    padding-bottom:4px;
+}
+.tdCerrarModal {
+	text-align:right; 
+	padding-bottom:2px;
+	padding-right:10px;
+}
+
+.ventanaBackground {
+	background-color:Gray;
+	filter:alpha(opacity=70);
+	opacity:0.7;
+    z-index:69999 !important;
+}  
+.ventanaBackgroundSpiral {
+	background-color:Gray;
+	filter:alpha(opacity=70);
+	opacity:0.7;
+    z-index:70000 !important;
+}  
+.modalWindow
+{
+  border: solid1px#c0c0c0;
+  background:#f0f0f0;
+  padding: 0px10px10px10px;  
+}
+
+ /* #endregion */
+ 
+ 
+/* #region  estilos Calendar Extender*/
+.CalendarCSS .ajax__calendar_container   {
+    background-color: #EAE8B5;
+    border:solid 1px #EAE8B5;
+}
+
+.CalendarCSS .ajax__calendar_header  {
+    background-color: #ffffff;
+    margin-bottom: 4px;
+}
+
+.CalendarCSS .ajax__calendar_title
+ {
+    color: #333333;
+    padding-top: 3px;
+}
+.CalendarCSS .ajax__calendar_next
+ {
+    color: #333333;
+    padding-top: 3px;
+    
+}
+.CalendarCSS .ajax__calendar_prev    {
+    color: #333333;
+    padding-top: 3px; 
+}
+
+.CalendarCSS .ajax__calendar_body    {
+    background-color: #FBFBEE;
+    border: solid 1px #FBFBEE;
+    height:140px;
+}
+
+.CalendarCSS .ajax__calendar_dayname {
+    text-align:center;
+    font-weight:bold;
+    margin-bottom: 4px;
+    margin-top: 2px;
+}
+.CalendarCSS .ajax__calendar_days table tr
+{
+   height:20px;
+    }
+.CalendarCSS .ajax__calendar_day {
+    text-align:center;
+}
+
+.CalendarCSS .ajax__calendar_hover .ajax__calendar_day,
+.CalendarCSS .ajax__calendar_hover .ajax__calendar_month,
+.CalendarCSS .ajax__calendar_hover .ajax__calendar_year,
+.CalendarCSS .ajax__calendar_active  {
+    color: #333333;
+    font-weight: bold;
+    background-color: #EAE8B5;
+   
+}
+
+.CalendarCSS .ajax__calendar_today   {
+    font-weight:bold;
+}
+
+.CalendarCSS .ajax__calendar_other,
+.CalendarCSS .ajax__calendar_hover .ajax__calendar_today,
+.CalendarCSS .ajax__calendar_hover .ajax__calendar_title {
+    color: #bbbbbb;
+}
+
+.txtUsuario
+{
+    background-position: left center;
+    padding-left: 15px!important;
+    background-image: url('../Imagenes/c.png');
+    background-repeat: no-repeat;
+}
+.txtContrasenia{
+background-position: left center; 
+padding-left: 15px!important; 
+background-image: url(../Imagenes/pass.png); 
+background-repeat: no-repeat;   
+}
+
+  /* #endregion */
+  
+/* #region Estilos para Tabs */
+/*Header*/
+.Tab .ajax__tab_header
+{
+    color: #4682b4;
+    font-family:Calibri;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #ffffff;
+    margin-left: 0px;
+}
+/*Body*/
+.Tab .ajax__tab_body
+{
+    border:1px solid #b4cbdf;
+    padding:10px;
+    min-height:280px;
+}
+/*Tab Active*/
+.Tab .ajax__tab_active .ajax__tab_tab
+{
+    color: #ffffff;
+    background:url("../img/tab/tab_active.gif") repeat-x;
+    height:33px;
+}
+.Tab .ajax__tab_active .ajax__tab_inner
+{
+    color: #ffffff;
+    background:url("../img/tab/tab_left_active.gif") no-repeat left;
+    padding-left:10px;
+}
+.Tab .ajax__tab_active .ajax__tab_outer
+{
+    color: #ffffff;
+    background:url("../img/tab/tab_right_active.gif") no-repeat right;
+    padding-right:6px;
+}
+/*Tab Hover*/
+.Tab .ajax__tab_hover .ajax__tab_tab
+{
+    color: #000000;
+    background:url("../img/tab/tab_hover.gif") repeat-x;
+    height:33px;
+}
+.Tab .ajax__tab_hover .ajax__tab_inner
+{
+    color: #000000;
+    background:url("../img/tab/tab_left_hover.gif") no-repeat left;
+    padding-left:10px;
+}
+.Tab .ajax__tab_hover .ajax__tab_outer
+{
+    color: #000000;
+    background:url("../img/tab/tab_right_hover.gif") no-repeat right;
+    padding-right:6px;
+}
+/*Tab Inactive*/
+.Tab .ajax__tab_tab
+{
+    color: #666666;
+    background:url("../img/tab/tab_Inactive.gif") repeat-x;
+    height:33px;
+}
+.Tab .ajax__tab_inner
+{
+    color: #666666;
+    background:url("../img/tab/tab_left_inactive.gif") no-repeat left;
+    padding-left:10px;
+}
+.Tab .ajax__tab_outer
+{
+    color: #666666;
+    background:url("../img/tab/tab_right_inactive.gif") no-repeat right;
+    padding-right:6px;
+    margin-right: 2px;
+}
+/* #endregion */
+
+
+  
+/* #region Estilos para Menu */
+  /*- Menu --------------------------- */
+
+.level1 {
+    color: White;
+    height: 35px;
+    min-width: 142px;
+    text-align: center;
+    background-color: #34BE79;
+    font-size: 18px;
+    text-align: left;
+    padding: 2px;
+}
+
+.level2 {
+    color: Gray;
+    background-color: #E7E7E7;
+    height: 35px;
+    min-width: 142px;
+    text-align: center;
+    font-size: 16px;
+    text-align: left;
+    padding: 2px;
+}
+
+.level3 {
+    color: Gray;
+    /*background-color: #E7E7E7;*/
+    background-color: #E7E7E7;
+    height: 35px;
+    min-width: 142px;
+    text-align: center;
+    font-size: 14px;
+    text-align: left;
+    padding: 2px;
+}
+
+.level1:hover
+{
+    background-color: #939598;
+    padding:2px;
+}
+.level2:hover
+{
+    background-color: #939598;
+    color:White;
+    padding:2px;
+}
+.level3:hover
+{
+    background-color: #939598;
+    color:White;
+    padding:2px;
+}
+.newsticker-demo
+{
+    background-image: url(../Imagenes/vb.png);
+}
+
+  /* #endregion */
+  
+
+/*--------------------------------------Modificaciónes de la master y default--------------------------------*/
+div.centerTable{
+        text-align: center;
+}
+ 
+div.centerTable table {
+       margin: 0 auto;
+       text-align: left;
+}
+
+  
+/* #region Estilos para Login */
+/*LOGIN*/
+
+.txtUsuario
+{
+    background-position: left center;
+    padding-left: 15px!important;
+    background-image: url('../img/uname.png');
+    background-repeat: no-repeat;
+}
+.txtContrasenia{
+background-position: left center; 
+padding-left: 15px!important; 
+background-image: url(../img/pwd.png); 
+background-repeat: no-repeat;   
+}
+
+ /* #endregion */
+  
+
+/*Estilo formulario*/
+
+.formPanel{
+    min-width: 400px;
+    max-width: 800px;
+    background: #FAFAFA;
+    padding: 30px;    
+    box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+    border-radius: 10px;
+    border: 6px solid #305A72;
+    z-index:70000 !important;
+}
+
+.zindexModal
+{
+    z-index:70000 !important;
+}
+
+.formCaptura {    
+    width: 100%;
+    background: #FAFAFA;
+    padding: 30px;    
+    box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+    border-radius: 10px;
+    border: 6px solid #305A72;
+    z-index:70000 !important;
+}
+
+.formCobro {    
+    background: #F5F5F5;
+    padding: 20px;    
+    box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+    border-radius: 10px;
+    border: 2px solid #2a436f;
+    /*border: 3px solid #305A72;*/
+    /*z-index:70000 !important;*/
+}
+
+
+.ddlChico{
+    
+    min-width:60px;
+    max-width:60px;
+    
+}
+
+.ddlMediano{
+    
+    min-width:120px;
+    max-width:120px;
+    
+}
+.ddlGrande {
+    min-width: 240px;
+    max-width: 240px;
+}
+.accordionHeader
+{
+    border: 1px solid #2F4F4F;
+    color: white;
+    background-color: #2E4d7B;
+    font-family: Arial, Sans-Serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+/*Estilo para colocar mayúsculas todos los textos*/
+input[type=text],textarea,select { 
+    text-transform: uppercase;
+}
+
+/*AutoComplete flyout */
+
+.autocomplete_completionListElement {
+    margin: 0px!important;
+    background-color: #fff;
+    color: windowtext;
+    border: buttonshadow;
+    border-width: 1px;
+    border-style: solid;
+    cursor: 'default';
+    overflow: auto;
+    height: 200px;
+    text-align: left;
+    list-style-type: none;
+}
+
+/* AutoComplete highlighted item */
+
+.autocomplete_highlightedListItem {
+    background-color: #ffff99;
+    color: black;
+    padding: 1px;
+}
+
+/* AutoComplete item */
+
+.autocomplete_listItem {
+    background-color: #fff;
+    color: windowtext;
+    padding: 1px;
+}

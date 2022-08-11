@@ -1,0 +1,40 @@
+**************************
+Fecha Hora de la insercion del recibo: 26/10/2021 07:13:00 p. m.
+IdPredio=17
+Periodo  =3/2016 AL 5/16
+IdTipoTramite=1
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 26/10/2021 07:14:17 p. m.
+idtramite=43364
+Contribuyente=  "TM CONSTRUCTORA E INMOBILIARIA", S.A DE C.V.
+DatosPredio=Clave Catastral: 1500-00-900-064     Tipo predio: URBANO     Super. Terreno: 5673m2.     Super. Const.: 0m2.    Base gravable: $850950
+**************************
+**************************
+Fecha Hora del Error: 26/10/2021 07:14:21 p. m.
+System.IO.FileLoadException: No se puede cargar el archivo o ensamblado 'Microsoft.ReportViewer.WebForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' ni una de sus dependencias. La definición del manifiesto del ensamblado no coincide con la referencia al ensamblado. (Excepción de HRESULT: 0x80131040)
+Nombre de archivo: 'Microsoft.ReportViewer.WebForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+   en GeneraRecibo33.ReciboCFDI33.generaPDFrecibo(XDocument& xDoc, DatosRecibo datos, Recibo& valorRecibo, DateTime FechaHora, String codigo, DataTable datosFiel, String path, String& Errores, String estado)
+   en GeneraRecibo33.ReciboCFDI33.generaRecibo(DatosRecibo datos, String path) en D:\Proyectos\Sipred\catastro\GeneraRecibo33\ReciboCFDI33.vb:línea 71
+
+=== Información de estado anterior al enlace ===
+LOG: DisplayName = Microsoft.ReportViewer.WebForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+ (Fully-specified)
+LOG: Appbase = file:///D:/Proyectos/Sipred/catastro/Catastro/
+LOG: PrivatePath inicial = D:\Proyectos\Sipred\catastro\Catastro\bin
+Ensamblado de llamada : GeneraRecibo33, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.
+===
+LOG: Este enlace empieza en el contexto de carga default.
+LOG: Utilización del archivo de configuración de la aplicación: D:\Proyectos\Sipred\catastro\Catastro\web.config
+LOG: Utilizando el archivo de configuración de host: C:\Users\tonat\Documents\IISExpress\config\aspnet.config
+LOG: Utilizando el archivo de configuración del equipo en C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Referencia posterior a la directiva: Microsoft.ReportViewer.WebForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+LOG: Intento de descarga de la nueva dirección URL file:///C:/Users/tonat/AppData/Local/Temp/Temporary ASP.NET Files/vs/de4f2501/3e77910a/Microsoft.ReportViewer.WebForms.DLL.
+LOG: Intento de descarga de la nueva dirección URL file:///C:/Users/tonat/AppData/Local/Temp/Temporary ASP.NET Files/vs/de4f2501/3e77910a/Microsoft.ReportViewer.WebForms/Microsoft.ReportViewer.WebForms.DLL.
+LOG: Intento de descarga de la nueva dirección URL file:///D:/Proyectos/Sipred/catastro/Catastro/bin/Microsoft.ReportViewer.WebForms.DLL.
+AVS: Al comparar el nombre de ensamblado se generó la incompatibilidad: Versión principal
+ERR: Error al completar la instalación del ensamblado (hr = 0x80131040). Finalizó la búsqueda.
+
+
+**************************

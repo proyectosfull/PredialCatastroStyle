@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="FolioFiscalDTS" targetNamespace="http://tempuri.org/FolioFiscalDTS.xsd" xmlns:mstns="http://tempuri.org/FolioFiscalDTS.xsd" xmlns="http://tempuri.org/FolioFiscalDTS.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="FolioFiscalDTS" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="FolioFiscalDTS" msprop:Generator_UserDSName="FolioFiscalDTS">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="FolioFiscalDTS" msprop:Generator_TableClassName="FolioFiscalDTSDataTable" msprop:Generator_TableVarName="tableFolioFiscalDTS" msprop:Generator_RowChangedName="FolioFiscalDTSRowChanged" msprop:Generator_TablePropName="_FolioFiscalDTS" msprop:Generator_RowDeletingName="FolioFiscalDTSRowDeleting" msprop:Generator_RowChangingName="FolioFiscalDTSRowChanging" msprop:Generator_RowEvHandlerName="FolioFiscalDTSRowChangeEventHandler" msprop:Generator_RowDeletedName="FolioFiscalDTSRowDeleted" msprop:Generator_RowClassName="FolioFiscalDTSRow" msprop:Generator_UserTableName="FolioFiscalDTS" msprop:Generator_RowEvArgName="FolioFiscalDTSRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FolioFiscal" msprop:Generator_ColumnVarNameInTable="columnFolioFiscal" msprop:Generator_ColumnPropNameInRow="FolioFiscal" msprop:Generator_ColumnPropNameInTable="FolioFiscalColumn" msprop:Generator_UserColumnName="FolioFiscal" type="xs:string" minOccurs="0" />
+              <xs:element name="NoSerieCertificadoSAT" msprop:Generator_ColumnVarNameInTable="columnNoSerieCertificadoSAT" msprop:Generator_ColumnPropNameInRow="NoSerieCertificadoSAT" msprop:Generator_ColumnPropNameInTable="NoSerieCertificadoSATColumn" msprop:Generator_UserColumnName="NoSerieCertificadoSAT" type="xs:string" minOccurs="0" />
+              <xs:element name="SelloSAT" msprop:Generator_ColumnVarNameInTable="columnSelloSAT" msprop:Generator_ColumnPropNameInRow="SelloSAT" msprop:Generator_ColumnPropNameInTable="SelloSATColumn" msprop:Generator_UserColumnName="SelloSAT" type="xs:string" minOccurs="0" />
+              <xs:element name="CadenaOriginalSAT" msprop:Generator_ColumnVarNameInTable="columnCadenaOriginalSAT" msprop:Generator_ColumnPropNameInRow="CadenaOriginalSAT" msprop:Generator_ColumnPropNameInTable="CadenaOriginalSATColumn" msprop:Generator_UserColumnName="CadenaOriginalSAT" type="xs:string" minOccurs="0" />
+              <xs:element name="FechaEmisionCertificado" msprop:Generator_ColumnVarNameInTable="columnFechaEmisionCertificado" msprop:Generator_ColumnPropNameInRow="FechaEmisionCertificado" msprop:Generator_ColumnPropNameInTable="FechaEmisionCertificadoColumn" msprop:Generator_UserColumnName="FechaEmisionCertificado" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,13 @@
+**************************
+Fecha Hora de la insercion del recibo: 06/07/2022 03:33:21 p. m.
+IdPredio=11497
+Periodo  =1 2020 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 06/07/2022 03:33:21 p. m.
+idtramite=103945
+Contribuyente=MENDEZ DE LOS  SANTOS HECTOR
+DatosPredio=Clave Catastral: 1200-02-261-118     Tipo predio: URBANO     Super. Terreno: 137m2.     Super. Const.: 59m2.    Base gravable: $470000
+**************************

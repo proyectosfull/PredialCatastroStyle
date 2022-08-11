@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="CalculoRezago" targetNamespace="http://tempuri.org/CalculoRezago.xsd" xmlns:mstns="http://tempuri.org/CalculoRezago.xsd" xmlns="http://tempuri.org/CalculoRezago.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="CalculoRezago" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="CalculoRezago" msprop:Generator_UserDSName="CalculoRezago">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="CalculoRezDTS" msprop:Generator_TableClassName="CalculoRezDTSDataTable" msprop:Generator_TableVarName="tableCalculoRezDTS" msprop:Generator_RowChangedName="CalculoRezDTSRowChanged" msprop:Generator_TablePropName="CalculoRezDTS" msprop:Generator_RowDeletingName="CalculoRezDTSRowDeleting" msprop:Generator_RowChangingName="CalculoRezDTSRowChanging" msprop:Generator_RowEvHandlerName="CalculoRezDTSRowChangeEventHandler" msprop:Generator_RowDeletedName="CalculoRezDTSRowDeleted" msprop:Generator_RowClassName="CalculoRezDTSRow" msprop:Generator_UserTableName="CalculoRezDTS" msprop:Generator_RowEvArgName="CalculoRezDTSRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ClavePredial" msprop:Generator_ColumnVarNameInTable="columnClavePredial" msprop:Generator_ColumnPropNameInRow="ClavePredial" msprop:Generator_ColumnPropNameInTable="ClavePredialColumn" msprop:Generator_UserColumnName="ClavePredial" type="xs:string" default="-" />
+              <xs:element name="Propietario" msprop:Generator_ColumnVarNameInTable="columnPropietario" msprop:Generator_ColumnPropNameInRow="Propietario" msprop:Generator_ColumnPropNameInTable="PropietarioColumn" msprop:Generator_UserColumnName="Propietario" type="xs:string" default="-" />
+              <xs:element name="Domicilio" msprop:Generator_ColumnVarNameInTable="columnDomicilio" msprop:Generator_ColumnPropNameInRow="Domicilio" msprop:Generator_ColumnPropNameInTable="DomicilioColumn" msprop:Generator_UserColumnName="Domicilio" type="xs:string" default="-" />
+              <xs:element name="Condominio" msprop:Generator_ColumnVarNameInTable="columnCondominio" msprop:Generator_ColumnPropNameInRow="Condominio" msprop:Generator_ColumnPropNameInTable="CondominioColumn" msprop:Generator_UserColumnName="Condominio" type="xs:string" default="-" />
+              <xs:element name="Periodo" msdata:Caption="Ult Per Pagado" msprop:Generator_ColumnVarNameInTable="columnPeriodo" msprop:Generator_ColumnPropNameInRow="Periodo" msprop:Generator_ColumnPropNameInTable="PeriodoColumn" msprop:Generator_UserColumnName="Periodo" type="xs:string" default="-" />
+              <xs:element name="SuperTerreno" msdata:Caption="Superficie Terreno" msprop:Generator_ColumnVarNameInTable="columnSuperTerreno" msprop:Generator_ColumnPropNameInRow="SuperTerreno" msprop:Generator_ColumnPropNameInTable="SuperTerrenoColumn" msprop:Generator_UserColumnName="SuperTerreno" type="xs:double" default="0" />
+              <xs:element name="SuperConstruccion" msdata:Caption="Superficie Construccion" msprop:Generator_ColumnVarNameInTable="columnSuperConstruccion" msprop:Generator_ColumnPropNameInRow="SuperConstruccion" msprop:Generator_ColumnPropNameInTable="SuperConstruccionColumn" msprop:Generator_UserColumnName="SuperConstruccion" type="xs:double" default="0" />
+              <xs:element name="ValorTerreno" msdata:Caption="Valor Terreno" msprop:Generator_ColumnVarNameInTable="columnValorTerreno" msprop:Generator_ColumnPropNameInRow="ValorTerreno" msprop:Generator_ColumnPropNameInTable="ValorTerrenoColumn" msprop:Generator_UserColumnName="ValorTerreno" type="xs:double" default="0" />
+              <xs:element name="ValorConstruccion" msdata:Caption="Valor Construccion" msprop:Generator_ColumnVarNameInTable="columnValorConstruccion" msprop:Generator_ColumnPropNameInRow="ValorConstruccion" msprop:Generator_ColumnPropNameInTable="ValorConstruccionColumn" msprop:Generator_UserColumnName="ValorConstruccion" type="xs:double" default="0" />
+              <xs:element name="ImpuestoAnt" msdata:Caption="Impuesto Anticipado" msprop:Generator_ColumnVarNameInTable="columnImpuestoAnt" msprop:Generator_ColumnPropNameInRow="ImpuestoAnt" msprop:Generator_ColumnPropNameInTable="ImpuestoAntColumn" msprop:Generator_UserColumnName="ImpuestoAnt" type="xs:double" default="0" />
+              <xs:element name="AdicionalAnt" msdata:Caption="Adicional Anticpado" msprop:Generator_ColumnVarNameInTable="columnAdicionalAnt" msprop:Generator_ColumnPropNameInRow="AdicionalAnt" msprop:Generator_ColumnPropNameInTable="AdicionalAntColumn" msprop:Generator_UserColumnName="AdicionalAnt" type="xs:double" default="0" />
+              <xs:element name="Impuesto" msprop:Generator_ColumnVarNameInTable="columnImpuesto" msprop:Generator_ColumnPropNameInRow="Impuesto" msprop:Generator_ColumnPropNameInTable="ImpuestoColumn" msprop:Generator_UserColumnName="Impuesto" type="xs:double" default="0" />
+              <xs:element name="Adicional" msprop:Generator_ColumnVarNameInTable="columnAdicional" msprop:Generator_ColumnPropNameInRow="Adicional" msprop:Generator_ColumnPropNameInTable="AdicionalColumn" msprop:Generator_UserColumnName="Adicional" type="xs:double" default="0" />
+              <xs:element name="Diferencias" msprop:Generator_ColumnVarNameInTable="columnDiferencias" msprop:Generator_ColumnPropNameInRow="Diferencias" msprop:Generator_ColumnPropNameInTable="DiferenciasColumn" msprop:Generator_UserColumnName="Diferencias" type="xs:double" default="0" />
+              <xs:element name="RecDiferencias" msdata:Caption="Recargo Diferencias" msprop:Generator_ColumnVarNameInTable="columnRecDiferencias" msprop:Generator_ColumnPropNameInRow="RecDiferencias" msprop:Generator_ColumnPropNameInTable="RecDiferenciasColumn" msprop:Generator_UserColumnName="RecDiferencias" type="xs:double" default="0" />
+              <xs:element name="Rezagos" msprop:Generator_ColumnVarNameInTable="columnRezagos" msprop:Generator_ColumnPropNameInRow="Rezagos" msprop:Generator_ColumnPropNameInTable="RezagosColumn" msprop:Generator_UserColumnName="Rezagos" type="xs:double" default="0" />
+              <xs:element name="Recargos" msprop:Generator_ColumnVarNameInTable="columnRecargos" msprop:Generator_ColumnPropNameInRow="Recargos" msprop:Generator_ColumnPropNameInTable="RecargosColumn" msprop:Generator_UserColumnName="Recargos" type="xs:double" default="0" />
+              <xs:element name="Honorarios" msprop:Generator_ColumnVarNameInTable="columnHonorarios" msprop:Generator_ColumnPropNameInRow="Honorarios" msprop:Generator_ColumnPropNameInTable="HonorariosColumn" msprop:Generator_UserColumnName="Honorarios" type="xs:double" default="0" />
+              <xs:element name="Ejecucion" msdata:Caption="Gastos Ejecución" msprop:Generator_ColumnVarNameInTable="columnEjecucion" msprop:Generator_ColumnPropNameInRow="Ejecucion" msprop:Generator_ColumnPropNameInTable="EjecucionColumn" msprop:Generator_UserColumnName="Ejecucion" type="xs:double" default="0" />
+              <xs:element name="Multas" msprop:Generator_ColumnVarNameInTable="columnMultas" msprop:Generator_ColumnPropNameInRow="Multas" msprop:Generator_ColumnPropNameInTable="MultasColumn" msprop:Generator_UserColumnName="Multas" type="xs:double" default="0" />
+              <xs:element name="Descuentos" msprop:Generator_ColumnVarNameInTable="columnDescuentos" msprop:Generator_ColumnPropNameInRow="Descuentos" msprop:Generator_ColumnPropNameInTable="DescuentosColumn" msprop:Generator_UserColumnName="Descuentos" type="xs:double" default="0" />
+              <xs:element name="Importe" msprop:Generator_ColumnVarNameInTable="columnImporte" msprop:Generator_ColumnPropNameInRow="Importe" msprop:Generator_ColumnPropNameInTable="ImporteColumn" msprop:Generator_UserColumnName="Importe" type="xs:double" default="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:CalculoRezDTS" />
+      <xs:field xpath="mstns:ClavePredial" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

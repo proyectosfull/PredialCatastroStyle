@@ -1,0 +1,33 @@
+**************************
+Fecha Hora de la insercion del recibo: 24/11/2019 09:33:42 a. m.
+IdPredio=33536
+Periodo  =1 2018 - 6 2020
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 24/11/2019 09:33:43 a. m.
+idtramite=36514
+Contribuyente=  SOLIS CORONA FRANCISCO
+DatosPredio=Clave Catastral: 5114-02-007-005     Tipo predio: URBANO     Super. Terreno: 600m2.     Super. Const.: 229.25m2.    Base gravable: $338475
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 24/11/2019 09:45:18 a. m.
+IdPredio=33536
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 24/11/2019 09:50:43 a. m.
+IdPredio=33536
+Periodo  =1 2018 - 6 2020
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 24/11/2019 09:50:43 a. m.
+idtramite=36516
+Contribuyente=  SOLIS CORONA FRANCISCO
+DatosPredio=Clave Catastral: 5114-02-007-005     Tipo predio: URBANO     Super. Terreno: 600m2.     Super. Const.: 229.25m2.    Base gravable: $338475
+**************************

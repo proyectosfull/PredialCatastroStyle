@@ -1,0 +1,52 @@
+**************************
+Fecha Hora de la insercion del recibo: 01/06/2022 04:34:03 a. m.
+IdPredio=64
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 01/06/2022 04:34:03 a. m.
+idtramite=99855
+Contribuyente=DE GARCIA DIRCIO VDA. EUFRACIA
+DatosPredio=Clave Catastral: 1200-01-022-013     Tipo predio: URBANO     Super. Terreno: 213m2.     Super. Const.: 131m2.    Base gravable: $81730
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 01/06/2022 04:53:12 a. m.
+IdPredio=64
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 01/06/2022 04:54:15 a. m.
+idtramite=99856
+Contribuyente=DE GARCIA DIRCIO VDA. EUFRACIA
+DatosPredio=Clave Catastral: 1200-01-022-013     Tipo predio: URBANO     Super. Terreno: 213m2.     Super. Const.: 131m2.    Base gravable: $81730
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 01/06/2022 11:47:21 a. m.
+IdPredio=43020
+Periodo  =1 2022 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 01/06/2022 11:47:22 a. m.
+idtramite=100533
+Contribuyente=HERNANDEZ BENITEZ ROSALINDA
+DatosPredio=Clave Catastral: 1200-04-069-005     Tipo predio: URBANO     Super. Terreno: 528m2.     Super. Const.: 318m2.    Base gravable: $1122000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 01/06/2022 12:17:18 p. m.
+IdPredio=43020
+Periodo  =1 2022 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 01/06/2022 12:17:23 p. m.
+idtramite=100535
+Contribuyente=HERNANDEZ BENITEZ ROSALINDA
+DatosPredio=Clave Catastral: 1200-04-069-005     Tipo predio: URBANO     Super. Terreno: 528m2.     Super. Const.: 318m2.    Base gravable: $1122000
+**************************

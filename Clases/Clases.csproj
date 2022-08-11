@@ -1,0 +1,700 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E9E86D19-C5F8-49E9-8B08-856074B01007}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Clases</RootNamespace>
+    <AssemblyName>Clases</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DocumentFormat.OpenXml, Version=2.7.2.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.2.7.2\lib\net40\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelNumberFormat, Version=1.0.10.0, Culture=neutral, PublicKeyToken=23c6f5d73be07eca, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelNumberFormat.1.0.10\lib\net20\ExcelNumberFormat.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.Common.v12.12.0.0.1\lib\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BL\cAgenteFiscalBL.cs" />
+    <Compile Include="BL\cBaseGravableBL.cs" />
+    <Compile Include="BL\cBaseImpuestoBL.cs" />
+    <Compile Include="BL\cBotonBL.cs" />
+    <Compile Include="BL\cCajaBL.cs" />
+    <Compile Include="BL\cUnidadMedidaBL.cs" />
+    <Compile Include="BL\cProdServBL.cs" />
+    <Compile Include="BL\cCondominioBL.cs" />
+    <Compile Include="BL\cRfcBL.cs" />
+    <Compile Include="BL\cCalleBL.cs" />
+    <Compile Include="BL\cColoniaBL.cs" />
+    <Compile Include="BL\cConceptoBL.cs" />
+    <Compile Include="BL\cConceptoOmisionPagoBL.cs" />
+    <Compile Include="BL\cContratoAguaBL.cs" />
+    <Compile Include="BL\cContribuyenteBL.cs" />
+    <Compile Include="BL\cCuotasPredioBL.cs" />
+    <Compile Include="BL\cDescuentoBL.cs" />
+    <Compile Include="BL\cDiaFestivoBL.cs" />
+    <Compile Include="BL\cDiferenciaBL.cs" />
+    <Compile Include="BL\cErrorBL.cs" />
+    <Compile Include="BL\cExentoPagoBL.cs" />
+    <Compile Include="BL\cFIEL.cs" />
+    <Compile Include="BL\cIndicePrecioBL.cs" />
+    <Compile Include="BL\cMesaBL.cs" />
+    <Compile Include="BL\cParametroCobroBL.cs" />
+    <Compile Include="BL\cParametroSistemaBL.cs" />
+    <Compile Include="BL\cPredioBL.cs" />
+    <Compile Include="BL\cPredioObservacionBL.cs" />
+    <Compile Include="BL\cRolBL.cs" />
+    <Compile Include="BL\cSalarioMinimoBL.cs" />
+    <Compile Include="BL\cStatusPredioBL.cs" />
+    <Compile Include="BL\cTarifaDapBL.cs" />
+    <Compile Include="BL\cTarifaLimpiezaBL.cs" />
+    <Compile Include="BL\cTarifaRecargoBL.cs" />
+    <Compile Include="BL\cTarifaRecoleccionBL.cs" />
+    <Compile Include="BL\cTarifaZonaBL.cs" />
+    <Compile Include="BL\cTipoAsentamientoBL.cs" />
+    <Compile Include="BL\cTipoAvaluoBL.cs" />
+    <Compile Include="BL\cTipoCobroBL.cs" />
+    <Compile Include="BL\cTipoFaseDocBL.cs" />
+    <Compile Include="BL\cTipoFaseBL.cs" />
+    <Compile Include="BL\cTipoMovAvaluoBL.cs" />
+    <Compile Include="BL\cUsoCFDIBL.cs" />
+    <Compile Include="BL\cTipoPagoBL.cs" />
+    <Compile Include="BL\cTipoPredioBL.cs" />
+    <Compile Include="BL\cTipoTramiteBL.cs" />
+    <Compile Include="BL\cTipoVialidadBL.cs" />
+    <Compile Include="BL\cUsoSueloBL.cs" />
+    <Compile Include="BL\cUsuariosBL.cs" />
+    <Compile Include="BL\cValuadorBL.cs" />
+    <Compile Include="BL\cVentanaBL.cs" />
+    <Compile Include="BL\mRolBotBL.cs" />
+    <Compile Include="BL\mUsuBotBL.cs" />
+    <Compile Include="BL\mUsuRolBL.cs" />
+    <Compile Include="BL\pProcedimientos.cs" />
+    <Compile Include="BL\tBitacoraBL.cs" />
+    <Compile Include="BL\tConfiguracionMesaBL.cs" />
+    <Compile Include="BL\tConvenioBL.cs" />
+    <Compile Include="BL\tConvenioEdoCtaBL.cs" />
+    <Compile Include="BL\tCorteCajaBL.cs" />
+    <Compile Include="BL\tCorteCajaDenominacionBL.cs" />
+    <Compile Include="BL\tCorteCajaDetalleBL.cs" />
+    <Compile Include="BL\tDescuentoAsignadoBL.cs" />
+    <Compile Include="BL\tInternetBL.cs" />
+    <Compile Include="BL\tInternetDetalleBL.cs" />
+    <Compile Include="BL\tPrediosDescuentoBL.cs" />
+    <Compile Include="BL\tPrepolizaBL.cs" />
+    <Compile Include="BL\tPrepolizaDetalleBL.cs" />
+    <Compile Include="BL\tPrepolizaReciboBL.cs" />
+    <Compile Include="BL\tReciboBL.cs" />
+    <Compile Include="BL\tReciboDetalleBL.cs" />
+    <Compile Include="BL\tReciboMetodPagoBL.cs" />
+    <Compile Include="BL\tRequerimientoBL.cs" />
+    <Compile Include="BL\tTramiteBL.cs" />
+    <Compile Include="BL\tTramiteDetalleBL.cs" />
+    <Compile Include="BL\vTramiteBL.cs" />
+    <Compile Include="BL\vBuscarPredioContDomBL.cs" />
+    <Compile Include="BL\vVistasBL.cs" />
+    <Compile Include="cAgenteFiscal.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cBaseGravable.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cBaseGravableH.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cBaseGravableMigracion.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cBaseImpuesto.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cBoton.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cCaja.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cCalle.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cColonia.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cConcepto.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cConceptoOmisionPago.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cCondominio.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cContratoAgua.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cContribuyente.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cControlSistema.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cCuotasPredio.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cDescuento.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cDiaFestivo.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cDiferencia.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cError.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cExentoPago.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cFIEL.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cIndicePrecio.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="cMesa.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cParametroCobro.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cParametroSistema.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cPredio.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cPredioH.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cPredioObservacion.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cProdServ.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cRFC.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cRol.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cSalarioMinimo.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cStatusPredio.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cTarifaDap.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cTarifaLimpieza.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cTarifaRecargo.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cTarifaRecoleccion.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cTarifaZona.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cTipoAsentamiento.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cTipoAvaluo.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cTipoCobro.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cTipoContribuyente.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cTipoFase.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cTipoFaseDoc.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cTipoInmueble.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cTipoMovAvaluo.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cTipoPago.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cTipoPredio.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cTipoTramite.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cTipoVialidad.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cUnidadMedida.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cUsoCFDI.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cUsoSuelo.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cUsuarios.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cValuador.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="cVentana.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="fnSplitString_Result.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ContratoAgua.cs" />
+    <Compile Include="Models\PredioObservacion.cs" />
+    <Compile Include="mRolBot.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="mUsuBot.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="mUsuRol.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="pAnualPredialP1_Result.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="pAnualPredialP2_Result.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="pAnualPredialP3_Result.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="pAnualPredialP4_Result.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="pAnualPredialP5_Result.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Predial.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Predial.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Predial.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Predial.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Predial.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="pReporteIngresosConDescuento_Result.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="pReporteIngresosConsulta_Result.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="pReporteIngresosPorConceptoAgrupado_Result.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="pReporteIngresosPorConcepto_Result.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="pReporteIngresosPrepolizaConsulta_Result.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="pReporteIngresosTabular_Result.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="pReporteIngresosXcajero_Result.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="pReporteIngresos_Result.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="pVentanasPrimerNivel_Result.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Reemplazar\FlatConstants.cs" />
+    <Compile Include="Reemplazar\FlatDocument.cs" />
+    <Compile Include="Reemplazar\FlatText.cs" />
+    <Compile Include="Reemplazar\FlatTextRange.cs" />
+    <Compile Include="Reemplazar\XDocumentCollection.cs" />
+    <Compile Include="spCalculaImpuestoHactual_Result.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="spCalculaImpuestoH_Result.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="sp_helpdiagramdefinition_Result.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="sp_helpdiagrams_Result.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="sysdiagrams.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tBitacora.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tCajeroCaja.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tConfiguracionMesa.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tConvenio.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tConvenioEdoCta.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tCoPropietario.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tCorteCaja.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tCorteCajaDenominacion.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tCorteCajaDetalle.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tDescuentoAsignado.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tFacturaCancelacion.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tInternet.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tInternetDetalle.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tPredioLocalizacion.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tPrediosDescuento.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tPredioVerificacion.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tPrepoliza.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tPrepolizaDetalle.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tPrepolizaRecibo.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tRecibo.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tReciboDetalle.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tReciboFactura.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tReciboFacturaCancelada.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tReciboMetodoPago.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tRequerimiento.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tTemp.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tTramite.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tTramiteDetalle.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Utilerias\conceptoAux.cs" />
+    <Compile Include="Utilerias\ConceptoGral.cs" />
+    <Compile Include="Utilerias\ConceptosRec.cs" />
+    <Compile Include="Utilerias\DescriptionAttribute.cs" />
+    <Compile Include="Utilerias\Descuento.cs" />
+    <Compile Include="Utilerias\Diferencias.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Utilerias\Impuesto.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Utilerias\ImpuestoBimestral.cs" />
+    <Compile Include="Utilerias\ImpuestoEdo.cs" />
+    <Compile Include="Utilerias\ListaBase.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Utilerias\MensajesInterfaz.cs" />
+    <Compile Include="Utilerias\Periodo.cs" />
+    <Compile Include="Utilerias\PreparaRecibo.cs" />
+    <Compile Include="Utilerias\SaldosRezago.cs" />
+    <Compile Include="Utilerias\SaldosC.cs" />
+    <Compile Include="Utilerias\Servicio.cs" />
+    <Compile Include="Utilerias\ServicioBimestral.cs" />
+    <Compile Include="Utilerias\ServicioEdo.cs" />
+    <Compile Include="Utilerias\TarifaRecargo.cs" />
+    <Compile Include="Utilerias\TramiteInternet.cs" />
+    <Compile Include="Utilerias\Utileria.cs" />
+    <Compile Include="Utilerias\ValidaPago.cs" />
+    <Compile Include="vAnioPredialAnual.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vAntecedentePredio.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vBaseGravable.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vBaseGravableCorto.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vBitacora.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vBuscarPredioContDom.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vCajeros.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vConfiguracionMesa.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vContribuyentes.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vCortes.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vPadronPredio.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vPadronPredioAnio.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vPermisoBoton.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vPredioMovimiento.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vPredios.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vPrediosCarto.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vPrediosCorto.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vPrediosRezago.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vRecibo.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vReciboDetalle.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vReciboMetodoPago.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vReciboReporteDet.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vReportesIngresos.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vRequerimientos.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vRequerimientosCompleto.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vTabularDetalleConta.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vTabularIngresos.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vTabularIngresosGral.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vTramite.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vVentanaFiltro.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vVentanasNivel2.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+    <Compile Include="vVentanasNivel2Permisos.cs">
+      <DependentUpon>Predial.tt</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.Config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="libman.json" />
+    <None Include="packages.config" />
+    <EntityDeploy Include="Predial.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Predial.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Predial.edmx.diagram">
+      <DependentUpon>Predial.edmx</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GeneraRecibo33\GeneraRecibo33.vbproj">
+      <Project>{17c7cbb8-43ad-421d-a732-a47cf3bac88a}</Project>
+      <Name>GeneraRecibo33</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GeneraRecibo\GeneraRecibo.vbproj">
+      <Project>{d1512f7d-8d03-434e-8da5-6a6bc85ddbc8}</Project>
+      <Name>GeneraRecibo</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Predial.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Predial.edmx</DependentUpon>
+      <LastGenOutput>Predial.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Predial.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Predial.edmx</DependentUpon>
+      <LastGenOutput>Predial.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

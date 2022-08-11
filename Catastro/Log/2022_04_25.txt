@@ -1,0 +1,175 @@
+**************************
+Fecha Hora de la insercion del recibo: 25/04/2022 06:12:42 p. m.
+IdPredio=35614
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/04/2022 06:12:42 p. m.
+idtramite=14
+Contribuyente=CARMONA ROJAS MATILDE
+DatosPredio=Clave Catastral: 1200-02-262-151     Tipo predio: URBANO     Super. Terreno: 74m2.     Super. Const.: 66m2.    Base gravable: $435000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/04/2022 06:29:02 p. m.
+IdPredio=35614
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/04/2022 06:29:03 p. m.
+idtramite=15
+Contribuyente=CARMONA ROJAS MATILDE
+DatosPredio=Clave Catastral: 1200-02-262-151     Tipo predio: URBANO     Super. Terreno: 74m2.     Super. Const.: 66m2.    Base gravable: $435000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/04/2022 07:08:19 p. m.
+IdPredio=35614
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/04/2022 07:08:19 p. m.
+idtramite=16
+Contribuyente=CARMONA ROJAS MATILDE
+DatosPredio=Clave Catastral: 1200-02-262-151     Tipo predio: URBANO     Super. Terreno: 74m2.     Super. Const.: 66m2.    Base gravable: $435000
+**************************
+**************************
+Fecha Hora del Error: 25/04/2022 07:57:14 p. m.
+System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en GeneraRecibo33.ReciboCFDI33.generaPDFrecibo(XDocument& xDoc, DatosRecibo datos, Recibo& valorRecibo, DateTime FechaHora, String codigo, DataTable datosFiel, String path, String& Errores, String estado) en C:\Proyecto\Sipred\Sipred\GeneraRecibo33\ReciboCFDI33.vb:línea 861
+**************************
+**************************
+Fecha Hora del Error: 25/04/2022 07:57:14 p. m.
+Errores Recuperados al generar el archivo XML: System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en GeneraRecibo33.ReciboCFDI33.generaPDFrecibo(XDocument& xDoc, DatosRecibo datos, Recibo& valorRecibo, DateTime FechaHora, String codigo, DataTable datosFiel, String path, String& Errores, String estado) en C:\Proyecto\Sipred\Sipred\GeneraRecibo33\ReciboCFDI33.vb:línea 861
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/04/2022 08:20:56 p. m.
+IdPredio=35614
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/04/2022 08:20:56 p. m.
+idtramite=17
+Contribuyente=CARMONA ROJAS MATILDE
+DatosPredio=Clave Catastral: 1200-02-262-151     Tipo predio: URBANO     Super. Terreno: 74m2.     Super. Const.: 66m2.    Base gravable: $435000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/04/2022 09:02:38 p. m.
+IdPredio=35614
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/04/2022 09:02:38 p. m.
+idtramite=18
+Contribuyente=CARMONA ROJAS MATILDE
+DatosPredio=Clave Catastral: 1200-02-262-151     Tipo predio: URBANO     Super. Terreno: 74m2.     Super. Const.: 66m2.    Base gravable: $435000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/04/2022 09:10:00 p. m.
+IdPredio=35614
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/04/2022 09:10:00 p. m.
+idtramite=19
+Contribuyente=CARMONA ROJAS MATILDE
+DatosPredio=Clave Catastral: 1200-02-262-151     Tipo predio: URBANO     Super. Terreno: 74m2.     Super. Const.: 66m2.    Base gravable: $435000
+**************************
+**************************
+Fecha Hora del Error: 25/04/2022 09:10:21 p. m.
+System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en GeneraRecibo33.ReciboCFDI33.generaPDFrecibo(XDocument& xDoc, DatosRecibo datos, Recibo& valorRecibo, DateTime FechaHora, String codigo, DataTable datosFiel, String path, String& Errores, String estado) en C:\Proyecto\Sipred\Sipred\GeneraRecibo33\ReciboCFDI33.vb:línea 861
+**************************
+**************************
+Fecha Hora del Error: 25/04/2022 09:10:21 p. m.
+Errores Recuperados al generar el archivo XML: System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en GeneraRecibo33.ReciboCFDI33.generaPDFrecibo(XDocument& xDoc, DatosRecibo datos, Recibo& valorRecibo, DateTime FechaHora, String codigo, DataTable datosFiel, String path, String& Errores, String estado) en C:\Proyecto\Sipred\Sipred\GeneraRecibo33\ReciboCFDI33.vb:línea 861
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/04/2022 10:11:03 p. m.
+IdPredio=35614
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/04/2022 10:11:03 p. m.
+idtramite=20
+Contribuyente=CARMONA ROJAS MATILDE
+DatosPredio=Clave Catastral: 1200-02-262-151     Tipo predio: URBANO     Super. Terreno: 74m2.     Super. Const.: 66m2.    Base gravable: $435000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/04/2022 10:24:25 p. m.
+IdPredio=35614
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/04/2022 10:24:25 p. m.
+idtramite=21
+Contribuyente=CARMONA ROJAS MATILDE
+DatosPredio=Clave Catastral: 1200-02-262-151     Tipo predio: URBANO     Super. Terreno: 74m2.     Super. Const.: 66m2.    Base gravable: $435000
+**************************
+**************************
+Fecha Hora del Error: 25/04/2022 10:24:52 p. m.
+System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en GeneraRecibo33.ReciboCFDI33.generaPDFrecibo(XDocument& xDoc, DatosRecibo datos, Recibo& valorRecibo, DateTime FechaHora, String codigo, DataTable datosFiel, String path, String& Errores, String estado) en C:\Proyecto\Sipred\Sipred\GeneraRecibo33\ReciboCFDI33.vb:línea 861
+**************************
+**************************
+Fecha Hora del Error: 25/04/2022 10:24:52 p. m.
+Errores Recuperados al generar el archivo XML: System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en GeneraRecibo33.ReciboCFDI33.generaPDFrecibo(XDocument& xDoc, DatosRecibo datos, Recibo& valorRecibo, DateTime FechaHora, String codigo, DataTable datosFiel, String path, String& Errores, String estado) en C:\Proyecto\Sipred\Sipred\GeneraRecibo33\ReciboCFDI33.vb:línea 861
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/04/2022 10:25:25 p. m.
+IdPredio=35614
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/04/2022 10:25:26 p. m.
+idtramite=22
+Contribuyente=CARMONA ROJAS MATILDE
+DatosPredio=Clave Catastral: 1200-02-262-151     Tipo predio: URBANO     Super. Terreno: 74m2.     Super. Const.: 66m2.    Base gravable: $435000
+**************************
+**************************
+Fecha Hora del Error: 25/04/2022 10:26:43 p. m.
+System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en GeneraRecibo33.ReciboCFDI33.generaPDFrecibo(XDocument& xDoc, DatosRecibo datos, Recibo& valorRecibo, DateTime FechaHora, String codigo, DataTable datosFiel, String path, String& Errores, String estado) en C:\Proyecto\Sipred\Sipred\GeneraRecibo33\ReciboCFDI33.vb:línea 861
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/04/2022 10:51:34 p. m.
+IdPredio=35614
+Periodo  =1 2018 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 25/04/2022 10:51:35 p. m.
+idtramite=23
+Contribuyente=CARMONA ROJAS MATILDE
+DatosPredio=Clave Catastral: 1200-02-262-151     Tipo predio: URBANO     Super. Terreno: 74m2.     Super. Const.: 66m2.    Base gravable: $435000
+**************************
+**************************
+Fecha Hora del Error: 25/04/2022 10:51:48 p. m.
+System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en GeneraRecibo33.ReciboCFDI33.generaPDFrecibo(XDocument& xDoc, DatosRecibo datos, Recibo& valorRecibo, DateTime FechaHora, String codigo, DataTable datosFiel, String path, String& Errores, String estado) en C:\Proyecto\Sipred\Sipred\GeneraRecibo33\ReciboCFDI33.vb:línea 861
+**************************
+**************************
+Fecha Hora del Error: 25/04/2022 10:51:48 p. m.
+Errores Recuperados al generar el archivo XML: System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en GeneraRecibo33.ReciboCFDI33.generaPDFrecibo(XDocument& xDoc, DatosRecibo datos, Recibo& valorRecibo, DateTime FechaHora, String codigo, DataTable datosFiel, String path, String& Errores, String estado) en C:\Proyecto\Sipred\Sipred\GeneraRecibo33\ReciboCFDI33.vb:línea 861
+**************************

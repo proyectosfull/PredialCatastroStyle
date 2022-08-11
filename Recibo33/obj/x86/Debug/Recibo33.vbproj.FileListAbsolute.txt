@@ -1,0 +1,14 @@
+C:\Proyecto\Sipred\Sipred\Recibo33\bin\x86\Debug\Recibo33.dll
+C:\Proyecto\Sipred\Sipred\Recibo33\bin\x86\Debug\Recibo33.pdb
+C:\Proyecto\Sipred\Sipred\Recibo33\bin\x86\Debug\Recibo33.xml
+C:\Proyecto\Sipred\Sipred\Recibo33\bin\x86\Debug\ChilkatDotNet45.dll
+C:\Proyecto\Sipred\Sipred\Recibo33\bin\x86\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Proyecto\Sipred\Sipred\Recibo33\bin\x86\Debug\Microsoft.ReportViewer.Common.dll
+C:\Proyecto\Sipred\Sipred\Recibo33\obj\x86\Debug\Recibo33.vbprojAssemblyReference.cache
+C:\Proyecto\Sipred\Sipred\Recibo33\obj\x86\Debug\Recibo33.Resources.resources
+C:\Proyecto\Sipred\Sipred\Recibo33\obj\x86\Debug\Recibo33.vbproj.GenerateResource.cache
+C:\Proyecto\Sipred\Sipred\Recibo33\obj\x86\Debug\Recibo33.vbproj.CoreCompileInputs.cache
+C:\Proyecto\Sipred\Sipred\Recibo33\obj\x86\Debug\Recibo33.vbproj.CopyComplete
+C:\Proyecto\Sipred\Sipred\Recibo33\obj\x86\Debug\Recibo33.dll
+C:\Proyecto\Sipred\Sipred\Recibo33\obj\x86\Debug\Recibo33.xml
+C:\Proyecto\Sipred\Sipred\Recibo33\obj\x86\Debug\Recibo33.pdb

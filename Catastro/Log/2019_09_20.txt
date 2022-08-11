@@ -1,0 +1,92 @@
+**************************
+Fecha Hora de la insercion del recibo: 20/09/2019 10:31:49 p. m.
+IdPredio=28479
+Periodo  =0 0 - 0 2019
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 20/09/2019 10:32:25 p. m.
+IdPredio=28479
+Periodo  =0 0 - 0 2019
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 20/09/2019 10:39:53 p. m.
+IdPredio=28479
+Periodo  =0 0 - 0 2019
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 20/09/2019 10:40:36 p. m.
+idtramite=23277
+Contribuyente=DE LOS REYES LUNA VIRIDIANA ALLINE
+DatosPredio=Clave Catastral: 5114-01-025-031     Tipo predio: RUSTICO     Super. Terreno: 538.75m2.     Super. Const.: 57.26m2.    Base gravable: $825405.65
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 20/09/2019 10:45:56 p. m.
+IdPredio=101
+Periodo  =1 2009 - 6 2019
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 20/09/2019 10:46:01 p. m.
+idtramite=23278
+Contribuyente=  VAZQUEZ QUINTANA GEANINE Y COND
+DatosPredio=Clave Catastral: 5100-01-003-010     Tipo predio: URBANO     Super. Terreno: 456m2.     Super. Const.: 108m2.    Base gravable: $279600
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 20/09/2019 10:49:40 p. m.
+IdPredio=113
+Periodo  =1 2019 - 6 2019
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 20/09/2019 10:49:48 p. m.
+idtramite=23279
+Contribuyente=  LOPEZ DE ULLOA YOLANDA
+DatosPredio=Clave Catastral: 5100-01-003-022     Tipo predio: URBANO     Super. Terreno: 211m2.     Super. Const.: 212.31m2.    Base gravable: $222483.04
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 20/09/2019 10:53:00 p. m.
+IdPredio=278
+Periodo  =1 2011 - 6 2019
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 20/09/2019 10:53:00 p. m.
+idtramite=23280
+Contribuyente=  ARMENTA MARTINEZ VENANCIO
+DatosPredio=Clave Catastral: 5100-01-007-109     Tipo predio: URBANO     Super. Terreno: 240m2.     Super. Const.: 0m2.    Base gravable: $150000
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 20/09/2019 10:55:33 p. m.
+IdPredio=560
+Periodo  =1 2018 - 6 2019
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 20/09/2019 10:55:33 p. m.
+idtramite=23281
+Contribuyente=  ESTRADA FLORES SOFIA  Y COND.
+DatosPredio=Clave Catastral: 5100-01-016-002     Tipo predio: URBANO     Super. Terreno: 226m2.     Super. Const.: 332.6m2.    Base gravable: $485563.75
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 20/09/2019 10:57:59 p. m.
+IdPredio=718
+Periodo  =5 2019 - 6 2019
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 20/09/2019 10:57:59 p. m.
+idtramite=23282
+Contribuyente=  AMADOR DIAZ ARMANDO Y COND
+DatosPredio=Clave Catastral: 5100-01-022-032     Tipo predio: URBANO     Super. Terreno: 434m2.     Super. Const.: 398m2.    Base gravable: $671011.25
+**************************

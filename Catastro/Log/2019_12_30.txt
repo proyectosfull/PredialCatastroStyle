@@ -1,0 +1,41 @@
+**************************
+Fecha Hora de la insercion del recibo: 30/12/2019 05:19:33 p. m.
+IdPredio=30074
+Periodo  =1 2016 - 6 2020
+IdTipoTramite=6
+tipo=SM
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 30/12/2019 05:20:44 p. m.
+idtramite=42364
+Contribuyente=  INMOBILIARIA ELEFANTE DE OAXTEPEC S A
+DatosPredio=Clave Catastral: 5114-01-086-018     Tipo predio: URBANO     Super. Terreno: 12864m2.     Super. Const.: 0m2.    Base gravable: $309160
+**************************
+**************************
+Fecha Hora del Error: 30/12/2019 05:21:49 p. m.
+System.Transactions.TransactionException: La operación no es válida para el estado de la transacción. ---> System.TimeoutException: Tiempo de espera de la transacción
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Transactions.TransactionState.EnlistPromotableSinglePhase(InternalTransaction tx, IPromotableSinglePhaseNotification promotableSinglePhaseNotification, Transaction atomicTransaction, Guid promoterType)
+   en System.Transactions.Transaction.EnlistPromotableSinglePhase(IPromotableSinglePhaseNotification promotableSinglePhaseNotification, Guid promoterType)
+   en System.Transactions.Transaction.EnlistPromotableSinglePhase(IPromotableSinglePhaseNotification promotableSinglePhaseNotification)
+   en System.Data.SqlClient.SqlInternalConnection.EnlistNonNull(Transaction tx)
+   en System.Data.SqlClient.SqlInternalConnection.Enlist(Transaction tx)
+   en System.Data.SqlClient.SqlInternalConnectionTds.Activate(Transaction transaction)
+   en System.Data.ProviderBase.DbConnectionInternal.ActivateConnection(Transaction transaction)
+   en System.Data.ProviderBase.DbConnectionPool.PrepareConnection(DbConnection owningObject, DbConnectionInternal obj, Transaction transaction)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en GeneraRecibo33.DAL.ejecuta_comandoDataTable(SqlCommand cmd) en C:\CATAX\CATAX\Catastro\GeneraRecibo33\Entidades\DAL.vb:línea 60
+**************************
+**************************
+Fecha Hora del Error: 30/12/2019 05:21:50 p. m.
+System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en GeneraRecibo33.ReciboCFDI33.generaRecibo(DatosRecibo datos, String path) en C:\CATAX\CATAX\Catastro\GeneraRecibo33\ReciboCFDI33.vb:línea 24
+
+**************************

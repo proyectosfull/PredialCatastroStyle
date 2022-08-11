@@ -1,0 +1,2433 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PredialModelStoreContainer" CdmEntityContainer="PredialEntities">
+    <EntitySetMapping Name="cAgenteFiscal">
+      <EntityTypeMapping TypeName="PredialModel.cAgenteFiscal">
+        <MappingFragment StoreEntitySet="cAgenteFiscal">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="ApellidoPaterno" ColumnName="ApellidoPaterno" />
+          <ScalarProperty Name="ApellidoMaterno" ColumnName="ApellidoMaterno" />
+          <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+          <ScalarProperty Name="Ciudad" ColumnName="Ciudad" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+          <ScalarProperty Name="Sexo" ColumnName="Sexo" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Rfc" ColumnName="Rfc" />
+          <ScalarProperty Name="Curp" ColumnName="Curp" />
+          <ScalarProperty Name="FechaIngreso" ColumnName="FechaIngreso" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cBaseGravable">
+      <EntityTypeMapping TypeName="PredialModel.cBaseGravable">
+        <MappingFragment StoreEntitySet="cBaseGravable">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdPredio" ColumnName="IdPredio" />
+          <ScalarProperty Name="Ejercicio" ColumnName="Ejercicio" />
+          <ScalarProperty Name="Bimestre" ColumnName="Bimestre" />
+          <ScalarProperty Name="Valor" ColumnName="Valor" />
+          <ScalarProperty Name="FechaAvaluo" ColumnName="FechaAvaluo" />
+          <ScalarProperty Name="SuperficieTerreno" ColumnName="SuperficieTerreno" />
+          <ScalarProperty Name="TerrenoPrivativo" ColumnName="TerrenoPrivativo" />
+          <ScalarProperty Name="TerrenoComun" ColumnName="TerrenoComun" />
+          <ScalarProperty Name="ValorTerreno" ColumnName="ValorTerreno" />
+          <ScalarProperty Name="SuperficieConstruccion" ColumnName="SuperficieConstruccion" />
+          <ScalarProperty Name="ConstruccionPrivativa" ColumnName="ConstruccionPrivativa" />
+          <ScalarProperty Name="ConstruccionComun" ColumnName="ConstruccionComun" />
+          <ScalarProperty Name="ValorConstruccion" ColumnName="ValorConstruccion" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cBaseGravableH">
+      <EntityTypeMapping TypeName="PredialModel.cBaseGravableH">
+        <MappingFragment StoreEntitySet="cBaseGravableH">
+          <ScalarProperty Name="EjercicioH" ColumnName="EjercicioH" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdPredio" ColumnName="IdPredio" />
+          <ScalarProperty Name="Ejercicio" ColumnName="Ejercicio" />
+          <ScalarProperty Name="Bimestre" ColumnName="Bimestre" />
+          <ScalarProperty Name="Valor" ColumnName="Valor" />
+          <ScalarProperty Name="FechaAvaluo" ColumnName="FechaAvaluo" />
+          <ScalarProperty Name="SuperficieTerreno" ColumnName="SuperficieTerreno" />
+          <ScalarProperty Name="TerrenoPrivativo" ColumnName="TerrenoPrivativo" />
+          <ScalarProperty Name="TerrenoComun" ColumnName="TerrenoComun" />
+          <ScalarProperty Name="ValorTerreno" ColumnName="ValorTerreno" />
+          <ScalarProperty Name="SuperficieConstruccion" ColumnName="SuperficieConstruccion" />
+          <ScalarProperty Name="ConstruccionPrivativa" ColumnName="ConstruccionPrivativa" />
+          <ScalarProperty Name="ConstruccionComun" ColumnName="ConstruccionComun" />
+          <ScalarProperty Name="ValorConstruccion" ColumnName="ValorConstruccion" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cBaseGravableMigracion">
+      <EntityTypeMapping TypeName="PredialModel.cBaseGravableMigracion">
+        <MappingFragment StoreEntitySet="cBaseGravableMigracion">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ClavePredial" ColumnName="ClavePredial" />
+          <ScalarProperty Name="Ejercicio" ColumnName="Ejercicio" />
+          <ScalarProperty Name="Bimestre" ColumnName="Bimestre" />
+          <ScalarProperty Name="Valor" ColumnName="Valor" />
+          <ScalarProperty Name="FechaAvaluo" ColumnName="FechaAvaluo" />
+          <ScalarProperty Name="SuperficieTerreno" ColumnName="SuperficieTerreno" />
+          <ScalarProperty Name="TerrenoPrivativo" ColumnName="TerrenoPrivativo" />
+          <ScalarProperty Name="TerrenoComun" ColumnName="TerrenoComun" />
+          <ScalarProperty Name="ValorTerreno" ColumnName="ValorTerreno" />
+          <ScalarProperty Name="SuperficieConstruccion" ColumnName="SuperficieConstruccion" />
+          <ScalarProperty Name="ConstruccionPrivativa" ColumnName="ConstruccionPrivativa" />
+          <ScalarProperty Name="ConstruccionComun" ColumnName="ConstruccionComun" />
+          <ScalarProperty Name="ValorConstruccion" ColumnName="ValorConstruccion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cBaseImpuesto">
+      <EntityTypeMapping TypeName="PredialModel.cBaseImpuesto">
+        <MappingFragment StoreEntitySet="cBaseImpuesto">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ejercicio" ColumnName="Ejercicio" />
+          <ScalarProperty Name="Valor" ColumnName="Valor" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cBoton">
+      <EntityTypeMapping TypeName="PredialModel.cBoton">
+        <MappingFragment StoreEntitySet="cBoton">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="AccesoTotal" ColumnName="AccesoTotal" />
+          <ScalarProperty Name="Boton" ColumnName="Boton" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Clave" ColumnName="Clave" />
+          <ScalarProperty Name="IdVentana" ColumnName="IdVentana" />
+          <ScalarProperty Name="AccesoTot" ColumnName="AccesoTot" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cCaja">
+      <EntityTypeMapping TypeName="PredialModel.cCaja">
+        <MappingFragment StoreEntitySet="cCaja">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Caja" ColumnName="Caja" />
+          <ScalarProperty Name="Ubicacion" ColumnName="Ubicacion" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cCalle">
+      <EntityTypeMapping TypeName="PredialModel.cCalle">
+        <MappingFragment StoreEntitySet="cCalle">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="NombreCalle" ColumnName="NombreCalle" />
+          <ScalarProperty Name="IdTipoVialidad" ColumnName="IdTipoVialidad" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="IdColonia" ColumnName="IdColonia" />
+          <ScalarProperty Name="IdLocalidad" ColumnName="IdLocalidad" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cColonia">
+      <EntityTypeMapping TypeName="PredialModel.cColonia">
+        <MappingFragment StoreEntitySet="cColonia">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="NombreColonia" ColumnName="NombreColonia" />
+          <ScalarProperty Name="IdTipoAsentamiento" ColumnName="IdTipoAsentamiento" />
+          <ScalarProperty Name="Cp" ColumnName="Cp" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cConcepto">
+      <EntityTypeMapping TypeName="PredialModel.cConcepto">
+        <MappingFragment StoreEntitySet="cConcepto">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdTipoTramite" ColumnName="IdTipoTramite" />
+          <ScalarProperty Name="IdMesa" ColumnName="IdMesa" />
+          <ScalarProperty Name="IdUnidadMedida" ColumnName="IdUnidadMedida" />
+          <ScalarProperty Name="IdProdServ" ColumnName="IdProdServ" />
+          <ScalarProperty Name="Ejercicio" ColumnName="Ejercicio" />
+          <ScalarProperty Name="Cri" ColumnName="Cri" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="SalarioMin" ColumnName="SalarioMin" />
+          <ScalarProperty Name="SalarioMax" ColumnName="SalarioMax" />
+          <ScalarProperty Name="Importe" ColumnName="Importe" />
+          <ScalarProperty Name="TipoCobro" ColumnName="TipoCobro" />
+          <ScalarProperty Name="Adicional" ColumnName="Adicional" />
+          <ScalarProperty Name="EsAdicional" ColumnName="EsAdicional" />
+          <ScalarProperty Name="SinDescuento" ColumnName="SinDescuento" />
+          <ScalarProperty Name="IdGrupo" ColumnName="IdGrupo" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cConceptoOmisionPago">
+      <EntityTypeMapping TypeName="PredialModel.cConceptoOmisionPago">
+        <MappingFragment StoreEntitySet="cConceptoOmisionPago">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdPredio" ColumnName="IdPredio" />
+          <ScalarProperty Name="ClaveParametro" ColumnName="ClaveParametro" />
+          <ScalarProperty Name="FechaInicio" ColumnName="FechaInicio" />
+          <ScalarProperty Name="FechaFin" ColumnName="FechaFin" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cCondominio">
+      <EntityTypeMapping TypeName="PredialModel.cCondominio">
+        <MappingFragment StoreEntitySet="cCondominio">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cContratoAgua">
+      <EntityTypeMapping TypeName="PredialModel.cContratoAgua">
+        <MappingFragment StoreEntitySet="cContratoAgua">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdPredio" ColumnName="IdPredio" />
+          <ScalarProperty Name="NoContrato" ColumnName="NoContrato" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cContribuyente">
+      <EntityTypeMapping TypeName="PredialModel.cContribuyente">
+        <MappingFragment StoreEntitySet="cContribuyente">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="ApellidoPaterno" ColumnName="ApellidoPaterno" />
+          <ScalarProperty Name="ApellidoMaterno" ColumnName="ApellidoMaterno" />
+          <ScalarProperty Name="Calle" ColumnName="Calle" />
+          <ScalarProperty Name="Numero" ColumnName="Numero" />
+          <ScalarProperty Name="Colonia" ColumnName="Colonia" />
+          <ScalarProperty Name="Localidad" ColumnName="Localidad" />
+          <ScalarProperty Name="Municipio" ColumnName="Municipio" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+          <ScalarProperty Name="CP" ColumnName="CP" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+          <ScalarProperty Name="Curp" ColumnName="Curp" />
+          <ScalarProperty Name="AdultoMayor" ColumnName="AdultoMayor" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+          <ScalarProperty Name="RazonSocial" ColumnName="RazonSocial" />
+          <ScalarProperty Name="IdPropietarioTitular" ColumnName="IdPropietarioTitular" />
+          <ScalarProperty Name="PorcCoPropietario" ColumnName="PorcCoPropietario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cControlSistema">
+      <EntityTypeMapping TypeName="PredialModel.cControlSistema">
+        <MappingFragment StoreEntitySet="cControlSistema">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Tipo" ColumnName="Tipo" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cCuotasPredio">
+      <EntityTypeMapping TypeName="PredialModel.cCuotasPredio">
+        <MappingFragment StoreEntitySet="cCuotasPredio">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ejercicio" ColumnName="Ejercicio" />
+          <ScalarProperty Name="IdTipoPredio" ColumnName="IdTipoPredio" />
+          <ScalarProperty Name="CuotasCobro" ColumnName="CuotasCobro" />
+          <ScalarProperty Name="IdTipoCobro" ColumnName="IdTipoCobro" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cDescuento">
+      <EntityTypeMapping TypeName="PredialModel.cDescuento">
+        <MappingFragment StoreEntitySet="cDescuento">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Clave" ColumnName="Clave" />
+          <ScalarProperty Name="Ejercicio" ColumnName="Ejercicio" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Autorizacion" ColumnName="Autorizacion" />
+          <ScalarProperty Name="FechaInicio" ColumnName="FechaInicio" />
+          <ScalarProperty Name="FechaFin" ColumnName="FechaFin" />
+          <ScalarProperty Name="AnticipadoImpuesto" ColumnName="AnticipadoImpuesto" />
+          <ScalarProperty Name="AnticipadoAdicional" ColumnName="AnticipadoAdicional" />
+          <ScalarProperty Name="AnticipadoLimpieza" ColumnName="AnticipadoLimpieza" />
+          <ScalarProperty Name="AnticipadoRecoleccion" ColumnName="AnticipadoRecoleccion" />
+          <ScalarProperty Name="AnticipadoDap" ColumnName="AnticipadoDap" />
+          <ScalarProperty Name="ActualImpuesto" ColumnName="ActualImpuesto" />
+          <ScalarProperty Name="ActualAdicional" ColumnName="ActualAdicional" />
+          <ScalarProperty Name="ActualRecargo" ColumnName="ActualRecargo" />
+          <ScalarProperty Name="ActualLImpieza" ColumnName="ActualLImpieza" />
+          <ScalarProperty Name="ActualRecoleccion" ColumnName="ActualRecoleccion" />
+          <ScalarProperty Name="ActualDap" ColumnName="ActualDap" />
+          <ScalarProperty Name="Diferencia" ColumnName="Diferencia" />
+          <ScalarProperty Name="DiferenciaRecargo" ColumnName="DiferenciaRecargo" />
+          <ScalarProperty Name="Rezago" ColumnName="Rezago" />
+          <ScalarProperty Name="RezagoRecargo" ColumnName="RezagoRecargo" />
+          <ScalarProperty Name="RezagoAdicional" ColumnName="RezagoAdicional" />
+          <ScalarProperty Name="Basegravable" ColumnName="Basegravable" />
+          <ScalarProperty Name="Multas" ColumnName="Multas" />
+          <ScalarProperty Name="Importe" ColumnName="Importe" />
+          <ScalarProperty Name="Ejecucion" ColumnName="Ejecucion" />
+          <ScalarProperty Name="Honorarios" ColumnName="Honorarios" />
+          <ScalarProperty Name="AnticipadoInfraestructura" ColumnName="AnticipadoInfraestructura" />
+          <ScalarProperty Name="Infraestructura" ColumnName="Infraestructura" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cDiaFestivo">
+      <EntityTypeMapping TypeName="PredialModel.cDiaFestivo">
+        <MappingFragment StoreEntitySet="cDiaFestivo">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cDiferencia">
+      <EntityTypeMapping TypeName="PredialModel.cDiferencia">
+        <MappingFragment StoreEntitySet="cDiferencia">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdPredio" ColumnName="IdPredio" />
+          <ScalarProperty Name="FechaAplicacion" ColumnName="FechaAplicacion" />
+          <ScalarProperty Name="Avaluo" ColumnName="Avaluo" />
+          <ScalarProperty Name="AvaluoBInicial" ColumnName="AvaluoBInicial" />
+          <ScalarProperty Name="AvaluoEjercicioInicial" ColumnName="AvaluoEjercicioInicial" />
+          <ScalarProperty Name="AvaluoBFinal" ColumnName="AvaluoBFinal" />
+          <ScalarProperty Name="AvaluoEjercicioFinal" ColumnName="AvaluoEjercicioFinal" />
+          <ScalarProperty Name="Construccion" ColumnName="Construccion" />
+          <ScalarProperty Name="ConstruccionBInicial" ColumnName="ConstruccionBInicial" />
+          <ScalarProperty Name="ConstruccionEjercicioInicial" ColumnName="ConstruccionEjercicioInicial" />
+          <ScalarProperty Name="ConstruccionBFinal" ColumnName="ConstruccionBFinal" />
+          <ScalarProperty Name="ConstruccionEjercicioFinal" ColumnName="ConstruccionEjercicioFinal" />
+          <ScalarProperty Name="Traslado" ColumnName="Traslado" />
+          <ScalarProperty Name="TrasladoBInicial" ColumnName="TrasladoBInicial" />
+          <ScalarProperty Name="TrasladoEjercicioInicial" ColumnName="TrasladoEjercicioInicial" />
+          <ScalarProperty Name="TrasladoBFinal" ColumnName="TrasladoBFinal" />
+          <ScalarProperty Name="TrasladoEjercicioFinal" ColumnName="TrasladoEjercicioFinal" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cError">
+      <EntityTypeMapping TypeName="PredialModel.cError">
+        <MappingFragment StoreEntitySet="cError">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="Funcion" ColumnName="Funcion" />
+          <ScalarProperty Name="Error" ColumnName="Error" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cExentoPago">
+      <EntityTypeMapping TypeName="PredialModel.cExentoPago">
+        <MappingFragment StoreEntitySet="cExentoPago">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cFIEL">
+      <EntityTypeMapping TypeName="PredialModel.cFIEL">
+        <MappingFragment StoreEntitySet="cFIEL">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="KeyFile" ColumnName="KeyFile" />
+          <ScalarProperty Name="CerFile" ColumnName="CerFile" />
+          <ScalarProperty Name="KeyPass" ColumnName="KeyPass" />
+          <ScalarProperty Name="RFC" ColumnName="RFC" />
+          <ScalarProperty Name="Calle" ColumnName="Calle" />
+          <ScalarProperty Name="Municipio" ColumnName="Municipio" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+          <ScalarProperty Name="Pais" ColumnName="Pais" />
+          <ScalarProperty Name="CodigoPostal" ColumnName="CodigoPostal" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="NoExterior" ColumnName="NoExterior" />
+          <ScalarProperty Name="NoInterior" ColumnName="NoInterior" />
+          <ScalarProperty Name="Colonia" ColumnName="Colonia" />
+          <ScalarProperty Name="Localidad" ColumnName="Localidad" />
+          <ScalarProperty Name="Referencia" ColumnName="Referencia" />
+          <ScalarProperty Name="Logo" ColumnName="Logo" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cIndicePrecio">
+      <EntityTypeMapping TypeName="PredialModel.cIndicePrecio">
+        <MappingFragment StoreEntitySet="cIndicePrecio">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ejercicio" ColumnName="Ejercicio" />
+          <ScalarProperty Name="Mes" ColumnName="Mes" />
+          <ScalarProperty Name="Valor" ColumnName="Valor" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cMesa">
+      <EntityTypeMapping TypeName="PredialModel.cMesa">
+        <MappingFragment StoreEntitySet="cMesa">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cParametroCobro">
+      <EntityTypeMapping TypeName="PredialModel.cParametroCobro">
+        <MappingFragment StoreEntitySet="cParametroCobro">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Clave" ColumnName="Clave" />
+          <ScalarProperty Name="Valor" ColumnName="Valor" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cParametroSistema">
+      <EntityTypeMapping TypeName="PredialModel.cParametroSistema">
+        <MappingFragment StoreEntitySet="cParametroSistema">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Clave" ColumnName="Clave" />
+          <ScalarProperty Name="Valor" ColumnName="Valor" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="TipoCampo" ColumnName="TipoCampo" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cPredio">
+      <EntityTypeMapping TypeName="PredialModel.cPredio">
+        <MappingFragment StoreEntitySet="cPredio">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ClavePredial" ColumnName="ClavePredial" />
+          <ScalarProperty Name="Calle" ColumnName="Calle" />
+          <ScalarProperty Name="Numero" ColumnName="Numero" />
+          <ScalarProperty Name="IdColonia" ColumnName="IdColonia" />
+          <ScalarProperty Name="CP" ColumnName="CP" />
+          <ScalarProperty Name="Localidad" ColumnName="Localidad" />
+          <ScalarProperty Name="SuperficieTerreno" ColumnName="SuperficieTerreno" />
+          <ScalarProperty Name="TerrenoPrivativo" ColumnName="TerrenoPrivativo" />
+          <ScalarProperty Name="TerrenoComun" ColumnName="TerrenoComun" />
+          <ScalarProperty Name="ValorTerreno" ColumnName="ValorTerreno" />
+          <ScalarProperty Name="SuperficieConstruccion" ColumnName="SuperficieConstruccion" />
+          <ScalarProperty Name="ConstruccionPrivativa" ColumnName="ConstruccionPrivativa" />
+          <ScalarProperty Name="ConstruccionComun" ColumnName="ConstruccionComun" />
+          <ScalarProperty Name="ValorConstruccion" ColumnName="ValorConstruccion" />
+          <ScalarProperty Name="ValorCatastral" ColumnName="ValorCatastral" />
+          <ScalarProperty Name="ValorComercial" ColumnName="ValorComercial" />
+          <ScalarProperty Name="ValorFiscal" ColumnName="ValorFiscal" />
+          <ScalarProperty Name="ValorOperacion" ColumnName="ValorOperacion" />
+          <ScalarProperty Name="FechaAlta" ColumnName="FechaAlta" />
+          <ScalarProperty Name="BaseTributacion" ColumnName="BaseTributacion" />
+          <ScalarProperty Name="FechaAvaluo" ColumnName="FechaAvaluo" />
+          <ScalarProperty Name="FechaTraslado" ColumnName="FechaTraslado" />
+          <ScalarProperty Name="Zona" ColumnName="Zona" />
+          <ScalarProperty Name="MetrosFrente" ColumnName="MetrosFrente" />
+          <ScalarProperty Name="IdUsoSuelo" ColumnName="IdUsoSuelo" />
+          <ScalarProperty Name="IdExentoPago" ColumnName="IdExentoPago" />
+          <ScalarProperty Name="IdStatusPredio" ColumnName="IdStatusPredio" />
+          <ScalarProperty Name="FechaBaja" ColumnName="FechaBaja" />
+          <ScalarProperty Name="IdTipoPredio" ColumnName="IdTipoPredio" />
+          <ScalarProperty Name="IdContribuyente" ColumnName="IdContribuyente" />
+          <ScalarProperty Name="IdTipoFaseIp" ColumnName="IdTipoFaseIp" />
+          <ScalarProperty Name="Nivel" ColumnName="Nivel" />
+          <ScalarProperty Name="UbicacionExpediente" ColumnName="UbicacionExpediente" />
+          <ScalarProperty Name="IdCartografia" ColumnName="IdCartografia" />
+          <ScalarProperty Name="BimestreFinIp" ColumnName="BimestreFinIp" />
+          <ScalarProperty Name="AaFinalIp" ColumnName="AaFinalIp" />
+          <ScalarProperty Name="ReciboIp" ColumnName="ReciboIp" />
+          <ScalarProperty Name="IdReciboIp" ColumnName="IdReciboIp" />
+          <ScalarProperty Name="FechaPagoIp" ColumnName="FechaPagoIp" />
+          <ScalarProperty Name="BimestreFinSm" ColumnName="BimestreFinSm" />
+          <ScalarProperty Name="AaFinalSm" ColumnName="AaFinalSm" />
+          <ScalarProperty Name="ReciboSm" ColumnName="ReciboSm" />
+          <ScalarProperty Name="IdReciboSm" ColumnName="IdReciboSm" />
+          <ScalarProperty Name="FechaPagoSm" ColumnName="FechaPagoSm" />
+          <ScalarProperty Name="IdTipoFaseSm" ColumnName="IdTipoFaseSm" />
+          <ScalarProperty Name="IdTipoMovAvaluo" ColumnName="IdTipoMovAvaluo" />
+          <ScalarProperty Name="IdTipoInmueble" ColumnName="IdTipoInmueble" />
+          <ScalarProperty Name="IdCondominio" ColumnName="IdCondominio" />
+          <ScalarProperty Name="IdTipoFaseDoc" ColumnName="IdTipoFaseDoc" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+          <ScalarProperty Name="ClaveAnterior" ColumnName="ClaveAnterior" />
+          <ScalarProperty Name="Referencia" ColumnName="Referencia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cPredioH">
+      <EntityTypeMapping TypeName="PredialModel.cPredioH">
+        <MappingFragment StoreEntitySet="cPredioH">
+          <ScalarProperty Name="EjercicioH" ColumnName="EjercicioH" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ClavePredial" ColumnName="ClavePredial" />
+          <ScalarProperty Name="Calle" ColumnName="Calle" />
+          <ScalarProperty Name="Numero" ColumnName="Numero" />
+          <ScalarProperty Name="Colonia" ColumnName="Colonia" />
+          <ScalarProperty Name="CP" ColumnName="CP" />
+          <ScalarProperty Name="Localidad" ColumnName="Localidad" />
+          <ScalarProperty Name="SuperficieTerreno" ColumnName="SuperficieTerreno" />
+          <ScalarProperty Name="TerrenoPrivativo" ColumnName="TerrenoPrivativo" />
+          <ScalarProperty Name="TerrenoComun" ColumnName="TerrenoComun" />
+          <ScalarProperty Name="ValorTerreno" ColumnName="ValorTerreno" />
+          <ScalarProperty Name="SuperficieConstruccion" ColumnName="SuperficieConstruccion" />
+          <ScalarProperty Name="ConstruccionPrivativa" ColumnName="ConstruccionPrivativa" />
+          <ScalarProperty Name="ConstruccionComun" ColumnName="ConstruccionComun" />
+          <ScalarProperty Name="ValorConstruccion" ColumnName="ValorConstruccion" />
+          <ScalarProperty Name="ValorCatastral" ColumnName="ValorCatastral" />
+          <ScalarProperty Name="ValorComercial" ColumnName="ValorComercial" />
+          <ScalarProperty Name="ValorFiscal" ColumnName="ValorFiscal" />
+          <ScalarProperty Name="ValorOperacion" ColumnName="ValorOperacion" />
+          <ScalarProperty Name="FechaAlta" ColumnName="FechaAlta" />
+          <ScalarProperty Name="BaseTributacion" ColumnName="BaseTributacion" />
+          <ScalarProperty Name="FechaAvaluo" ColumnName="FechaAvaluo" />
+          <ScalarProperty Name="FechaTraslado" ColumnName="FechaTraslado" />
+          <ScalarProperty Name="Zona" ColumnName="Zona" />
+          <ScalarProperty Name="MetrosFrente" ColumnName="MetrosFrente" />
+          <ScalarProperty Name="UsoSuelo" ColumnName="UsoSuelo" />
+          <ScalarProperty Name="ExentoPago" ColumnName="ExentoPago" />
+          <ScalarProperty Name="StatusPredio" ColumnName="StatusPredio" />
+          <ScalarProperty Name="FechaBaja" ColumnName="FechaBaja" />
+          <ScalarProperty Name="IdTipoPredio" ColumnName="IdTipoPredio" />
+          <ScalarProperty Name="TipoPredio" ColumnName="TipoPredio" />
+          <ScalarProperty Name="Contribuyente" ColumnName="Contribuyente" />
+          <ScalarProperty Name="TipoFaseIp" ColumnName="TipoFaseIp" />
+          <ScalarProperty Name="Nivel" ColumnName="Nivel" />
+          <ScalarProperty Name="UbicacionExpediente" ColumnName="UbicacionExpediente" />
+          <ScalarProperty Name="IdCartografia" ColumnName="IdCartografia" />
+          <ScalarProperty Name="BimestreFinIp" ColumnName="BimestreFinIp" />
+          <ScalarProperty Name="AaFinalIp" ColumnName="AaFinalIp" />
+          <ScalarProperty Name="ReciboIp" ColumnName="ReciboIp" />
+          <ScalarProperty Name="IdReciboIp" ColumnName="IdReciboIp" />
+          <ScalarProperty Name="FechaPagoIp" ColumnName="FechaPagoIp" />
+          <ScalarProperty Name="BimestreFinSm" ColumnName="BimestreFinSm" />
+          <ScalarProperty Name="AaFinalSm" ColumnName="AaFinalSm" />
+          <ScalarProperty Name="ReciboSm" ColumnName="ReciboSm" />
+          <ScalarProperty Name="IdReciboSm" ColumnName="IdReciboSm" />
+          <ScalarProperty Name="FechaPagoSm" ColumnName="FechaPagoSm" />
+          <ScalarProperty Name="TipoFaseSm" ColumnName="TipoFaseSm" />
+          <ScalarProperty Name="TipoMovAvaluo" ColumnName="TipoMovAvaluo" />
+          <ScalarProperty Name="TipoInmueble" ColumnName="TipoInmueble" />
+          <ScalarProperty Name="Condominio" ColumnName="Condominio" />
+          <ScalarProperty Name="IdTipoFaseDoc" ColumnName="IdTipoFaseDoc" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="Usuario" ColumnName="Usuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cPredioObservacion">
+      <EntityTypeMapping TypeName="PredialModel.cPredioObservacion">
+        <MappingFragment StoreEntitySet="cPredioObservacion">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdPredio" ColumnName="IdPredio" />
+          <ScalarProperty Name="Observacion" ColumnName="Observacion" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cProdServ">
+      <EntityTypeMapping TypeName="PredialModel.cProdServ">
+        <MappingFragment StoreEntitySet="cProdServ">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ClaveProdServ" ColumnName="ClaveProdServ" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cRFC">
+      <EntityTypeMapping TypeName="PredialModel.cRFC">
+        <MappingFragment StoreEntitySet="cRFC">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="RFC" ColumnName="RFC" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Calle" ColumnName="Calle" />
+          <ScalarProperty Name="Municipio" ColumnName="Municipio" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+          <ScalarProperty Name="Pais" ColumnName="Pais" />
+          <ScalarProperty Name="CodigoPostal" ColumnName="CodigoPostal" />
+          <ScalarProperty Name="NoExterior" ColumnName="NoExterior" />
+          <ScalarProperty Name="NoInterior" ColumnName="NoInterior" />
+          <ScalarProperty Name="Colonia" ColumnName="Colonia" />
+          <ScalarProperty Name="Localidad" ColumnName="Localidad" />
+          <ScalarProperty Name="Referencia" ColumnName="Referencia" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+          <ScalarProperty Name="RegimenFiscal" ColumnName="RegimenFiscal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cRol">
+      <EntityTypeMapping TypeName="PredialModel.cRol">
+        <MappingFragment StoreEntitySet="cRol">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Rol" ColumnName="Rol" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cSalarioMinimo">
+      <EntityTypeMapping TypeName="PredialModel.cSalarioMinimo">
+        <MappingFragment StoreEntitySet="cSalarioMinimo">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ejercicio" ColumnName="Ejercicio" />
+          <ScalarProperty Name="Importe" ColumnName="Importe" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cStatusPredio">
+      <EntityTypeMapping TypeName="PredialModel.cStatusPredio">
+        <MappingFragment StoreEntitySet="cStatusPredio">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cTarifaDap">
+      <EntityTypeMapping TypeName="PredialModel.cTarifaDap">
+        <MappingFragment StoreEntitySet="cTarifaDap">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ejercicio" ColumnName="Ejercicio" />
+          <ScalarProperty Name="Tarifa" ColumnName="Tarifa" />
+          <ScalarProperty Name="TipoCobro" ColumnName="TipoCobro" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cTarifaLimpieza">
+      <EntityTypeMapping TypeName="PredialModel.cTarifaLimpieza">
+        <MappingFragment StoreEntitySet="cTarifaLimpieza">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ejercicio" ColumnName="Ejercicio" />
+          <ScalarProperty Name="Tarifa" ColumnName="Tarifa" />
+          <ScalarProperty Name="TipoCobro" ColumnName="TipoCobro" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cTarifaRecargo">
+      <EntityTypeMapping TypeName="PredialModel.cTarifaRecargo">
+        <MappingFragment StoreEntitySet="cTarifaRecargo">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ejercicio" ColumnName="Ejercicio" />
+          <ScalarProperty Name="Bimestre" ColumnName="Bimestre" />
+          <ScalarProperty Name="Porcentaje" ColumnName="Porcentaje" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cTarifaRecoleccion">
+      <EntityTypeMapping TypeName="PredialModel.cTarifaRecoleccion">
+        <MappingFragment StoreEntitySet="cTarifaRecoleccion">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ejercicio" ColumnName="Ejercicio" />
+          <ScalarProperty Name="Tarifa" ColumnName="Tarifa" />
+          <ScalarProperty Name="IdTipoCobro" ColumnName="IdTipoCobro" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cTarifaZona">
+      <EntityTypeMapping TypeName="PredialModel.cTarifaZona">
+        <MappingFragment StoreEntitySet="cTarifaZona">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Zona" ColumnName="Zona" />
+          <ScalarProperty Name="Ejercicio" ColumnName="Ejercicio" />
+          <ScalarProperty Name="Tarifa" ColumnName="Tarifa" />
+          <ScalarProperty Name="IdTipoCobro" ColumnName="IdTipoCobro" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cTipoAsentamiento">
+      <EntityTypeMapping TypeName="PredialModel.cTipoAsentamiento">
+        <MappingFragment StoreEntitySet="cTipoAsentamiento">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cTipoAvaluo">
+      <EntityTypeMapping TypeName="PredialModel.cTipoAvaluo">
+        <MappingFragment StoreEntitySet="cTipoAvaluo">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cTipoCobro">
+      <EntityTypeMapping TypeName="PredialModel.cTipoCobro">
+        <MappingFragment StoreEntitySet="cTipoCobro">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cTipoFase">
+      <EntityTypeMapping TypeName="PredialModel.cTipoFase">
+        <MappingFragment StoreEntitySet="cTipoFase">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Fase" ColumnName="Fase" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="FaseSiguiente" ColumnName="FaseSiguiente" />
+          <ScalarProperty Name="PorcentajeEjecucion" ColumnName="PorcentajeEjecucion" />
+          <ScalarProperty Name="SalarioMinimoMultas" ColumnName="SalarioMinimoMultas" />
+          <ScalarProperty Name="DoctoImprimir" ColumnName="DoctoImprimir" />
+          <ScalarProperty Name="Cobranza" ColumnName="Cobranza" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cTipoFaseDoc">
+      <EntityTypeMapping TypeName="PredialModel.cTipoFaseDoc">
+        <MappingFragment StoreEntitySet="cTipoFaseDoc">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cTipoInmueble">
+      <EntityTypeMapping TypeName="PredialModel.cTipoInmueble">
+        <MappingFragment StoreEntitySet="cTipoInmueble">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cTipoMovAvaluo">
+      <EntityTypeMapping TypeName="PredialModel.cTipoMovAvaluo">
+        <MappingFragment StoreEntitySet="cTipoMovAvaluo">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cTipoPago">
+      <EntityTypeMapping TypeName="PredialModel.cTipoPago">
+        <MappingFragment StoreEntitySet="cTipoPago">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Clave" ColumnName="Clave" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cTipoPredio">
+      <EntityTypeMapping TypeName="PredialModel.cTipoPredio">
+        <MappingFragment StoreEntitySet="cTipoPredio">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cTipoTramite">
+      <EntityTypeMapping TypeName="PredialModel.cTipoTramite">
+        <MappingFragment StoreEntitySet="cTipoTramite">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Tramite" ColumnName="Tramite" />
+          <ScalarProperty Name="IdMesa" ColumnName="IdMesa" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="ConDescuento" ColumnName="ConDescuento" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cTipoVialidad">
+      <EntityTypeMapping TypeName="PredialModel.cTipoVialidad">
+        <MappingFragment StoreEntitySet="cTipoVialidad">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cUnidadMedida">
+      <EntityTypeMapping TypeName="PredialModel.cUnidadMedida">
+        <MappingFragment StoreEntitySet="cUnidadMedida">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ClaveUnidad" ColumnName="ClaveUnidad" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cUsoSuelo">
+      <EntityTypeMapping TypeName="PredialModel.cUsoSuelo">
+        <MappingFragment StoreEntitySet="cUsoSuelo">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Clave" ColumnName="Clave" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Densidad" ColumnName="Densidad" />
+          <ScalarProperty Name="LoteTipo" ColumnName="LoteTipo" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cUsuarios">
+      <EntityTypeMapping TypeName="PredialModel.cUsuarios">
+        <MappingFragment StoreEntitySet="cUsuarios">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="ApellidoPaterno" ColumnName="ApellidoPaterno" />
+          <ScalarProperty Name="ApellidoMaterno" ColumnName="ApellidoMaterno" />
+          <ScalarProperty Name="Usuario" ColumnName="Usuario" />
+          <ScalarProperty Name="Contrasenia" ColumnName="Contrasenia" />
+          <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+          <ScalarProperty Name="Area" ColumnName="Area" />
+          <ScalarProperty Name="NoEmpleado" ColumnName="NoEmpleado" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cValuador">
+      <EntityTypeMapping TypeName="PredialModel.cValuador">
+        <MappingFragment StoreEntitySet="cValuador">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="ApellidoPaterno" ColumnName="ApellidoPaterno" />
+          <ScalarProperty Name="ApellidoMaterno" ColumnName="ApellidoMaterno" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cVentana">
+      <EntityTypeMapping TypeName="PredialModel.cVentana">
+        <MappingFragment StoreEntitySet="cVentana">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ventana" ColumnName="Ventana" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Clave" ColumnName="Clave" />
+          <ScalarProperty Name="IdPapa" ColumnName="IdPapa" />
+          <ScalarProperty Name="Orden" ColumnName="Orden" />
+          <ScalarProperty Name="Url" ColumnName="Url" />
+          <ScalarProperty Name="VisibleMenu" ColumnName="VisibleMenu" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="mRolBot">
+      <EntityTypeMapping TypeName="PredialModel.mRolBot">
+        <MappingFragment StoreEntitySet="mRolBot">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdBoton" ColumnName="IdBoton" />
+          <ScalarProperty Name="IdRol" ColumnName="IdRol" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="mUsuBot">
+      <EntityTypeMapping TypeName="PredialModel.mUsuBot">
+        <MappingFragment StoreEntitySet="mUsuBot">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="IdBoton" ColumnName="IdBoton" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuarioMod" ColumnName="IdUsuarioMod" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="mUsuRol">
+      <EntityTypeMapping TypeName="PredialModel.mUsuRol">
+        <MappingFragment StoreEntitySet="mUsuRol">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="IdRol" ColumnName="IdRol" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuarioMod" ColumnName="IdUsuarioMod" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="PredialModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tBitacora">
+      <EntityTypeMapping TypeName="PredialModel.tBitacora">
+        <MappingFragment StoreEntitySet="tBitacora">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ventana" ColumnName="ventana" />
+          <ScalarProperty Name="IdPredio" ColumnName="IdPredio" />
+          <ScalarProperty Name="IdTabla" ColumnName="IdTabla" />
+          <ScalarProperty Name="NombreTabla" ColumnName="NombreTabla" />
+          <ScalarProperty Name="Movimiento" ColumnName="Movimiento" />
+          <ScalarProperty Name="MaquinaIP" ColumnName="MaquinaIP" />
+          <ScalarProperty Name="MaquinaNombre" ColumnName="MaquinaNombre" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tCajeroCaja">
+      <EntityTypeMapping TypeName="PredialModel.tCajeroCaja">
+        <MappingFragment StoreEntitySet="tCajeroCaja">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdCaja" ColumnName="IdCaja" />
+          <ScalarProperty Name="IdCajero" ColumnName="IdCajero" />
+          <ScalarProperty Name="FechaApertura" ColumnName="FechaApertura" />
+          <ScalarProperty Name="FechaCierre" ColumnName="FechaCierre" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tConfiguracionMesa">
+      <EntityTypeMapping TypeName="PredialModel.tConfiguracionMesa">
+        <MappingFragment StoreEntitySet="tConfiguracionMesa">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdMesa" ColumnName="IdMesa" />
+          <ScalarProperty Name="IdCajero" ColumnName="IdCajero" />
+          <ScalarProperty Name="IdCaja" ColumnName="IdCaja" />
+          <ScalarProperty Name="Turno" ColumnName="Turno" />
+          <ScalarProperty Name="Lugar" ColumnName="Lugar" />
+          <ScalarProperty Name="Maquina" ColumnName="Maquina" />
+          <ScalarProperty Name="FechaApertura" ColumnName="FechaApertura" />
+          <ScalarProperty Name="FechaCierre" ColumnName="FechaCierre" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario1" ColumnName="IdUsuario1" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tConvenio">
+      <EntityTypeMapping TypeName="PredialModel.tConvenio">
+        <MappingFragment StoreEntitySet="tConvenio">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdConvenioEdoCta" ColumnName="IdConvenioEdoCta" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="NoParcialidades" ColumnName="NoParcialidades" />
+          <ScalarProperty Name="PorcentajeConvenio" ColumnName="PorcentajeConvenio" />
+          <ScalarProperty Name="ImporteTotal" ColumnName="ImporteTotal" />
+          <ScalarProperty Name="FechaIni" ColumnName="FechaIni" />
+          <ScalarProperty Name="FechaFin" ColumnName="FechaFin" />
+          <ScalarProperty Name="Folio" ColumnName="Folio" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+          <ScalarProperty Name="ConDetalle" ColumnName="ConDetalle" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+          <ScalarProperty Name="Celular" ColumnName="Celular" />
+          <ScalarProperty Name="NoIdentificacion" ColumnName="NoIdentificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tConvenioEdoCta">
+      <EntityTypeMapping TypeName="PredialModel.tConvenioEdoCta">
+        <MappingFragment StoreEntitySet="tConvenioEdoCta">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdPredio" ColumnName="IdPredio" />
+          <ScalarProperty Name="TipoImpuesto" ColumnName="TipoImpuesto" />
+          <ScalarProperty Name="Folio" ColumnName="Folio" />
+          <ScalarProperty Name="FechaEmision" ColumnName="FechaEmision" />
+          <ScalarProperty Name="IdDiferencias" ColumnName="IdDiferencias" />
+          <ScalarProperty Name="IdDescuento" ColumnName="IdDescuento" />
+          <ScalarProperty Name="IdRequerimiento" ColumnName="IdRequerimiento" />
+          <ScalarProperty Name="Impuesto" ColumnName="Impuesto" />
+          <ScalarProperty Name="Adicional" ColumnName="Adicional" />
+          <ScalarProperty Name="Recargo" ColumnName="Recargo" />
+          <ScalarProperty Name="Rezago" ColumnName="Rezago" />
+          <ScalarProperty Name="Diferencia" ColumnName="Diferencia" />
+          <ScalarProperty Name="RecargoDiferencia" ColumnName="RecargoDiferencia" />
+          <ScalarProperty Name="Recoleccion" ColumnName="Recoleccion" />
+          <ScalarProperty Name="Limpieza" ColumnName="Limpieza" />
+          <ScalarProperty Name="DAP" ColumnName="DAP" />
+          <ScalarProperty Name="Ejecucion" ColumnName="Ejecucion" />
+          <ScalarProperty Name="Multa" ColumnName="Multa" />
+          <ScalarProperty Name="Importe" ColumnName="Importe" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="PeriodoIP" ColumnName="PeriodoIP" />
+          <ScalarProperty Name="PeriodoSM" ColumnName="PeriodoSM" />
+          <ScalarProperty Name="Infraestructura" ColumnName="Infraestructura" />
+          <ScalarProperty Name="AdicionalSM" ColumnName="AdicionalSM" />
+          <ScalarProperty Name="RecargoSM" ColumnName="RecargoSM" />
+          <ScalarProperty Name="RezagoSM" ColumnName="RezagoSM" />
+          <ScalarProperty Name="DescuentoSM" ColumnName="DescuentoSM" />
+          <ScalarProperty Name="DescuentoIP" ColumnName="DescuentoIP" />
+          <ScalarProperty Name="EjecucionSM" ColumnName="EjecucionSM" />
+          <ScalarProperty Name="MultaSM" ColumnName="MultaSM" />
+          <ScalarProperty Name="DescImpuesto" ColumnName="DescImpuesto" />
+          <ScalarProperty Name="DescAdicional" ColumnName="DescAdicional" />
+          <ScalarProperty Name="DescRecargo" ColumnName="DescRecargo" />
+          <ScalarProperty Name="DescRezago" ColumnName="DescRezago" />
+          <ScalarProperty Name="DescDiferencia" ColumnName="DescDiferencia" />
+          <ScalarProperty Name="DescRecargoDiferencia" ColumnName="DescRecargoDiferencia" />
+          <ScalarProperty Name="DescRecoleccion" ColumnName="DescRecoleccion" />
+          <ScalarProperty Name="DescLimpieza" ColumnName="DescLimpieza" />
+          <ScalarProperty Name="DescDAP" ColumnName="DescDAP" />
+          <ScalarProperty Name="DescEjecucion" ColumnName="DescEjecucion" />
+          <ScalarProperty Name="DescMulta" ColumnName="DescMulta" />
+          <ScalarProperty Name="DescInfraestructura" ColumnName="DescInfraestructura" />
+          <ScalarProperty Name="DescAdicionalSM" ColumnName="DescAdicionalSM" />
+          <ScalarProperty Name="DescRecargoSM" ColumnName="DescRecargoSM" />
+          <ScalarProperty Name="DescRezagoSM" ColumnName="DescRezagoSM" />
+          <ScalarProperty Name="Honorarios" ColumnName="Honorarios" />
+          <ScalarProperty Name="DescHonorarios" ColumnName="DescHonorarios" />
+          <ScalarProperty Name="HonorariosSM" ColumnName="HonorariosSM" />
+          <ScalarProperty Name="DescHonorariosSM" ColumnName="DescHonorariosSM" />
+          <ScalarProperty Name="DescEjecucionSM" ColumnName="DescEjecucionSM" />
+          <ScalarProperty Name="DescMultaSM" ColumnName="DescMultaSM" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tCorteCaja">
+      <EntityTypeMapping TypeName="PredialModel.tCorteCaja">
+        <MappingFragment StoreEntitySet="tCorteCaja">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="NoCaja" ColumnName="NoCaja" />
+          <ScalarProperty Name="IdUsuarioCajero" ColumnName="IdUsuarioCajero" />
+          <ScalarProperty Name="IdMesa" ColumnName="IdMesa" />
+          <ScalarProperty Name="Equipo" ColumnName="Equipo" />
+          <ScalarProperty Name="ImporteTotal" ColumnName="ImporteTotal" />
+          <ScalarProperty Name="RecibosCobrados" ColumnName="RecibosCobrados" />
+          <ScalarProperty Name="RecibosCancelados" ColumnName="RecibosCancelados" />
+          <ScalarProperty Name="Turno" ColumnName="Turno" />
+          <ScalarProperty Name="FechaInicial" ColumnName="FechaInicial" />
+          <ScalarProperty Name="FechaFinal" ColumnName="FechaFinal" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tCorteCajaDenominacion">
+      <EntityTypeMapping TypeName="PredialModel.tCorteCajaDenominacion">
+        <MappingFragment StoreEntitySet="tCorteCajaDenominacion">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdCorteCaja" ColumnName="IdCorteCaja" />
+          <ScalarProperty Name="Denominacion" ColumnName="Denominacion" />
+          <ScalarProperty Name="Cantidad" ColumnName="Cantidad" />
+          <ScalarProperty Name="Importe" ColumnName="Importe" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tCorteCajaDetalle">
+      <EntityTypeMapping TypeName="PredialModel.tCorteCajaDetalle">
+        <MappingFragment StoreEntitySet="tCorteCajaDetalle">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdCorteCaja" ColumnName="IdCorteCaja" />
+          <ScalarProperty Name="IdRecibo" ColumnName="IdRecibo" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tDescuentoAsignado">
+      <EntityTypeMapping TypeName="PredialModel.tDescuentoAsignado">
+        <MappingFragment StoreEntitySet="tDescuentoAsignado">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdPredio" ColumnName="IdPredio" />
+          <ScalarProperty Name="IdDescuento" ColumnName="IdDescuento" />
+          <ScalarProperty Name="Vigencia" ColumnName="Vigencia" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tFacturaCancelacion">
+      <EntityTypeMapping TypeName="PredialModel.tFacturaCancelacion">
+        <MappingFragment StoreEntitySet="tFacturaCancelacion">
+          <ScalarProperty Name="UUID" ColumnName="UUID" />
+          <ScalarProperty Name="folioRecibo" ColumnName="folioRecibo" />
+          <ScalarProperty Name="codigo" ColumnName="codigo" />
+          <ScalarProperty Name="xmlDataFactura" ColumnName="xmlDataFactura" />
+          <ScalarProperty Name="xmlDataCancelacion" ColumnName="xmlDataCancelacion" />
+          <ScalarProperty Name="fechaCancelacion" ColumnName="fechaCancelacion" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+          <ScalarProperty Name="usuarioCancela" ColumnName="usuarioCancela" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tInternet">
+      <EntityTypeMapping TypeName="PredialModel.tInternet">
+        <MappingFragment StoreEntitySet="tInternet">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdPredio" ColumnName="IdPredio" />
+          <ScalarProperty Name="IdOrden" ColumnName="IdOrden" />
+          <ScalarProperty Name="Ejercicio" ColumnName="Ejercicio" />
+          <ScalarProperty Name="Mes" ColumnName="Mes" />
+          <ScalarProperty Name="NoAutorizacion" ColumnName="NoAutorizacion" />
+          <ScalarProperty Name="FechaPago" ColumnName="FechaPago" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+          <ScalarProperty Name="ImportePagado" ColumnName="ImportePagado" />
+          <ScalarProperty Name="IdMesaIP" ColumnName="IdMesaIP" />
+          <ScalarProperty Name="IdMesaSM" ColumnName="IdMesaSM" />
+          <ScalarProperty Name="IdTipoPago" ColumnName="IdTipoPago" />
+          <ScalarProperty Name="IdDiferencia" ColumnName="IdDiferencia" />
+          <ScalarProperty Name="IdRequerimiento" ColumnName="IdRequerimiento" />
+          <ScalarProperty Name="PeriodoPagadoIP" ColumnName="PeriodoPagadoIP" />
+          <ScalarProperty Name="PeriodoPagadoSM" ColumnName="PeriodoPagadoSM" />
+          <ScalarProperty Name="IdReciboIP" ColumnName="IdReciboIP" />
+          <ScalarProperty Name="IdReciboSM" ColumnName="IdReciboSM" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tInternetDetalle">
+      <EntityTypeMapping TypeName="PredialModel.tInternetDetalle">
+        <MappingFragment StoreEntitySet="tInternetDetalle">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdInternet" ColumnName="IdInternet" />
+          <ScalarProperty Name="IdMesa" ColumnName="IdMesa" />
+          <ScalarProperty Name="IdConcepto" ColumnName="IdConcepto" />
+          <ScalarProperty Name="ImporteNeto" ColumnName="ImporteNeto" />
+          <ScalarProperty Name="ImporteDescuento" ColumnName="ImporteDescuento" />
+          <ScalarProperty Name="ImporteAdicional" ColumnName="ImporteAdicional" />
+          <ScalarProperty Name="ImporteTotal" ColumnName="ImporteTotal" />
+          <ScalarProperty Name="Cantidad" ColumnName="Cantidad" />
+          <ScalarProperty Name="DescuentoDecretoPorcentaje" ColumnName="DescuentoDecretoPorcentaje" />
+          <ScalarProperty Name="DescuentoEspecialPorcentaje" ColumnName="DescuentoEspecialPorcentaje" />
+          <ScalarProperty Name="IdConceptoRef" ColumnName="IdConceptoRef" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Unidad" ColumnName="Unidad" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tPrediosDescuento">
+      <EntityTypeMapping TypeName="PredialModel.tPrediosDescuento">
+        <MappingFragment StoreEntitySet="tPrediosDescuento">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdConcepto" ColumnName="IdConcepto" />
+          <ScalarProperty Name="IdPredio" ColumnName="IdPredio" />
+          <ScalarProperty Name="IdTramite" ColumnName="IdTramite" />
+          <ScalarProperty Name="Concepto" ColumnName="Concepto" />
+          <ScalarProperty Name="FechaInicio" ColumnName="FechaInicio" />
+          <ScalarProperty Name="FechaFin" ColumnName="FechaFin" />
+          <ScalarProperty Name="Porcentaje" ColumnName="Porcentaje" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tPredioVerificacion">
+      <EntityTypeMapping TypeName="PredialModel.tPredioVerificacion">
+        <MappingFragment StoreEntitySet="tPredioVerificacion">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdPredio" ColumnName="IdPredio" />
+          <ScalarProperty Name="SuperficieTerrenoEscritura" ColumnName="SuperficieTerrenoEscritura" />
+          <ScalarProperty Name="IdTipoLote" ColumnName="IdTipoLote" />
+          <ScalarProperty Name="IdTipoTenencia" ColumnName="IdTipoTenencia" />
+          <ScalarProperty Name="Observaciones" ColumnName="Observaciones" />
+          <ScalarProperty Name="IdMotivoAvaluo" ColumnName="IdMotivoAvaluo" />
+          <ScalarProperty Name="IdCatTipoPredio" ColumnName="IdCatTipoPredio" />
+          <ScalarProperty Name="IdUbicacionPredio" ColumnName="IdUbicacionPredio" />
+          <ScalarProperty Name="IdEtapaConstruccion" ColumnName="IdEtapaConstruccion" />
+          <ScalarProperty Name="IdCalidadConstruccion" ColumnName="IdCalidadConstruccion" />
+          <ScalarProperty Name="IdConservacion" ColumnName="IdConservacion" />
+          <ScalarProperty Name="IdTipoSueloZHV" ColumnName="IdTipoSueloZHV" />
+          <ScalarProperty Name="IdTipoResguardoLimite" ColumnName="IdTipoResguardoLimite" />
+          <ScalarProperty Name="IdTipoUsuSuelo" ColumnName="IdTipoUsuSuelo" />
+          <ScalarProperty Name="ServicioAgua" ColumnName="ServicioAgua" />
+          <ScalarProperty Name="NoContratoAgua" ColumnName="NoContratoAgua" />
+          <ScalarProperty Name="ServicioDrenaje" ColumnName="ServicioDrenaje" />
+          <ScalarProperty Name="ServicioElectrico" ColumnName="ServicioElectrico" />
+          <ScalarProperty Name="ServicioCable" ColumnName="ServicioCable" />
+          <ScalarProperty Name="ServicioAlumbrado" ColumnName="ServicioAlumbrado" />
+          <ScalarProperty Name="ServicioTelefono" ColumnName="ServicioTelefono" />
+          <ScalarProperty Name="ServicioVigilancia" ColumnName="ServicioVigilancia" />
+          <ScalarProperty Name="ServicioLimpia" ColumnName="ServicioLimpia" />
+          <ScalarProperty Name="ServicioEmpedrado" ColumnName="ServicioEmpedrado" />
+          <ScalarProperty Name="ServicioAsfalto" ColumnName="ServicioAsfalto" />
+          <ScalarProperty Name="ServicioAdocreto" ColumnName="ServicioAdocreto" />
+          <ScalarProperty Name="ServicioBanqueta" ColumnName="ServicioBanqueta" />
+          <ScalarProperty Name="ServicioGuarniciones" ColumnName="ServicioGuarniciones" />
+          <ScalarProperty Name="ServicioPermisoCons" ColumnName="ServicioPermisoCons" />
+          <ScalarProperty Name="ServicioVialidad" ColumnName="ServicioVialidad" />
+          <ScalarProperty Name="IdTipoVialidad" ColumnName="IdTipoVialidad" />
+          <ScalarProperty Name="IdViasAccesso" ColumnName="IdViasAccesso" />
+          <ScalarProperty Name="IdTopografia" ColumnName="IdTopografia" />
+          <ScalarProperty Name="IdAntiguedadConstruccion" ColumnName="IdAntiguedadConstruccion" />
+          <ScalarProperty Name="ObservacionConstruccion" ColumnName="ObservacionConstruccion" />
+          <ScalarProperty Name="IdUsuarioValuador" ColumnName="IdUsuarioValuador" />
+          <ScalarProperty Name="FirmaElaboro" ColumnName="FirmaElaboro" />
+          <ScalarProperty Name="CaracterInformante" ColumnName="CaracterInformante" />
+          <ScalarProperty Name="IdVistoBuenoUsuario" ColumnName="IdVistoBuenoUsuario" />
+          <ScalarProperty Name="FirmaVoBo" ColumnName="FirmaVoBo" />
+          <ScalarProperty Name="FechaElaboracion" ColumnName="FechaElaboracion" />
+          <ScalarProperty Name="Latitud" ColumnName="Latitud" />
+          <ScalarProperty Name="Longitud" ColumnName="Longitud" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tPrepoliza">
+      <EntityTypeMapping TypeName="PredialModel.tPrepoliza">
+        <MappingFragment StoreEntitySet="tPrepoliza">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="FechaPrePoliza" ColumnName="FechaPrePoliza" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Importe" ColumnName="Importe" />
+          <ScalarProperty Name="FechaInicio" ColumnName="FechaInicio" />
+          <ScalarProperty Name="FechaFin" ColumnName="FechaFin" />
+          <ScalarProperty Name="ImporteDescuentoTotal" ColumnName="ImporteDescuentoTotal" />
+          <ScalarProperty Name="ImporteDescuentoAntTotal" ColumnName="ImporteDescuentoAntTotal" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tPrepolizaDetalle">
+      <EntityTypeMapping TypeName="PredialModel.tPrepolizaDetalle">
+        <MappingFragment StoreEntitySet="tPrepolizaDetalle">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdPrepoliza" ColumnName="IdPrepoliza" />
+          <ScalarProperty Name="IdConcepto" ColumnName="IdConcepto" />
+          <ScalarProperty Name="Orden" ColumnName="Orden" />
+          <ScalarProperty Name="Clave" ColumnName="Clave" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="Recibos" ColumnName="Recibos" />
+          <ScalarProperty Name="Importe" ColumnName="Importe" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tPrepolizaRecibo">
+      <EntityTypeMapping TypeName="PredialModel.tPrepolizaRecibo">
+        <MappingFragment StoreEntitySet="tPrepolizaRecibo">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdRecibo" ColumnName="IdRecibo" />
+          <ScalarProperty Name="IdPrepoliza" ColumnName="IdPrepoliza" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tRecibo">
+      <EntityTypeMapping TypeName="PredialModel.tRecibo">
+        <MappingFragment StoreEntitySet="tRecibo">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdCaja" ColumnName="IdCaja" />
+          <ScalarProperty Name="FechaPago" ColumnName="FechaPago" />
+          <ScalarProperty Name="EstadoRecibo" ColumnName="EstadoRecibo" />
+          <ScalarProperty Name="Contribuyente" ColumnName="Contribuyente" />
+          <ScalarProperty Name="Rfc" ColumnName="Rfc" />
+          <ScalarProperty Name="Domicilio" ColumnName="Domicilio" />
+          <ScalarProperty Name="ImportePagado" ColumnName="ImportePagado" />
+          <ScalarProperty Name="ImporteNeto" ColumnName="ImporteNeto" />
+          <ScalarProperty Name="ImporteDescuento" ColumnName="ImporteDescuento" />
+          <ScalarProperty Name="MaquinaPago" ColumnName="MaquinaPago" />
+          <ScalarProperty Name="IdUsuarioCancela" ColumnName="IdUsuarioCancela" />
+          <ScalarProperty Name="MotivoCancelacion" ColumnName="MotivoCancelacion" />
+          <ScalarProperty Name="FechaCancelacion" ColumnName="FechaCancelacion" />
+          <ScalarProperty Name="IdUsuarioCobra" ColumnName="IdUsuarioCobra" />
+          <ScalarProperty Name="IdDescuento" ColumnName="IdDescuento" />
+          <ScalarProperty Name="IdMesaCobro" ColumnName="IdMesaCobro" />
+          <ScalarProperty Name="IdTipoPago" ColumnName="IdTipoPago" />
+          <ScalarProperty Name="IdTramite" ColumnName="IdTramite" />
+          <ScalarProperty Name="NoTipoPago" ColumnName="NoTipoPago" />
+          <ScalarProperty Name="NoAutorizacion" ColumnName="NoAutorizacion" />
+          <ScalarProperty Name="IdFIEL" ColumnName="IdFIEL" />
+          <ScalarProperty Name="Serie" ColumnName="Serie" />
+          <ScalarProperty Name="Ruta" ColumnName="Ruta" />
+          <ScalarProperty Name="RutaFactura" ColumnName="RutaFactura" />
+          <ScalarProperty Name="IdMesa" ColumnName="IdMesa" />
+          <ScalarProperty Name="CodigoSeguridad" ColumnName="CodigoSeguridad" />
+          <ScalarProperty Name="RND" ColumnName="RND" />
+          <ScalarProperty Name="DatosPredio" ColumnName="DatosPredio" />
+          <ScalarProperty Name="Observaciones" ColumnName="Observaciones" />
+          <ScalarProperty Name="Facturado" ColumnName="Facturado" />
+          <ScalarProperty Name="FechaFactura" ColumnName="FechaFactura" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tReciboDetalle">
+      <EntityTypeMapping TypeName="PredialModel.tReciboDetalle">
+        <MappingFragment StoreEntitySet="tReciboDetalle">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdRecibo" ColumnName="IdRecibo" />
+          <ScalarProperty Name="IdConcepto" ColumnName="IdConcepto" />
+          <ScalarProperty Name="IdControlSistema" ColumnName="IdControlSistema" />
+          <ScalarProperty Name="ImporteNeto" ColumnName="ImporteNeto" />
+          <ScalarProperty Name="ImporteDescuento" ColumnName="ImporteDescuento" />
+          <ScalarProperty Name="ImporteAdicional" ColumnName="ImporteAdicional" />
+          <ScalarProperty Name="ImporteTotal" ColumnName="ImporteTotal" />
+          <ScalarProperty Name="Cantidad" ColumnName="Cantidad" />
+          <ScalarProperty Name="DescuentoDecretoPorcentaje" ColumnName="DescuentoDecretoPorcentaje" />
+          <ScalarProperty Name="DescuentoEspecialPorcentaje" ColumnName="DescuentoEspecialPorcentaje" />
+          <ScalarProperty Name="IdConceptoRef" ColumnName="IdConceptoRef" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tReciboMetodoPago">
+      <EntityTypeMapping TypeName="PredialModel.tReciboMetodoPago">
+        <MappingFragment StoreEntitySet="tReciboMetodoPago">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdRecibo" ColumnName="IdRecibo" />
+          <ScalarProperty Name="Banco" ColumnName="Banco" />
+          <ScalarProperty Name="NumeroCheque" ColumnName="NumeroCheque" />
+          <ScalarProperty Name="Cuenta" ColumnName="Cuenta" />
+          <ScalarProperty Name="Importe" ColumnName="Importe" />
+          <ScalarProperty Name="IdTipopago" ColumnName="IdTipopago" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tRequerimiento">
+      <EntityTypeMapping TypeName="PredialModel.tRequerimiento">
+        <MappingFragment StoreEntitySet="tRequerimiento">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdPredio" ColumnName="IdPredio" />
+          <ScalarProperty Name="Folio" ColumnName="Folio" />
+          <ScalarProperty Name="TipoImpuesto" ColumnName="TipoImpuesto" />
+          <ScalarProperty Name="FechaEmision" ColumnName="FechaEmision" />
+          <ScalarProperty Name="TipoFase" ColumnName="TipoFase" />
+          <ScalarProperty Name="FechaLimite" ColumnName="FechaLimite" />
+          <ScalarProperty Name="BimestreInicial" ColumnName="BimestreInicial" />
+          <ScalarProperty Name="EjercicioInicial" ColumnName="EjercicioInicial" />
+          <ScalarProperty Name="BimestreFinal" ColumnName="BimestreFinal" />
+          <ScalarProperty Name="EjercicioFinal" ColumnName="EjercicioFinal" />
+          <ScalarProperty Name="IdDiferencias" ColumnName="IdDiferencias" />
+          <ScalarProperty Name="Impuesto" ColumnName="Impuesto" />
+          <ScalarProperty Name="Adicional" ColumnName="Adicional" />
+          <ScalarProperty Name="Recargo" ColumnName="Recargo" />
+          <ScalarProperty Name="Rezago" ColumnName="Rezago" />
+          <ScalarProperty Name="Diferencia" ColumnName="Diferencia" />
+          <ScalarProperty Name="RecargoDiferencia" ColumnName="RecargoDiferencia" />
+          <ScalarProperty Name="Recoleccion" ColumnName="Recoleccion" />
+          <ScalarProperty Name="Limpieza" ColumnName="Limpieza" />
+          <ScalarProperty Name="Dap" ColumnName="Dap" />
+          <ScalarProperty Name="Honorarios" ColumnName="Honorarios" />
+          <ScalarProperty Name="Ejecucion" ColumnName="Ejecucion" />
+          <ScalarProperty Name="Multa" ColumnName="Multa" />
+          <ScalarProperty Name="Importe" ColumnName="Importe" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="StatusEnvio" ColumnName="StatusEnvio" />
+          <ScalarProperty Name="IdAgenteFiscal" ColumnName="IdAgenteFiscal" />
+          <ScalarProperty Name="FechaRecepcion" ColumnName="FechaRecepcion" />
+          <ScalarProperty Name="CaracterFirmante" ColumnName="CaracterFirmante" />
+          <ScalarProperty Name="Oficio" ColumnName="Oficio" />
+          <ScalarProperty Name="FechaOficio" ColumnName="FechaOficio" />
+          <ScalarProperty Name="Observaciones" ColumnName="Observaciones" />
+          <ScalarProperty Name="Recibo" ColumnName="Recibo" />
+          <ScalarProperty Name="FechaPago" ColumnName="FechaPago" />
+          <ScalarProperty Name="FechaCancelacion" ColumnName="FechaCancelacion" />
+          <ScalarProperty Name="IdTipoFaseDoc" ColumnName="IdTipoFaseDoc" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tTemp">
+      <EntityTypeMapping TypeName="PredialModel.tTemp">
+        <MappingFragment StoreEntitySet="tTemp">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="idContribuyente" ColumnName="idContribuyente" />
+          <ScalarProperty Name="pkPropietario" ColumnName="pkPropietario" />
+          <ScalarProperty Name="pkPropietarioNot" ColumnName="pkPropietarioNot" />
+          <ScalarProperty Name="idPredio" ColumnName="idPredio" />
+          <ScalarProperty Name="pkTerreno" ColumnName="pkTerreno" />
+          <ScalarProperty Name="ClaveCatastral" ColumnName="ClaveCatastral" />
+          <ScalarProperty Name="Cuenta" ColumnName="Cuenta" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tTramite">
+      <EntityTypeMapping TypeName="PredialModel.tTramite">
+        <MappingFragment StoreEntitySet="tTramite">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdPredio" ColumnName="IdPredio" />
+          <ScalarProperty Name="IdConvenio" ColumnName="IdConvenio" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="BaseGravable" ColumnName="BaseGravable" />
+          <ScalarProperty Name="BimestreInicial" ColumnName="BimestreInicial" />
+          <ScalarProperty Name="EjercicioInicial" ColumnName="EjercicioInicial" />
+          <ScalarProperty Name="BimestreFinal" ColumnName="BimestreFinal" />
+          <ScalarProperty Name="EjercicioFinal" ColumnName="EjercicioFinal" />
+          <ScalarProperty Name="Tipo" ColumnName="Tipo" />
+          <ScalarProperty Name="Adeudo" ColumnName="Adeudo" />
+          <ScalarProperty Name="Periodo" ColumnName="Periodo" />
+          <ScalarProperty Name="SuperficieTerreno" ColumnName="SuperficieTerreno" />
+          <ScalarProperty Name="TerrenoPrivativo" ColumnName="TerrenoPrivativo" />
+          <ScalarProperty Name="TerrenoComun" ColumnName="TerrenoComun" />
+          <ScalarProperty Name="SuperficieConstruccion" ColumnName="SuperficieConstruccion" />
+          <ScalarProperty Name="ConstruccionPrivativa" ColumnName="ConstruccionPrivativa" />
+          <ScalarProperty Name="ConstruccionComun" ColumnName="ConstruccionComun" />
+          <ScalarProperty Name="FechaEstimado" ColumnName="FechaEstimado" />
+          <ScalarProperty Name="NombreAdquiriente" ColumnName="NombreAdquiriente" />
+          <ScalarProperty Name="IdTipoAvaluo" ColumnName="IdTipoAvaluo" />
+          <ScalarProperty Name="FechaOperacion" ColumnName="FechaOperacion" />
+          <ScalarProperty Name="NumeroEscritura" ColumnName="NumeroEscritura" />
+          <ScalarProperty Name="ValorMasAlto" ColumnName="ValorMasAlto" />
+          <ScalarProperty Name="PorMinimos" ColumnName="PorMinimos" />
+          <ScalarProperty Name="NoSalarioMinimo" ColumnName="NoSalarioMinimo" />
+          <ScalarProperty Name="IdValuador" ColumnName="IdValuador" />
+          <ScalarProperty Name="Notaria" ColumnName="Notaria" />
+          <ScalarProperty Name="IdTipoTramite" ColumnName="IdTipoTramite" />
+          <ScalarProperty Name="Observacion" ColumnName="Observacion" />
+          <ScalarProperty Name="IdDiferencia" ColumnName="IdDiferencia" />
+          <ScalarProperty Name="IdRequerimiento" ColumnName="IdRequerimiento" />
+          <ScalarProperty Name="NoParcialidad" ColumnName="NoParcialidad" />
+          <ScalarProperty Name="Mensualidad" ColumnName="Mensualidad" />
+          <ScalarProperty Name="Interes" ColumnName="Interes" />
+          <ScalarProperty Name="IsabiForaneo" ColumnName="IsabiForaneo" />
+          <ScalarProperty Name="valorComercial" ColumnName="valorComercial" />
+          <ScalarProperty Name="valorOperacion" ColumnName="valorOperacion" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tTramiteDetalle">
+      <EntityTypeMapping TypeName="PredialModel.tTramiteDetalle">
+        <MappingFragment StoreEntitySet="tTramiteDetalle">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdTramite" ColumnName="IdTramite" />
+          <ScalarProperty Name="IdConcepto" ColumnName="IdConcepto" />
+          <ScalarProperty Name="Importe" ColumnName="Importe" />
+          <ScalarProperty Name="IdConceptoRef" ColumnName="IdConceptoRef" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cUsoCFDI">
+      <EntityTypeMapping TypeName="PredialModel.cUsoCFDI">
+        <MappingFragment StoreEntitySet="cUsoCFDI">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Clave" ColumnName="Clave" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="AplicaFisica" ColumnName="AplicaFisica" />
+          <ScalarProperty Name="AplicaMoral" ColumnName="AplicaMoral" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tReciboFactura">
+      <EntityTypeMapping TypeName="PredialModel.tReciboFactura">
+        <MappingFragment StoreEntitySet="tReciboFactura">
+          <ScalarProperty Name="xml" ColumnName="xml" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdPredio" ColumnName="IdPredio" />
+          <ScalarProperty Name="FolioFiscal" ColumnName="FolioFiscal" />
+          <ScalarProperty Name="CertificadoEmisor" ColumnName="CertificadoEmisor" />
+          <ScalarProperty Name="CertificadoSAT" ColumnName="CertificadoSAT" />
+          <ScalarProperty Name="FechahoraCertificado" ColumnName="FechahoraCertificado" />
+          <ScalarProperty Name="SelloCDFI" ColumnName="SelloCDFI" />
+          <ScalarProperty Name="selloSAT" ColumnName="selloSAT" />
+          <ScalarProperty Name="Cadena" ColumnName="Cadena" />
+          <ScalarProperty Name="FechaCancelar" ColumnName="FechaCancelar" />
+          <ScalarProperty Name="Fechafactura" ColumnName="Fechafactura" />
+          <ScalarProperty Name="NumCaja" ColumnName="NumCaja" />
+          <ScalarProperty Name="selloDigital" ColumnName="selloDigital" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vAnioPredialAnual">
+      <EntityTypeMapping TypeName="PredialModel.vAnioPredialAnual">
+        <MappingFragment StoreEntitySet="vAnioPredialAnual">
+          <ScalarProperty Name="EjercicioH" ColumnName="EjercicioH" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vAntecedentePredio">
+      <EntityTypeMapping TypeName="PredialModel.vAntecedentePredio">
+        <MappingFragment StoreEntitySet="vAntecedentePredio">
+          <ScalarProperty Name="ClavePredial" ColumnName="ClavePredial" />
+          <ScalarProperty Name="IdContribuyente" ColumnName="IdContribuyente" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="TipoTramite" ColumnName="TipoTramite" />
+          <ScalarProperty Name="FechaCompleta" ColumnName="FechaCompleta" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+          <ScalarProperty Name="Periodo" ColumnName="Periodo" />
+          <ScalarProperty Name="Recibo" ColumnName="Recibo" />
+          <ScalarProperty Name="FechaPagoCompleta" ColumnName="FechaPagoCompleta" />
+          <ScalarProperty Name="FechaPago" ColumnName="FechaPago" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vBaseGravable">
+      <EntityTypeMapping TypeName="PredialModel.vBaseGravable">
+        <MappingFragment StoreEntitySet="vBaseGravable">
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Ejercicio" ColumnName="Ejercicio" />
+          <ScalarProperty Name="Bimestre" ColumnName="Bimestre" />
+          <ScalarProperty Name="Valor" ColumnName="Valor" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdPredio" ColumnName="IdPredio" />
+          <ScalarProperty Name="ClavePredial" ColumnName="ClavePredial" />
+          <ScalarProperty Name="SuperficieTerreno" ColumnName="SuperficieTerreno" />
+          <ScalarProperty Name="FechaAvaluo" ColumnName="FechaAvaluo" />
+          <ScalarProperty Name="ValorTerreno" ColumnName="ValorTerreno" />
+          <ScalarProperty Name="ValorConstruccion" ColumnName="ValorConstruccion" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vBaseGravableCorto">
+      <EntityTypeMapping TypeName="PredialModel.vBaseGravableCorto">
+        <MappingFragment StoreEntitySet="vBaseGravableCorto">
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Ejercicio" ColumnName="Ejercicio" />
+          <ScalarProperty Name="Bimestre" ColumnName="Bimestre" />
+          <ScalarProperty Name="Valor" ColumnName="Valor" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ClavePredial" ColumnName="ClavePredial" />
+          <ScalarProperty Name="FechaAvaluo" ColumnName="FechaAvaluo" />
+          <ScalarProperty Name="ValorConstruccion" ColumnName="ValorConstruccion" />
+          <ScalarProperty Name="ValorTerreno" ColumnName="ValorTerreno" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vBitacora">
+      <EntityTypeMapping TypeName="PredialModel.vBitacora">
+        <MappingFragment StoreEntitySet="vBitacora">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ventana" ColumnName="ventana" />
+          <ScalarProperty Name="IdPredio" ColumnName="IdPredio" />
+          <ScalarProperty Name="ClavePredial" ColumnName="ClavePredial" />
+          <ScalarProperty Name="IdTabla" ColumnName="IdTabla" />
+          <ScalarProperty Name="NombreTabla" ColumnName="NombreTabla" />
+          <ScalarProperty Name="Tabla" ColumnName="Tabla" />
+          <ScalarProperty Name="Movimiento" ColumnName="Movimiento" />
+          <ScalarProperty Name="MaquinaIP" ColumnName="MaquinaIP" />
+          <ScalarProperty Name="MaquinaNombre" ColumnName="MaquinaNombre" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+          <ScalarProperty Name="Usuario" ColumnName="Usuario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vBuscarPredioContDom">
+      <EntityTypeMapping TypeName="PredialModel.vBuscarPredioContDom">
+        <MappingFragment StoreEntitySet="vBuscarPredioContDom">
+          <ScalarProperty Name="IdPredio" ColumnName="IdPredio" />
+          <ScalarProperty Name="ClavePredial" ColumnName="ClavePredial" />
+          <ScalarProperty Name="IdContribuyente" ColumnName="IdContribuyente" />
+          <ScalarProperty Name="NombreCompleto" ColumnName="NombreCompleto" />
+          <ScalarProperty Name="IdColonia" ColumnName="IdColonia" />
+          <ScalarProperty Name="Domicilio" ColumnName="Domicilio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vCajeros">
+      <EntityTypeMapping TypeName="PredialModel.vCajeros">
+        <MappingFragment StoreEntitySet="vCajeros">
+          <ScalarProperty Name="IdCajero" ColumnName="IdCajero" />
+          <ScalarProperty Name="Usuario" ColumnName="Usuario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vConfiguracionMesa">
+      <EntityTypeMapping TypeName="PredialModel.vConfiguracionMesa">
+        <MappingFragment StoreEntitySet="vConfiguracionMesa">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Mesa" ColumnName="Mesa" />
+          <ScalarProperty Name="Usuario" ColumnName="Usuario" />
+          <ScalarProperty Name="Caja" ColumnName="Caja" />
+          <ScalarProperty Name="Turno" ColumnName="Turno" />
+          <ScalarProperty Name="Lugar" ColumnName="Lugar" />
+          <ScalarProperty Name="Maquina" ColumnName="Maquina" />
+          <ScalarProperty Name="IdMesa" ColumnName="IdMesa" />
+          <ScalarProperty Name="IdCajero" ColumnName="IdCajero" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vContribuyentes">
+      <EntityTypeMapping TypeName="PredialModel.vContribuyentes">
+        <MappingFragment StoreEntitySet="vContribuyentes">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="NombreCompleto" ColumnName="NombreCompleto" />
+          <ScalarProperty Name="Domicilio" ColumnName="Domicilio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vCortes">
+      <EntityTypeMapping TypeName="PredialModel.vCortes">
+        <MappingFragment StoreEntitySet="vCortes">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="NoCaja" ColumnName="NoCaja" />
+          <ScalarProperty Name="IdUsuarioCajero" ColumnName="IdUsuarioCajero" />
+          <ScalarProperty Name="IdMesa" ColumnName="IdMesa" />
+          <ScalarProperty Name="Equipo" ColumnName="Equipo" />
+          <ScalarProperty Name="ImporteTotal" ColumnName="ImporteTotal" />
+          <ScalarProperty Name="RecibosCobrados" ColumnName="RecibosCobrados" />
+          <ScalarProperty Name="RecibosCancelados" ColumnName="RecibosCancelados" />
+          <ScalarProperty Name="Turno" ColumnName="Turno" />
+          <ScalarProperty Name="FechaInicial" ColumnName="FechaInicial" />
+          <ScalarProperty Name="FechaFinal" ColumnName="FechaFinal" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+          <ScalarProperty Name="Cajero" ColumnName="Cajero" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vPadronPredio">
+      <EntityTypeMapping TypeName="PredialModel.vPadronPredio">
+        <MappingFragment StoreEntitySet="vPadronPredio">
+          <ScalarProperty Name="ClavePredial" ColumnName="ClavePredial" />
+          <ScalarProperty Name="FechaAlta" ColumnName="FechaAlta" />
+          <ScalarProperty Name="Contribuyente" ColumnName="Contribuyente" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+          <ScalarProperty Name="tipoPredio" ColumnName="tipoPredio" />
+          <ScalarProperty Name="IdTipoPredio" ColumnName="IdTipoPredio" />
+          <ScalarProperty Name="IdStatusPredio" ColumnName="IdStatusPredio" />
+          <ScalarProperty Name="mes" ColumnName="mes" />
+          <ScalarProperty Name="anoAlta" ColumnName="anoAlta" />
+          <ScalarProperty Name="EstadoPredio" ColumnName="EstadoPredio" />
+          <ScalarProperty Name="ExcentoPago" ColumnName="ExcentoPago" />
+          <ScalarProperty Name="SuperficieTerreno" ColumnName="SuperficieTerreno" />
+          <ScalarProperty Name="SuperficieConstruccion" ColumnName="SuperficieConstruccion" />
+          <ScalarProperty Name="ValorConstruccion" ColumnName="ValorConstruccion" />
+          <ScalarProperty Name="ValorTerreno" ColumnName="ValorTerreno" />
+          <ScalarProperty Name="Valor" ColumnName="Valor" />
+          <ScalarProperty Name="AaFinalIp" ColumnName="AaFinalIp" />
+          <ScalarProperty Name="BimestreFinIp" ColumnName="BimestreFinIp" />
+          <ScalarProperty Name="FechaAvaluo" ColumnName="FechaAvaluo" />
+          <ScalarProperty Name="AaFinalSm" ColumnName="AaFinalSm" />
+          <ScalarProperty Name="BimestreFinSm" ColumnName="BimestreFinSm" />
+          <ScalarProperty Name="ClaveNumerica" ColumnName="ClaveNumerica" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vPadronPredioAnio">
+      <EntityTypeMapping TypeName="PredialModel.vPadronPredioAnio">
+        <MappingFragment StoreEntitySet="vPadronPredioAnio">
+          <ScalarProperty Name="tipoPredio" ColumnName="tipoPredio" />
+          <ScalarProperty Name="IdTipoPredio" ColumnName="IdTipoPredio" />
+          <ScalarProperty Name="IdStatusPredio" ColumnName="IdStatusPredio" />
+          <ScalarProperty Name="mes" ColumnName="mes" />
+          <ScalarProperty Name="anoAlta" ColumnName="anoAlta" />
+          <ScalarProperty Name="EstadoPredio" ColumnName="EstadoPredio" />
+          <ScalarProperty Name="AaFinalIp" ColumnName="AaFinalIp" />
+          <ScalarProperty Name="BimestreFinIp" ColumnName="BimestreFinIp" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vPermisoBoton">
+      <EntityTypeMapping TypeName="PredialModel.vPermisoBoton">
+        <MappingFragment StoreEntitySet="vPermisoBoton">
+          <ScalarProperty Name="ClaveBoton" ColumnName="ClaveBoton" />
+          <ScalarProperty Name="PermisoBoton" ColumnName="PermisoBoton" />
+          <ScalarProperty Name="url" ColumnName="url" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vPredioMovimiento">
+      <EntityTypeMapping TypeName="PredialModel.vPredioMovimiento">
+        <MappingFragment StoreEntitySet="vPredioMovimiento">
+          <ScalarProperty Name="Clave_Catastral" ColumnName="Clave_Catastral" />
+          <ScalarProperty Name="ClaveNumerica" ColumnName="ClaveNumerica" />
+          <ScalarProperty Name="Nombre_Propietario" ColumnName="Nombre_Propietario" />
+          <ScalarProperty Name="Domicilio_Predio" ColumnName="Domicilio_Predio" />
+          <ScalarProperty Name="Domicilio_Notificacion" ColumnName="Domicilio_Notificacion" />
+          <ScalarProperty Name="Localidad" ColumnName="Localidad" />
+          <ScalarProperty Name="Movimiento_Hecho" ColumnName="Movimiento_Hecho" />
+          <ScalarProperty Name="Superficie_Terreno" ColumnName="Superficie_Terreno" />
+          <ScalarProperty Name="Valor_Terreno" ColumnName="Valor_Terreno" />
+          <ScalarProperty Name="Superficie_Construccion" ColumnName="Superficie_Construccion" />
+          <ScalarProperty Name="Valor_Construccion" ColumnName="Valor_Construccion" />
+          <ScalarProperty Name="Fecha_Avaluo" ColumnName="Fecha_Avaluo" />
+          <ScalarProperty Name="fecha_alta" ColumnName="fecha_alta" />
+          <ScalarProperty Name="Fecha_Notificacion" ColumnName="Fecha_Notificacion" />
+          <ScalarProperty Name="Base_Gravable" ColumnName="Base_Gravable" />
+          <ScalarProperty Name="Observaciones" ColumnName="Observaciones" />
+          <ScalarProperty Name="FechaMov" ColumnName="FechaMov" />
+          <ScalarProperty Name="Recibo" ColumnName="Recibo" />
+          <ScalarProperty Name="Importe_Pagado" ColumnName="Importe_Pagado" />
+          <ScalarProperty Name="Origen" ColumnName="Origen" />
+          <ScalarProperty Name="IdPredio" ColumnName="IdPredio" />
+          <ScalarProperty Name="IdColonia" ColumnName="IdColonia" />
+          <ScalarProperty Name="IdFraccionamiento" ColumnName="IdFraccionamiento" />
+          <ScalarProperty Name="IdTipoPredio" ColumnName="IdTipoPredio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vPredios">
+      <EntityTypeMapping TypeName="PredialModel.vPredios">
+        <MappingFragment StoreEntitySet="vPredios">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ClavePredial" ColumnName="ClavePredial" />
+          <ScalarProperty Name="numero" ColumnName="numero" />
+          <ScalarProperty Name="IdColonia" ColumnName="IdColonia" />
+          <ScalarProperty Name="CP" ColumnName="CP" />
+          <ScalarProperty Name="localidad" ColumnName="localidad" />
+          <ScalarProperty Name="SuperficieTerreno" ColumnName="SuperficieTerreno" />
+          <ScalarProperty Name="TerrenoPrivativo" ColumnName="TerrenoPrivativo" />
+          <ScalarProperty Name="TerrenoComun" ColumnName="TerrenoComun" />
+          <ScalarProperty Name="ValorTerreno" ColumnName="ValorTerreno" />
+          <ScalarProperty Name="SuperficieConstruccion" ColumnName="SuperficieConstruccion" />
+          <ScalarProperty Name="ConstruccionPrivativa" ColumnName="ConstruccionPrivativa" />
+          <ScalarProperty Name="ConstruccionComun" ColumnName="ConstruccionComun" />
+          <ScalarProperty Name="ValorConstruccion" ColumnName="ValorConstruccion" />
+          <ScalarProperty Name="ValorCatastral" ColumnName="ValorCatastral" />
+          <ScalarProperty Name="ValorComercial" ColumnName="ValorComercial" />
+          <ScalarProperty Name="ValorFiscal" ColumnName="ValorFiscal" />
+          <ScalarProperty Name="ValorOperacion" ColumnName="ValorOperacion" />
+          <ScalarProperty Name="FechaAlta" ColumnName="FechaAlta" />
+          <ScalarProperty Name="BaseTributacion" ColumnName="BaseTributacion" />
+          <ScalarProperty Name="FechaAvaluo" ColumnName="FechaAvaluo" />
+          <ScalarProperty Name="FechaTraslado" ColumnName="FechaTraslado" />
+          <ScalarProperty Name="Zona" ColumnName="Zona" />
+          <ScalarProperty Name="MetrosFrente" ColumnName="MetrosFrente" />
+          <ScalarProperty Name="IdUsoSuelo" ColumnName="IdUsoSuelo" />
+          <ScalarProperty Name="IdExentoPago" ColumnName="IdExentoPago" />
+          <ScalarProperty Name="IdStatusPredio" ColumnName="IdStatusPredio" />
+          <ScalarProperty Name="FechaBaja" ColumnName="FechaBaja" />
+          <ScalarProperty Name="IdTipoPredio" ColumnName="IdTipoPredio" />
+          <ScalarProperty Name="IdContribuyente" ColumnName="IdContribuyente" />
+          <ScalarProperty Name="IdTipoFaseIp" ColumnName="IdTipoFaseIp" />
+          <ScalarProperty Name="Nivel" ColumnName="Nivel" />
+          <ScalarProperty Name="UbicacionExpediente" ColumnName="UbicacionExpediente" />
+          <ScalarProperty Name="IdCartografia" ColumnName="IdCartografia" />
+          <ScalarProperty Name="BimestreFinIp" ColumnName="BimestreFinIp" />
+          <ScalarProperty Name="AaFinalIp" ColumnName="AaFinalIp" />
+          <ScalarProperty Name="ReciboIp" ColumnName="ReciboIp" />
+          <ScalarProperty Name="IdReciboIp" ColumnName="IdReciboIp" />
+          <ScalarProperty Name="FechaPagoIp" ColumnName="FechaPagoIp" />
+          <ScalarProperty Name="BimestreFinSm" ColumnName="BimestreFinSm" />
+          <ScalarProperty Name="AaFinalSm" ColumnName="AaFinalSm" />
+          <ScalarProperty Name="ReciboSm" ColumnName="ReciboSm" />
+          <ScalarProperty Name="IdReciboSm" ColumnName="IdReciboSm" />
+          <ScalarProperty Name="FechaPagoSm" ColumnName="FechaPagoSm" />
+          <ScalarProperty Name="IdTipoFaseSm" ColumnName="IdTipoFaseSm" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+          <ScalarProperty Name="NombreCalle" ColumnName="NombreCalle" />
+          <ScalarProperty Name="NombreColonia" ColumnName="NombreColonia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vPrediosCarto">
+      <EntityTypeMapping TypeName="PredialModel.vPrediosCarto">
+        <MappingFragment StoreEntitySet="vPrediosCarto">
+          <ScalarProperty Name="ClavePredial" ColumnName="ClavePredial" />
+          <ScalarProperty Name="FechaPagoIp" ColumnName="FechaPagoIp" />
+          <ScalarProperty Name="BimPagado" ColumnName="BimPagado" />
+          <ScalarProperty Name="ValorCatastral" ColumnName="ValorCatastral" />
+          <ScalarProperty Name="ValorComercial" ColumnName="ValorComercial" />
+          <ScalarProperty Name="ValorFiscal" ColumnName="ValorFiscal" />
+          <ScalarProperty Name="ValorOperacion" ColumnName="ValorOperacion" />
+          <ScalarProperty Name="ValorTerreno" ColumnName="ValorTerreno" />
+          <ScalarProperty Name="ValorConstruccion" ColumnName="ValorConstruccion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vPrediosCorto">
+      <EntityTypeMapping TypeName="PredialModel.vPrediosCorto">
+        <MappingFragment StoreEntitySet="vPrediosCorto">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ClavePredial" ColumnName="ClavePredial" />
+          <ScalarProperty Name="numero" ColumnName="numero" />
+          <ScalarProperty Name="CP" ColumnName="CP" />
+          <ScalarProperty Name="localidad" ColumnName="localidad" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="FechaModificacion" ColumnName="FechaModificacion" />
+          <ScalarProperty Name="NombreCalle" ColumnName="NombreCalle" />
+          <ScalarProperty Name="NombreColonia" ColumnName="NombreColonia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vPrediosRezago">
+      <EntityTypeMapping TypeName="PredialModel.vPrediosRezago">
+        <MappingFragment StoreEntitySet="vPrediosRezago">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ClavePredial" ColumnName="ClavePredial" />
+          <ScalarProperty Name="ClaveNumeric" ColumnName="ClaveNumeric" />
+          <ScalarProperty Name="Domicilio" ColumnName="Domicilio" />
+          <ScalarProperty Name="IdContribuyente" ColumnName="IdContribuyente" />
+          <ScalarProperty Name="Contribuyente" ColumnName="Contribuyente" />
+          <ScalarProperty Name="Periodo" ColumnName="Periodo" />
+          <ScalarProperty Name="SuperficieTerreno" ColumnName="SuperficieTerreno" />
+          <ScalarProperty Name="ValorTerreno" ColumnName="ValorTerreno" />
+          <ScalarProperty Name="SuperficieConstruccion" ColumnName="SuperficieConstruccion" />
+          <ScalarProperty Name="ValorConstruccion" ColumnName="ValorConstruccion" />
+          <ScalarProperty Name="ValorCatastral" ColumnName="ValorCatastral" />
+          <ScalarProperty Name="BimestreFinIp" ColumnName="BimestreFinIp" />
+          <ScalarProperty Name="AaFinalIp" ColumnName="AaFinalIp" />
+          <ScalarProperty Name="IdColonia" ColumnName="IdColonia" />
+          <ScalarProperty Name="Colonia" ColumnName="Colonia" />
+          <ScalarProperty Name="IdCondominio" ColumnName="IdCondominio" />
+          <ScalarProperty Name="Condominio" ColumnName="Condominio" />
+          <ScalarProperty Name="Zona" ColumnName="Zona" />
+          <ScalarProperty Name="MetrosFrente" ColumnName="MetrosFrente" />
+          <ScalarProperty Name="IdExentoPago" ColumnName="IdExentoPago" />
+          <ScalarProperty Name="ExentoPago" ColumnName="ExentoPago" />
+          <ScalarProperty Name="IdStatusPredio" ColumnName="IdStatusPredio" />
+          <ScalarProperty Name="StatusPredio" ColumnName="StatusPredio" />
+          <ScalarProperty Name="IdTipoPredio" ColumnName="IdTipoPredio" />
+          <ScalarProperty Name="TipoPredio" ColumnName="TipoPredio" />
+          <ScalarProperty Name="IdTipoFaseIp" ColumnName="IdTipoFaseIp" />
+          <ScalarProperty Name="FaseIP" ColumnName="FaseIP" />
+          <ScalarProperty Name="FaseIPSig" ColumnName="FaseIPSig" />
+          <ScalarProperty Name="IdFaseSm" ColumnName="IdFaseSm" />
+          <ScalarProperty Name="FaseSM" ColumnName="FaseSM" />
+          <ScalarProperty Name="FaseSMSig" ColumnName="FaseSMSig" />
+          <ScalarProperty Name="BimestreFinSm" ColumnName="BimestreFinSm" />
+          <ScalarProperty Name="AaFinalSm" ColumnName="AaFinalSm" />
+          <ScalarProperty Name="PeriodoSM" ColumnName="PeriodoSM" />
+          <ScalarProperty Name="IdDiferencia" ColumnName="IdDiferencia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vRecibo">
+      <EntityTypeMapping TypeName="PredialModel.vRecibo">
+        <MappingFragment StoreEntitySet="vRecibo">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="FechaPago" ColumnName="FechaPago" />
+          <ScalarProperty Name="EstadoRecibo" ColumnName="EstadoRecibo" />
+          <ScalarProperty Name="Contribuyente" ColumnName="Contribuyente" />
+          <ScalarProperty Name="ImportePagado" ColumnName="ImportePagado" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="UsuarioCobra" ColumnName="UsuarioCobra" />
+          <ScalarProperty Name="UsuarioCancela" ColumnName="UsuarioCancela" />
+          <ScalarProperty Name="Tipo" ColumnName="Tipo" />
+          <ScalarProperty Name="NoTipoPago" ColumnName="NoTipoPago" />
+          <ScalarProperty Name="NoAutorizacion" ColumnName="NoAutorizacion" />
+          <ScalarProperty Name="IdTipoPago" ColumnName="IdTipoPago" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="IdPredio" ColumnName="IdPredio" />
+          <ScalarProperty Name="ClavePredial" ColumnName="ClavePredial" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vReciboDetalle">
+      <EntityTypeMapping TypeName="PredialModel.vReciboDetalle">
+        <MappingFragment StoreEntitySet="vReciboDetalle">
+          <ScalarProperty Name="IdRecibo" ColumnName="IdRecibo" />
+          <ScalarProperty Name="IdConcepto" ColumnName="IdConcepto" />
+          <ScalarProperty Name="Cri" ColumnName="Cri" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="ImporteNeto" ColumnName="ImporteNeto" />
+          <ScalarProperty Name="ImporteDescuento" ColumnName="ImporteDescuento" />
+          <ScalarProperty Name="ImporteTotal" ColumnName="ImporteTotal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vReciboReporteDet">
+      <EntityTypeMapping TypeName="PredialModel.vReciboReporteDet">
+        <MappingFragment StoreEntitySet="vReciboReporteDet">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ClavePredial" ColumnName="ClavePredial" />
+          <ScalarProperty Name="IdTipoTramite" ColumnName="IdTipoTramite" />
+          <ScalarProperty Name="Tramite" ColumnName="Tramite" />
+          <ScalarProperty Name="IdUsuarioCobra" ColumnName="IdUsuarioCobra" />
+          <ScalarProperty Name="Cajero" ColumnName="Cajero" />
+          <ScalarProperty Name="FechaPago" ColumnName="FechaPago" />
+          <ScalarProperty Name="EstadoRecibo" ColumnName="EstadoRecibo" />
+          <ScalarProperty Name="Facturado" ColumnName="Facturado" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="ImporteNeto" ColumnName="ImporteNeto" />
+          <ScalarProperty Name="ImporteDescuento" ColumnName="ImporteDescuento" />
+          <ScalarProperty Name="ImporteTotal" ColumnName="ImporteTotal" />
+          <ScalarProperty Name="Periodo" ColumnName="Periodo" />
+          <ScalarProperty Name="IdDetalle" ColumnName="IdDetalle" />
+          <ScalarProperty Name="FormaPago" ColumnName="FormaPago" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vReportesIngresos">
+      <EntityTypeMapping TypeName="PredialModel.vReportesIngresos">
+        <MappingFragment StoreEntitySet="vReportesIngresos">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="FechaPrePoliza" ColumnName="FechaPrePoliza" />
+          <ScalarProperty Name="Importe" ColumnName="Importe" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Elaboro" ColumnName="Elaboro" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vRequerimientos">
+      <EntityTypeMapping TypeName="PredialModel.vRequerimientos">
+        <MappingFragment StoreEntitySet="vRequerimientos">
+          <ScalarProperty Name="ClavePredial" ColumnName="ClavePredial" />
+          <ScalarProperty Name="FechaEmision" ColumnName="FechaEmision" />
+          <ScalarProperty Name="Folio" ColumnName="Folio" />
+          <ScalarProperty Name="TipoImpuesto" ColumnName="TipoImpuesto" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="BimestreInicial" ColumnName="BimestreInicial" />
+          <ScalarProperty Name="EjercicioInicial" ColumnName="EjercicioInicial" />
+          <ScalarProperty Name="BimestreFinal" ColumnName="BimestreFinal" />
+          <ScalarProperty Name="EjercicioFinal" ColumnName="EjercicioFinal" />
+          <ScalarProperty Name="Impuesto" ColumnName="Impuesto" />
+          <ScalarProperty Name="Adicional" ColumnName="Adicional" />
+          <ScalarProperty Name="Recargo" ColumnName="Recargo" />
+          <ScalarProperty Name="Rezago" ColumnName="Rezago" />
+          <ScalarProperty Name="Diferencia" ColumnName="Diferencia" />
+          <ScalarProperty Name="RecargoDiferencia" ColumnName="RecargoDiferencia" />
+          <ScalarProperty Name="Ejecucion" ColumnName="Ejecucion" />
+          <ScalarProperty Name="Multa" ColumnName="Multa" />
+          <ScalarProperty Name="Importe" ColumnName="Importe" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="ApellidoPaterno" ColumnName="ApellidoPaterno" />
+          <ScalarProperty Name="ApellidoMaterno" ColumnName="ApellidoMaterno" />
+          <ScalarProperty Name="Recibo" ColumnName="Recibo" />
+          <ScalarProperty Name="FechaPago" ColumnName="FechaPago" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="StatusEnvio" ColumnName="StatusEnvio" />
+          <ScalarProperty Name="IdCondominio" ColumnName="IdCondominio" />
+          <ScalarProperty Name="DescCondominio" ColumnName="DescCondominio" />
+          <ScalarProperty Name="IdTipoFase" ColumnName="IdTipoFase" />
+          <ScalarProperty Name="DescTipoFaceDoc" ColumnName="DescTipoFaceDoc" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vRequerimientosCompleto">
+      <EntityTypeMapping TypeName="PredialModel.vRequerimientosCompleto">
+        <MappingFragment StoreEntitySet="vRequerimientosCompleto">
+          <ScalarProperty Name="ClavePredial" ColumnName="ClavePredial" />
+          <ScalarProperty Name="ClaveNumerica" ColumnName="ClaveNumerica" />
+          <ScalarProperty Name="Contribuyente" ColumnName="Contribuyente" />
+          <ScalarProperty Name="DireccionPredio" ColumnName="DireccionPredio" />
+          <ScalarProperty Name="Asentamiento" ColumnName="Asentamiento" />
+          <ScalarProperty Name="Localidad" ColumnName="Localidad" />
+          <ScalarProperty Name="Fraccionamiento" ColumnName="Fraccionamiento" />
+          <ScalarProperty Name="TipoPredio" ColumnName="TipoPredio" />
+          <ScalarProperty Name="FechaAvaluo" ColumnName="FechaAvaluo" />
+          <ScalarProperty Name="SuperficieTerreno" ColumnName="SuperficieTerreno" />
+          <ScalarProperty Name="ValorTerreno" ColumnName="ValorTerreno" />
+          <ScalarProperty Name="SuperficieConstruccion" ColumnName="SuperficieConstruccion" />
+          <ScalarProperty Name="ValorConstruccion" ColumnName="ValorConstruccion" />
+          <ScalarProperty Name="BaseGravable" ColumnName="BaseGravable" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ExentoPago" ColumnName="ExentoPago" />
+          <ScalarProperty Name="FolioConvenio" ColumnName="FolioConvenio" />
+          <ScalarProperty Name="Fase" ColumnName="Fase" />
+          <ScalarProperty Name="FechaEmision" ColumnName="FechaEmision" />
+          <ScalarProperty Name="EstadoRequerimiento" ColumnName="EstadoRequerimiento" />
+          <ScalarProperty Name="TipoFase" ColumnName="TipoFase" />
+          <ScalarProperty Name="FechaLimite" ColumnName="FechaLimite" />
+          <ScalarProperty Name="EstadoEnvio" ColumnName="EstadoEnvio" />
+          <ScalarProperty Name="IdRequerimiento" ColumnName="IdRequerimiento" />
+          <ScalarProperty Name="Folio" ColumnName="Folio" />
+          <ScalarProperty Name="TipoImpuesto" ColumnName="TipoImpuesto" />
+          <ScalarProperty Name="Periodo" ColumnName="Periodo" />
+          <ScalarProperty Name="IdDiferencias" ColumnName="IdDiferencias" />
+          <ScalarProperty Name="Impuesto" ColumnName="Impuesto" />
+          <ScalarProperty Name="Adicional" ColumnName="Adicional" />
+          <ScalarProperty Name="Recargo" ColumnName="Recargo" />
+          <ScalarProperty Name="Rezago" ColumnName="Rezago" />
+          <ScalarProperty Name="Diferencia" ColumnName="Diferencia" />
+          <ScalarProperty Name="RecargoDiferencia" ColumnName="RecargoDiferencia" />
+          <ScalarProperty Name="Recoleccion" ColumnName="Recoleccion" />
+          <ScalarProperty Name="Limpieza" ColumnName="Limpieza" />
+          <ScalarProperty Name="Dap" ColumnName="Dap" />
+          <ScalarProperty Name="Honorarios" ColumnName="Honorarios" />
+          <ScalarProperty Name="Ejecucion" ColumnName="Ejecucion" />
+          <ScalarProperty Name="Multa" ColumnName="Multa" />
+          <ScalarProperty Name="Importe" ColumnName="Importe" />
+          <ScalarProperty Name="EstadoRecibo" ColumnName="EstadoRecibo" />
+          <ScalarProperty Name="Recibo" ColumnName="Recibo" />
+          <ScalarProperty Name="ImportePagado" ColumnName="ImportePagado" />
+          <ScalarProperty Name="FechaPago" ColumnName="FechaPago" />
+          <ScalarProperty Name="FechaCancelacion" ColumnName="FechaCancelacion" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="Documento" ColumnName="Documento" />
+          <ScalarProperty Name="IdTipoFaseDoc" ColumnName="IdTipoFaseDoc" />
+          <ScalarProperty Name="IdAgenteFiscal" ColumnName="IdAgenteFiscal" />
+          <ScalarProperty Name="FechaRecepcion" ColumnName="FechaRecepcion" />
+          <ScalarProperty Name="CaracterFirmante" ColumnName="CaracterFirmante" />
+          <ScalarProperty Name="AgenteFiscal" ColumnName="AgenteFiscal" />
+          <ScalarProperty Name="Oficio" ColumnName="Oficio" />
+          <ScalarProperty Name="FechaOficio" ColumnName="FechaOficio" />
+          <ScalarProperty Name="Observaciones" ColumnName="Observaciones" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vTabularIngresos">
+      <EntityTypeMapping TypeName="PredialModel.vTabularIngresos">
+        <MappingFragment StoreEntitySet="vTabularIngresos">
+          <ScalarProperty Name="Recibo" ColumnName="Recibo" />
+          <ScalarProperty Name="ClavePredial" ColumnName="ClavePredial" />
+          <ScalarProperty Name="ClaveNumerica" ColumnName="ClaveNumerica" />
+          <ScalarProperty Name="IdPredio" ColumnName="IdPredio" />
+          <ScalarProperty Name="Contribuyente" ColumnName="Contribuyente" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+          <ScalarProperty Name="IdColonia" ColumnName="IdColonia" />
+          <ScalarProperty Name="NombreColonia" ColumnName="NombreColonia" />
+          <ScalarProperty Name="TipoPredio" ColumnName="TipoPredio" />
+          <ScalarProperty Name="IdTipoPredio" ColumnName="IdTipoPredio" />
+          <ScalarProperty Name="FechaAlta" ColumnName="FechaAlta" />
+          <ScalarProperty Name="IdStatusPredio" ColumnName="IdStatusPredio" />
+          <ScalarProperty Name="EstatusPredio" ColumnName="EstatusPredio" />
+          <ScalarProperty Name="ExcentoPago" ColumnName="ExcentoPago" />
+          <ScalarProperty Name="FechaAvaluo" ColumnName="FechaAvaluo" />
+          <ScalarProperty Name="SuperficieTerreno" ColumnName="SuperficieTerreno" />
+          <ScalarProperty Name="SuperficieConstruccion" ColumnName="SuperficieConstruccion" />
+          <ScalarProperty Name="ValorConstruccion" ColumnName="ValorConstruccion" />
+          <ScalarProperty Name="ValorTerreno" ColumnName="ValorTerreno" />
+          <ScalarProperty Name="ValorCatastral" ColumnName="ValorCatastral" />
+          <ScalarProperty Name="IdCondominio" ColumnName="IdCondominio" />
+          <ScalarProperty Name="CondominioDescripcion" ColumnName="CondominioDescripcion" />
+          <ScalarProperty Name="UltBimPagado" ColumnName="UltBimPagado" />
+          <ScalarProperty Name="UltEjercicioPagado" ColumnName="UltEjercicioPagado" />
+          <ScalarProperty Name="UltBimPagadoSM" ColumnName="UltBimPagadoSM" />
+          <ScalarProperty Name="UltEjercicioPagadoSM" ColumnName="UltEjercicioPagadoSM" />
+          <ScalarProperty Name="EstatusRecibo" ColumnName="EstatusRecibo" />
+          <ScalarProperty Name="FechaPago" ColumnName="FechaPago" />
+          <ScalarProperty Name="FechaCancelacion" ColumnName="FechaCancelacion" />
+          <ScalarProperty Name="Periodo" ColumnName="Periodo" />
+          <ScalarProperty Name="IdMesa" ColumnName="IdMesa" />
+          <ScalarProperty Name="NombreMesa" ColumnName="NombreMesa" />
+          <ScalarProperty Name="NombreConcepto" ColumnName="NombreConcepto" />
+          <ScalarProperty Name="Cantidad" ColumnName="Cantidad" />
+          <ScalarProperty Name="ImporteNeto" ColumnName="ImporteNeto" />
+          <ScalarProperty Name="ImporteDescuento" ColumnName="ImporteDescuento" />
+          <ScalarProperty Name="ImporteTotal" ColumnName="ImporteTotal" />
+          <ScalarProperty Name="IdTipoTramite" ColumnName="IdTipoTramite" />
+          <ScalarProperty Name="TipoTramite" ColumnName="TipoTramite" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vTramite">
+      <EntityTypeMapping TypeName="PredialModel.vTramite">
+        <MappingFragment StoreEntitySet="vTramite">
+          <ScalarProperty Name="ClavePredial" ColumnName="ClavePredial" />
+          <ScalarProperty Name="NombreAdquiriente" ColumnName="NombreAdquiriente" />
+          <ScalarProperty Name="TipoAvaluo" ColumnName="TipoAvaluo" />
+          <ScalarProperty Name="NombreValuador" ColumnName="NombreValuador" />
+          <ScalarProperty Name="NumeroEscritura" ColumnName="NumeroEscritura" />
+          <ScalarProperty Name="FechaOperacion" ColumnName="FechaOperacion" />
+          <ScalarProperty Name="ValorCatastral" ColumnName="ValorCatastral" />
+          <ScalarProperty Name="ValorComercial" ColumnName="ValorComercial" />
+          <ScalarProperty Name="ValorFiscal" ColumnName="ValorFiscal" />
+          <ScalarProperty Name="ValorOperacion" ColumnName="ValorOperacion" />
+          <ScalarProperty Name="Notaria" ColumnName="Notaria" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdPredrio" ColumnName="IdPredrio" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Periodo" ColumnName="Periodo" />
+          <ScalarProperty Name="Adeudo" ColumnName="Adeudo" />
+          <ScalarProperty Name="IdTipoTramite" ColumnName="IdTipoTramite" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vVentanaFiltro">
+      <EntityTypeMapping TypeName="PredialModel.vVentanaFiltro">
+        <MappingFragment StoreEntitySet="vVentanaFiltro">
+          <ScalarProperty Name="CVEVENTANA" ColumnName="CVEVENTANA" />
+          <ScalarProperty Name="DECRIPCION" ColumnName="DECRIPCION" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vVentanasNivel2">
+      <EntityTypeMapping TypeName="PredialModel.vVentanasNivel2">
+        <MappingFragment StoreEntitySet="vVentanasNivel2">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Ventana" ColumnName="Ventana" />
+          <ScalarProperty Name="clave" ColumnName="clave" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="orden" ColumnName="orden" />
+          <ScalarProperty Name="idPapa" ColumnName="idPapa" />
+          <ScalarProperty Name="url" ColumnName="url" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vVentanasNivel2Permisos">
+      <EntityTypeMapping TypeName="PredialModel.vVentanasNivel2Permisos">
+        <MappingFragment StoreEntitySet="vVentanasNivel2Permisos">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Ventana" ColumnName="Ventana" />
+          <ScalarProperty Name="clave" ColumnName="clave" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="orden" ColumnName="orden" />
+          <ScalarProperty Name="idPapa" ColumnName="idPapa" />
+          <ScalarProperty Name="url" ColumnName="url" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionName="PredialModel.Store.fnSplitString" FunctionImportName="fnSplitString">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PredialModel.fnSplitString_Result">
+          <ScalarProperty Name="splitdata" ColumnName="splitdata" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="pActualizaMasivo" FunctionName="PredialModel.Store.pActualizaMasivo" />
+    <FunctionImportMapping FunctionImportName="pAnualPredialP1" FunctionName="PredialModel.Store.pAnualPredialP1">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PredialModel.pAnualPredialP1_Result">
+          <ScalarProperty Name="ORDEN" ColumnName="ORDEN" />
+          <ScalarProperty Name="CONCEPTO" ColumnName="CONCEPTO" />
+          <ScalarProperty Name="RECAUDACION" ColumnName="RECAUDACION" />
+          <ScalarProperty Name="DESCUENTO" ColumnName="DESCUENTO" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="pAnualPredialP2" FunctionName="PredialModel.Store.pAnualPredialP2">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PredialModel.pAnualPredialP2_Result">
+          <ScalarProperty Name="ORDEN" ColumnName="ORDEN" />
+          <ScalarProperty Name="CONCEPTO" ColumnName="CONCEPTO" />
+          <ScalarProperty Name="ImporteNeto" ColumnName="ImporteNeto" />
+          <ScalarProperty Name="ImporteDescuento" ColumnName="ImporteDescuento" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="pAnualPredialP3" FunctionName="PredialModel.Store.pAnualPredialP3">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PredialModel.pAnualPredialP3_Result">
+          <ScalarProperty Name="ORDEN" ColumnName="ORDEN" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="N_PREDIOS" ColumnName="N_PREDIOS" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="pAnualPredialP4" FunctionName="PredialModel.Store.pAnualPredialP4">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PredialModel.pAnualPredialP4_Result">
+          <ScalarProperty Name="ORDEN" ColumnName="ORDEN" />
+          <ScalarProperty Name="CONCEPTO" ColumnName="CONCEPTO" />
+          <ScalarProperty Name="RECAUDACION" ColumnName="RECAUDACION" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="pAnualPredialP5" FunctionName="PredialModel.Store.pAnualPredialP5">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PredialModel.pAnualPredialP5_Result">
+          <ScalarProperty Name="ORDEN" ColumnName="ORDEN" />
+          <ScalarProperty Name="DESCRIPCION" ColumnName="DESCRIPCION" />
+          <ScalarProperty Name="PADRON" ColumnName="PADRON" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="pConsultaBitacora" FunctionName="PredialModel.Store.pConsultaBitacora" />
+    <FunctionImportMapping FunctionImportName="pReporteIngresos" FunctionName="PredialModel.Store.pReporteIngresos">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PredialModel.pReporteIngresos_Result">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="cri" ColumnName="cri" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+          <ScalarProperty Name="descuento" ColumnName="descuento" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="pReporteIngresosConDescuento" FunctionName="PredialModel.Store.pReporteIngresosConDescuento">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PredialModel.pReporteIngresosConDescuento_Result">
+          <ScalarProperty Name="IdConcepto" ColumnName="IdConcepto" />
+          <ScalarProperty Name="orden" ColumnName="orden" />
+          <ScalarProperty Name="Clave" ColumnName="Clave" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Neto" ColumnName="Neto" />
+          <ScalarProperty Name="Descuento" ColumnName="Descuento" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+          <ScalarProperty Name="Recibos" ColumnName="Recibos" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="pReporteIngresosConsulta" FunctionName="PredialModel.Store.pReporteIngresosConsulta">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PredialModel.pReporteIngresosConsulta_Result">
+          <ScalarProperty Name="IdConcepto" ColumnName="IdConcepto" />
+          <ScalarProperty Name="orden" ColumnName="orden" />
+          <ScalarProperty Name="Clave" ColumnName="Clave" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+          <ScalarProperty Name="Recibos" ColumnName="Recibos" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="pReporteIngresosPorConcepto" FunctionName="PredialModel.Store.pReporteIngresosPorConcepto">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PredialModel.pReporteIngresosPorConcepto_Result">
+          <ScalarProperty Name="IdConcepto" ColumnName="IdConcepto" />
+          <ScalarProperty Name="orden" ColumnName="orden" />
+          <ScalarProperty Name="Clave" ColumnName="Clave" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+          <ScalarProperty Name="Recibos" ColumnName="Recibos" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="pReporteIngresosPorConceptoAgrupado" FunctionName="PredialModel.Store.pReporteIngresosPorConceptoAgrupado">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PredialModel.pReporteIngresosPorConceptoAgrupado_Result">
+          <ScalarProperty Name="IdConcepto" ColumnName="IdConcepto" />
+          <ScalarProperty Name="orden" ColumnName="orden" />
+          <ScalarProperty Name="Clave" ColumnName="Clave" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+          <ScalarProperty Name="Recibos" ColumnName="Recibos" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="pReporteIngresosPrepolizaConsulta" FunctionName="PredialModel.Store.pReporteIngresosPrepolizaConsulta">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PredialModel.pReporteIngresosPrepolizaConsulta_Result">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="orden" ColumnName="orden" />
+          <ScalarProperty Name="Clave" ColumnName="Clave" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Recibos" ColumnName="Recibos" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="pReporteIngresosRecibos" FunctionName="PredialModel.Store.pReporteIngresosRecibos" />
+    <FunctionImportMapping FunctionImportName="pReporteIngresosTabular" FunctionName="PredialModel.Store.pReporteIngresosTabular">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PredialModel.pReporteIngresosTabular_Result">
+          <ScalarProperty Name="FechaPago" ColumnName="FechaPago" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="IdConcepto" ColumnName="IdConcepto" />
+          <ScalarProperty Name="orden" ColumnName="orden" />
+          <ScalarProperty Name="Clave" ColumnName="Clave" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="pReporteIngresosXcajero" FunctionName="PredialModel.Store.pReporteIngresosXcajero">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PredialModel.pReporteIngresosXcajero_Result">
+          <ScalarProperty Name="UsuarioCobra" ColumnName="UsuarioCobra" />
+          <ScalarProperty Name="TIPOCOBRO" ColumnName="TIPOCOBRO" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="ImportePagado" ColumnName="ImportePagado" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="pVentanasPrimerNivel" FunctionName="PredialModel.Store.pVentanasPrimerNivel">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PredialModel.pVentanasPrimerNivel_Result">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Ventana" ColumnName="Ventana" />
+          <ScalarProperty Name="clave" ColumnName="clave" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+          <ScalarProperty Name="IdUsuario" ColumnName="IdUsuario" />
+          <ScalarProperty Name="orden" ColumnName="orden" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_alterdiagram" FunctionName="PredialModel.Store.sp_alterdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_creatediagram" FunctionName="PredialModel.Store.sp_creatediagram" />
+    <FunctionImportMapping FunctionImportName="sp_dropdiagram" FunctionName="PredialModel.Store.sp_dropdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_helpdiagramdefinition" FunctionName="PredialModel.Store.sp_helpdiagramdefinition">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PredialModel.sp_helpdiagramdefinition_Result">
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_helpdiagrams" FunctionName="PredialModel.Store.sp_helpdiagrams">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PredialModel.sp_helpdiagrams_Result">
+          <ScalarProperty Name="Database" ColumnName="Database" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Owner" ColumnName="Owner" />
+          <ScalarProperty Name="OwnerID" ColumnName="OwnerID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_renamediagram" FunctionName="PredialModel.Store.sp_renamediagram" />
+    <FunctionImportMapping FunctionImportName="sp_upgraddiagrams" FunctionName="PredialModel.Store.sp_upgraddiagrams" />
+    <FunctionImportMapping FunctionImportName="spCalculaImpuestoH" FunctionName="PredialModel.Store.spCalculaImpuestoH">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PredialModel.spCalculaImpuestoH_Result">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="ClavePredial" ColumnName="ClavePredial" />
+          <ScalarProperty Name="BimestreFinIp" ColumnName="BimestreFinIp" />
+          <ScalarProperty Name="AaFinalIp" ColumnName="AaFinalIp" />
+          <ScalarProperty Name="TipoPredio" ColumnName="TipoPredio" />
+          <ScalarProperty Name="PeriodoCobro" ColumnName="PeriodoCobro" />
+          <ScalarProperty Name="Rezago" ColumnName="Rezago" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="spCalculaImpuestoHactual" FunctionName="PredialModel.Store.spCalculaImpuestoHactual">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PredialModel.spCalculaImpuestoHactual_Result">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="ClavePredial" ColumnName="ClavePredial" />
+          <ScalarProperty Name="BimestreFinIp" ColumnName="BimestreFinIp" />
+          <ScalarProperty Name="AaFinalIp" ColumnName="AaFinalIp" />
+          <ScalarProperty Name="TipoPredio" ColumnName="TipoPredio" />
+          <ScalarProperty Name="PeriodoCobro" ColumnName="PeriodoCobro" />
+          <ScalarProperty Name="actual" ColumnName="actual" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,199 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GeneraRecibo33
+</name>
+</assembly>
+<members>
+<member name="T:GeneraRecibo33.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:GeneraRecibo33.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:GeneraRecibo33.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:GeneraRecibo33.NumLetras">
+ <summary>
+ Convierte números en su expresión numérica a su numeral cardinal
+ </summary>
+</member>
+<member name="P:GeneraRecibo33.NumLetras.Decimales">
+ <summary>
+ Indica la cantidad de decimales que se pasarán a entero para la conversión
+ </summary>
+ <remarks>Esta propiedad cambia al cambiar MascaraDecimal por un valor que empieze con '0'</remarks>
+</member>
+<member name="P:GeneraRecibo33.NumLetras.CultureInfo">
+ <summary>
+ Objeto CultureInfo utilizado para convertir las cadenas de entrada en números
+ </summary>
+</member>
+<member name="P:GeneraRecibo33.NumLetras.SeparadorDecimalSalida">
+ <summary>
+ Indica la cadena a intercalar entre la parte entera y la decimal del número
+ </summary>
+</member>
+<member name="P:GeneraRecibo33.NumLetras.MascaraSalidaDecimal">
+ <summary>
+ Indica el formato que se le dara a la parte decimal del número
+ </summary>
+</member>
+<member name="P:GeneraRecibo33.NumLetras.LetraCapital">
+ <summary>
+ Indica si la primera letra del resultado debe estár en mayúscula
+ </summary>
+</member>
+<member name="P:GeneraRecibo33.NumLetras.ConvertirDecimales">
+ <summary>
+ Indica si se deben convertir los decimales a su expresión nominal
+ </summary>
+</member>
+<member name="P:GeneraRecibo33.NumLetras.ApocoparUnoParteEntera">
+ <summary>
+ Indica si de debe cambiar "uno" por "un" en las unidades.
+ </summary>
+</member>
+<member name="P:GeneraRecibo33.NumLetras.ApocoparUnoParteDecimal">
+ <summary>
+ Determina si se debe apococopar el "uno" en la parte decimal
+ </summary>
+ <remarks>El valor de esta propiedad cambia al setear ConvertirDecimales</remarks>
+</member>
+<member name="T:GeneraRecibo33.ServiceTimbradoXpress.RespuestaConsultarCFDI">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaConsultarCFDI.code">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaConsultarCFDI.message">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaConsultarCFDI.data">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo33.ServiceTimbradoXpress.RespuestaValidacion">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaValidacion.code">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaValidacion.message">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaValidacion.data">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo33.ServiceTimbradoXpress.RespuestaTimbradoSP">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaTimbradoSP.code">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaTimbradoSP.message">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaTimbradoSP.data">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo33.ServiceTimbradoXpress.RespuestaAutorizar">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaAutorizar.code">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaAutorizar.message">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaAutorizar.data">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo33.ServiceTimbradoXpress.RespuestaPendientes">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaPendientes.code">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaPendientes.message">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaPendientes.data">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo33.ServiceTimbradoXpress.RespuestaRelacionados">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaRelacionados.code">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaRelacionados.message">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaRelacionados.data">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo33.ServiceTimbradoXpress.RespuestaCreditos">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaCreditos.code">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaCreditos.message">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaCreditos.data">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo33.ServiceTimbradoXpress.RespuestaEstatusSAT">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaEstatusSAT.CodigoEstatus">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaEstatusSAT.EsCancelable">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaEstatusSAT.Estado">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaEstatusSAT.EstatusCancelacion">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo33.ServiceTimbradoXpress.RespuestaCancelar">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaCancelar.code">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaCancelar.message">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaCancelar.data">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaCancelar.status">
+<remarks/>
+</member>
+<member name="T:GeneraRecibo33.ServiceTimbradoXpress.RespuestaTimbrado">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaTimbrado.code">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaTimbrado.message">
+<remarks/>
+</member>
+<member name="P:GeneraRecibo33.ServiceTimbradoXpress.RespuestaTimbrado.data">
+<remarks/>
+</member>
+</members>
+</doc>

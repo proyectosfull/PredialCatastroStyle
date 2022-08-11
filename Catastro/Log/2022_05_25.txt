@@ -1,0 +1,7 @@
+**************************
+Fecha Hora de la insercion del recibo: 25/05/2022 10:22:14 p. m.
+IdPredio=774
+Periodo  =1/2018 AL 3/18
+IdTipoTramite=1
+tipo=IP
+**************************

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3  http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" serie="T" folio="000010" fecha="2016-10-22T11:44:46" sello="g0hWCUVqyM+giSNzQSRyAIPcMEPnKBJXma5IrCTvEjH3cbA+flKOw2Yi+mvofgPdaBG7v+8jWMYYOm2WsKSoob7Zz3E8k5B235rvNRnQVUyF3qRoXSnE4kfnoUPOFdPfHx6+vRx77oTk0mN4FKLkZGWwcOm+3tI0XoyRJlqmn9Y=" formaDePago="EFECTIVO" noCertificado="30001000000100000809" certificado="MIIE/jCCA+agAwIBAgIUMzAwMDEwMDAwMDAxMDAwMDA4MDkwDQYJKoZIhvcNAQEF&#xD;&#xA;BQAwggFvMRgwFgYDVQQDDA9BLkMuIGRlIHBydWViYXMxLzAtBgNVBAoMJlNlcnZp&#xD;&#xA;Y2lvIGRlIEFkbWluaXN0cmFjacOzbiBUcmlidXRhcmlhMTgwNgYDVQQLDC9BZG1p&#xD;&#xA;bmlzdHJhY2nDs24gZGUgU2VndXJpZGFkIGRlIGxhIEluZm9ybWFjacOzbjEpMCcG&#xD;&#xA;CSqGSIb3DQEJARYaYXNpc25ldEBwcnVlYmFzLnNhdC5nb2IubXgxJjAkBgNVBAkM&#xD;&#xA;HUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDEL&#xD;&#xA;MAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxEjAQBgNVBAcM&#xD;&#xA;CUNveW9hY8OhbjEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTIwMAYJKoZIhvcNAQkC&#xD;&#xA;DCNSZXNwb25zYWJsZTogSMOpY3RvciBPcm5lbGFzIEFyY2lnYTAeFw0xMDA3MzAx&#xD;&#xA;NjU4NDhaFw0xMjA3MjkxNjU4NDhaMIGXMRIwEAYDVQQDDAlNYXRyaXogU0ExEjAQ&#xD;&#xA;BgNVBCkMCU1hdHJpeiBTQTESMBAGA1UECgwJTWF0cml6IFNBMSUwIwYDVQQtExxB&#xD;&#xA;QUEwMTAxMDFBQUEgLyBBQUFBMDEwMTAxQUFBMR4wHAYDVQQFExUgLyBBQUFBMDEw&#xD;&#xA;MTAxSERGUlhYMDExEjAQBgNVBAsMCVVuaWRhZCAxMDCBnzANBgkqhkiG9w0BAQEF&#xD;&#xA;AAOBjQAwgYkCgYEAsKL9mh8flpnQXVmtOvDnSYgtfRMTPe/4JQMivUYEr6sEAUIQ&#xD;&#xA;u8tR0xlR0OcDP9LZBfTddUwK2zjiTCQiQhAkgsn8EQsZGI9cisqrePtRXfH/GwLl&#xD;&#xA;7l2IHMsAdI4Xvy6GRbszobt2IRuIZLj0MGv5/NcSmQTWv1QkSXMKaSUQ3BsCAwEA&#xD;&#xA;AaOB6jCB5zAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDAdBgNVHQ4EFgQUTwXU&#xD;&#xA;S0hPz51Nk4KyPhJLgP9qMYYwLgYDVR0fBCcwJTAjoCGgH4YdaHR0cDovL3BraS5z&#xD;&#xA;YXQuZ29iLm14L3NhdC5jcmwwMwYIKwYBBQUHAQEEJzAlMCMGCCsGAQUFBzABhhdo&#xD;&#xA;dHRwOi8vb2NzcC5zYXQuZ29iLm14LzAfBgNVHSMEGDAWgBTrWX0EIppTjZ5xGqBY&#xD;&#xA;lin1OeCgxTAQBgNVHSAECTAHMAUGAyoDBDATBgNVHSUEDDAKBggrBgEFBQcDAjAN&#xD;&#xA;BgkqhkiG9w0BAQUFAAOCAQEAtIP05qlz0J4dITRpQ0mEz47svkoRNHqTlQOXgXGe&#xD;&#xA;EfpF9ZowHIjvOw6nL1srLJWHh+c/RhN03gJ1tevw9In5vxMPITlmTeUGrWNqVef5&#xD;&#xA;U5hDkA/bg0clEEiVAuyO+r9cYq8l8EZ9Ip6fl9YMmGD80gC/nFDdbhQ04RaelyUh&#xD;&#xA;9Gv6pRAOtDevhyjqNupuOoR/Zzt7qMIb5/F7xflPDV6YvO7CS/1E9KGnixIJmdH/&#xD;&#xA;JqHm4FdIkeal1zJlN6MBYXgIewnuxkfObS8ZS7GhX9YYCctk+FnHvHDRgx3kmtZW&#xD;&#xA;hh0AvEsaZMiZ3IoI1s8xLDPgmY8vJwlbe4IY+qFisczBKA==&#xD;&#xA;" subTotal="1943" descuento="844" Moneda="M.N." total="1099" tipoDeComprobante="ingreso" metodoDePago="EFECTIVO" LugarExpedicion="YAUTEPEC, MORELOS" NumCtaPago="123456789" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor rfc="XAXX010101000" nombre="YAUTEPEC DE ZARAGOZA">
+    <cfdi:DomicilioFiscal calle="CENTRO" noExterior="1" colonia="CENTRO" localidad="CENTRO" referencia="N/A" municipio="YAUTEPEC" estado="MORELOS" pais="MEXICO" codigoPostal="62700" />
+    <cfdi:RegimenFiscal Regimen="PERSONAS MORALES CON FINES NO LUCRATIVOS" />
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="XAXX010101000" nombre="RUEDA ROSAS EMMANUEL                                                        510107002001              -">
+    <cfdi:Domicilio calle="Z.01 MZA.02 LT.01 SAN CARLOS                                                                               LOS ARCOS                                    " noExterior="     " noInterior=" " colonia="LOS ARCOS" localidad="                                   " referencia="510107002001   " municipio="YAUTEPEC DE ZARAGOZA" estado="MORELOS" pais="MEXICO" codigoPostal="     " />
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="N/A" noIdentificacion="1.2.1.1.1.1" descripcion="PREDIOS URBANOS A.- SOBRE LOS PRIMEROS $ 70,000.00 DE LA BASE GRAVABLE. 1 2016 al 6 2016. Subtotal $ 348 Descuento aplicado de 174" valorUnitario="348" importe="348">
+      <cfdi:CuentaPredial numero="510107002001   " />
+    </cfdi:Concepto>
+    <cfdi:Concepto cantidad="1" unidad="N/A" noIdentificacion="1.2.1.1.1.1" descripcion="PREDIOS URBANOS A.- SOBRE LOS PRIMEROS $ 70,000.00 DE LA BASE GRAVABLE. Subtotal $ 944 Descuento aplicado de 472" valorUnitario="944" importe="944">
+      <cfdi:CuentaPredial numero="510107002001   " />
+    </cfdi:Concepto>
+    <cfdi:Concepto cantidad="1" unidad="N/A" noIdentificacion="6.1.15.3.1" descripcion="RECARGOS EN CONCEPTO DE INDEMNIZACIÓN AL FISCO . Subtotal $ 307 Descuento aplicado de 308" valorUnitario="307" importe="307">
+      <cfdi:CuentaPredial numero="510107002001   " />
+    </cfdi:Concepto>
+    <cfdi:Concepto cantidad="1" unidad="N/A" noIdentificacion="6.1.15.3.1" descripcion="RECARGOS EN CONCEPTO DE INDEMNIZACIÓN AL FISCO . Subtotal $ 21" valorUnitario="21" importe="21">
+      <cfdi:CuentaPredial numero="510107002001   " />
+    </cfdi:Concepto>
+    <cfdi:Concepto cantidad="1" unidad="N/A" noIdentificacion="1.8.1.1" descripcion="IMPUESTO ADICIONAL 25% GENERAL PARA EL MUNICIPIO. Subtotal $ 323 Descuento aplicado de 44" valorUnitario="323" importe="323">
+      <cfdi:CuentaPredial numero="510107002001   " />
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos />
+</cfdi:Comprobante>

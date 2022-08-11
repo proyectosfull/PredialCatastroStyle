@@ -1,0 +1,6 @@
+**************************
+Fecha Hora de la insercion del recibo: 16/06/2022 12:37:41 p. m.
+idtramite=101045
+Contribuyente=VIRIDIANA ALCANTARA LOPEZ
+DatosPredio=Clave Catastral: 1200-03-462-046     Tipo predio: URBANO     Super. Terreno: 59m2.     Super. Const.: 72m2.    Base gravable: $151830
+**************************

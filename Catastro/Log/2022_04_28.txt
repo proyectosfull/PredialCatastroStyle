@@ -1,0 +1,35 @@
+**************************
+Fecha Hora de la insercion del recibo: 28/04/2022 01:34:58 a. m.
+IdPredio=34164
+Periodo  =1 2022 - 6 2022
+IdTipoTramite=5
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 28/04/2022 06:24:45 a. m.
+IdPredio=34164
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 28/04/2022 09:22:42 a. m.
+IdPredio=34164
+Periodo  =
+IdTipoTramite=7
+tipo=IP
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 28/04/2022 09:52:13 a. m.
+IdPredio=8006
+Periodo  =
+IdTipoTramite=3
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 28/04/2022 09:52:19 a. m.
+IdPredio=8006
+Periodo  =
+IdTipoTramite=3
+tipo=
+**************************

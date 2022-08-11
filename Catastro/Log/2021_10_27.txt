@@ -1,0 +1,21 @@
+**************************
+Fecha Hora de la insercion del recibo: 27/10/2021 01:04:08 a. m.
+IdPredio=17
+Periodo  =
+IdTipoTramite=3
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 27/10/2021 01:04:08 a. m.
+IdPredio=17
+Periodo  =
+IdTipoTramite=3
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 27/10/2021 01:04:09 a. m.
+IdPredio=17
+Periodo  =
+IdTipoTramite=3
+tipo=
+**************************

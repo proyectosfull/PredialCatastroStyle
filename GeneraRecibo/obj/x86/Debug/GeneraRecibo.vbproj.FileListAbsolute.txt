@@ -1,0 +1,4 @@
+C:\Proyecto\Sipred\Sipred\GeneraRecibo\obj\x86\Debug\GeneraRecibo.vbprojAssemblyReference.cache
+C:\Proyecto\Sipred\Sipred\GeneraRecibo\obj\x86\Debug\GeneraRecibo.Resources.resources
+C:\Proyecto\Sipred\Sipred\GeneraRecibo\obj\x86\Debug\GeneraRecibo.vbproj.GenerateResource.cache
+C:\Proyecto\Sipred\Sipred\GeneraRecibo\obj\x86\Debug\GeneraRecibo.vbproj.CoreCompileInputs.cache

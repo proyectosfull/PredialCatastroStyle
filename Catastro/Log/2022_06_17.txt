@@ -1,0 +1,26 @@
+**************************
+Fecha Hora de la insercion del recibo: 17/06/2022 12:10:56 p. m.
+IdPredio=16268
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 17/06/2022 12:31:58 p. m.
+idtramite=102030
+Contribuyente=ESPEJOS INTELIGENTES, S.A. DE C.V.
+DatosPredio=Clave Catastral: 1200-02-301-008     Tipo predio: URBANO     Super. Terreno: 9509m2.     Super. Const.: 5387m2.    Base gravable: $18092573
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 17/06/2022 12:33:14 p. m.
+IdPredio=16268
+Periodo  =
+IdTipoTramite=4
+tipo=
+**************************
+**************************
+Fecha Hora de la insercion del recibo: 17/06/2022 12:33:58 p. m.
+idtramite=102031
+Contribuyente=ESPEJOS INTELIGENTES, S.A. DE C.V.
+DatosPredio=Clave Catastral: 1200-02-301-008     Tipo predio: URBANO     Super. Terreno: 9509m2.     Super. Const.: 5387m2.    Base gravable: $18092573
+**************************
